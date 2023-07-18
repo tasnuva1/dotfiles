@@ -1,0 +1,311 @@
+{
+  "geometry-of-main_window_geometry": {
+    "frame_geometry": {
+      "height": 741,
+      "width": 1366,
+      "x": 0,
+      "y": 27
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 712,
+      "width": 1366,
+      "x": 0,
+      "y": 56
+    },
+    "maximized": true,
+    "normal_geometry": {
+      "height": 512,
+      "width": 455,
+      "x": 455,
+      "y": 154
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAAAAAAGwAABVUAAAL/AAABxwAAAJoAAAONAAACmQAAAAACAAAABVYAAAAAAAAAOAAABVUAAAL/"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Samsung Display Corp.",
+      "model": "",
+      "name": "LVDS-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-viewer_image_popup_geometry": {
+    "frame_geometry": {
+      "height": 124,
+      "width": 728,
+      "x": 317,
+      "y": 306
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 124,
+      "width": 728,
+      "x": 317,
+      "y": 306
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 124,
+      "width": 728,
+      "x": 317,
+      "y": 306
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAE9AAABMgAABBQAAAGtAAABPQAAATIAAAQUAAABrQAAAAAAAAAABVYAAAE9AAABMgAABBQAAAGt"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "SDC",
+      "model": "",
+      "name": "LVDS-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "local_storage": {
+    "search-bar-history-search-for-sc": [
+      "read"
+    ],
+    "simple_input_history_net_search_url": [
+      "https://google.com/search?q={q}"
+    ]
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAEAAAACyPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawEAAAAAAAACyAAAAIoA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAmgD///8AAAABAAABBQAAAsj8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAAAAAsgAAACEAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAPIA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAFAD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAAAAACyAAAANIA////AAAEUAAAAsgAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "base_font_size": 16,
+    "controls_footer": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "progress"
+    },
+    "controls_help_shown_count": 2,
+    "current_color_scheme": "*New",
+    "footer": {
+      "left": "pos-book",
+      "middle": "empty",
+      "right": "progress"
+    },
+    "header": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "empty"
+    },
+    "hide_tooltips": null,
+    "highlight_style": {
+      "kind": "color",
+      "type": "builtin",
+      "which": "yellow"
+    },
+    "keyboard_shortcuts": {},
+    "left-margin": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "empty"
+    },
+    "override_book_colors": "never",
+    "right-margin": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "empty"
+    },
+    "selection_bar_actions": [
+      "copy",
+      "lookup",
+      "quick_highlight",
+      "remove_highlight",
+      "clear"
+    ],
+    "standalone_font_settings": {
+      "sans_family": "Roboto Medium",
+      "serif_family": "Inter"
+    },
+    "standalone_misc_settings": {},
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Evi Nemeth",
+          "Garth Snyder",
+          "Trent R. Hein",
+          "Ben Whaley",
+          "Dan Mackin"
+        ],
+        "key": "/home/tasnuva/Calibre Library/Evi Nemeth/UNIX and Linux System Administration Handbook (127)/UNIX and Linux System Administration Handb - Evi Nemeth.epub",
+        "pathtoebook": "/home/tasnuva/Calibre Library/Evi Nemeth/UNIX and Linux System Administration Handbook (127)/UNIX and Linux System Administration Handb - Evi Nemeth.epub",
+        "timestamp": "2023-07-10T12:15:43.091Z",
+        "title": "UNIX and Linux System Administration Handbook"
+      },
+      {
+        "authors": [
+          "Tim McNamara"
+        ],
+        "key": "/home/tasnuva/Calibre Library/Tim McNamara/Rust in Action_ Systems programming concepts and techniques (117)/Rust in Action_ Systems programming concep - Tim McNamara.epub",
+        "pathtoebook": "/home/tasnuva/Calibre Library/Tim McNamara/Rust in Action_ Systems programming concepts and techniques (117)/Rust in Action_ Systems programming concep - Tim McNamara.epub",
+        "timestamp": "2023-06-20T01:14:41.604Z",
+        "title": "Rust in Action: Systems programming concepts and techniques"
+      },
+      {
+        "authors": [
+          "Steve Klabnik",
+          "Carol Nichols"
+        ],
+        "key": "/home/tasnuva/Calibre Library/Steve Klabnik/The Rust Programming Language (120)/The Rust Programming Language - Steve Klabnik.epub",
+        "pathtoebook": "/home/tasnuva/Calibre Library/Steve Klabnik/The Rust Programming Language (120)/The Rust Programming Language - Steve Klabnik.epub",
+        "timestamp": "2023-06-18T12:14:22.324Z",
+        "title": "The Rust Programming Language"
+      },
+      {
+        "authors": [
+          "Ryder Carroll"
+        ],
+        "key": "/home/tasnuva/Calibre Library/Ryder Carroll/The Bullet Journal Method_ Track the Past, Order the Present, Design the Future (121)/The Bullet Journal Method_ Track the Past, - Ryder Carroll.epub",
+        "pathtoebook": "/home/tasnuva/Calibre Library/Ryder Carroll/The Bullet Journal Method_ Track the Past, Order the Present, Design the Future (121)/The Bullet Journal Method_ Track the Past, - Ryder Carroll.epub",
+        "timestamp": "2023-06-12T18:42:23.900Z",
+        "title": "The Bullet Journal Method: Track the Past, Order the Present, Design the Future"
+      },
+      {
+        "authors": [
+          "Steve Klabnik",
+          "Carol Nichols"
+        ],
+        "key": "/home/tasnuva/Calibre Library/Steve Klabnik/The Rust Programming Language (119)/The Rust Programming Language - Steve Klabnik.epub",
+        "pathtoebook": "/home/tasnuva/Calibre Library/Steve Klabnik/The Rust Programming Language (119)/The Rust Programming Language - Steve Klabnik.epub",
+        "timestamp": "2023-06-10T13:09:08.973Z",
+        "title": "The Rust Programming Language"
+      },
+      {
+        "authors": [
+          "Steve Klabnik",
+          "Carol Nichols"
+        ],
+        "key": "/home/tasnuva/Calibre Library/Steve Klabnik/Keywords Currently in Use (116)/Keywords Currently in Use - Steve Klabnik.epub",
+        "pathtoebook": "/home/tasnuva/Calibre Library/Steve Klabnik/Keywords Currently in Use (116)/Keywords Currently in Use - Steve Klabnik.epub",
+        "timestamp": "2023-05-27T11:14:18.639Z",
+        "title": "Keywords Currently in Use"
+      },
+      {
+        "authors": [
+          "Steve Klabnik",
+          "Carol Nichols"
+        ],
+        "key": "/home/tasnuva/Calibre Library/Steve Klabnik/The Rust Programming Language Split (97)/The Rust Programming Language Split - Steve Klabnik.epub",
+        "pathtoebook": "/home/tasnuva/Calibre Library/Steve Klabnik/The Rust Programming Language Split (97)/The Rust Programming Language Split - Steve Klabnik.epub",
+        "timestamp": "2023-05-27T11:13:44.665Z",
+        "title": "The Rust Programming Language Split"
+      },
+      {
+        "authors": [
+          "Steve Klabnik",
+          "Carol Nichols"
+        ],
+        "key": "/home/tasnuva/Calibre Library/Steve Klabnik/The Rust Programming Language (10)/The Rust Programming Language - Steve Klabnik.epub",
+        "pathtoebook": "/home/tasnuva/Calibre Library/Steve Klabnik/The Rust Programming Language (10)/The Rust Programming Language - Steve Klabnik.epub",
+        "timestamp": "2023-05-27T08:27:02.173Z",
+        "title": "The Rust Programming Language"
+      },
+      {
+        "authors": [
+          "Carol Nichols"
+        ],
+        "key": "/home/tasnuva/Calibre Library/Carol Nichols/The Rust Programming Language (Covers Rust 2018) (8)/The Rust Programming Language (Covers Rust - Carol Nichols.epub",
+        "pathtoebook": "/home/tasnuva/Calibre Library/Carol Nichols/The Rust Programming Language (Covers Rust 2018) (8)/The Rust Programming Language (Covers Rust - Carol Nichols.epub",
+        "timestamp": "2023-05-15T19:13:59.819Z",
+        "title": "The Rust Programming Language (Covers Rust 2018)"
+      },
+      {
+        "authors": [
+          "Carroll, Ryder"
+        ],
+        "key": "/home/tasnuva/Downloads/tor-browser/Browser/Downloads/The Bullet Journal Method Track the Past, Order the Present, Design the Future (Ryder Carroll) (Z-Library).epub",
+        "pathtoebook": "/home/tasnuva/Downloads/tor-browser/Browser/Downloads/The Bullet Journal Method Track the Past, Order the Present, Design the Future (Ryder Carroll) (Z-Library).epub",
+        "timestamp": "2023-04-30T10:38:12.945Z",
+        "title": "The Bullet Journal Method: Track Your Past, Order Your Present, Plan Your Future"
+      },
+      {
+        "key": "/home/tasnuva/Calibre Library/Unknown/Algebra 1.quizzes.pdf (7)/Algebra 1.quizzes.pdf - Unknown.pdf",
+        "pathtoebook": "/home/tasnuva/Calibre Library/Unknown/Algebra 1.quizzes.pdf (7)/Algebra 1.quizzes.pdf - Unknown.pdf",
+        "timestamp": "2023-04-15T20:42:56.266Z",
+        "title": "Algebra 1.quizzes.pdf"
+      },
+      {
+        "key": "/home/tasnuva/Calibre Library/Unknown/Algebra 1.quizzes.pdf (6)/Algebra 1.quizzes.pdf - Unknown.pdf",
+        "pathtoebook": "/home/tasnuva/Calibre Library/Unknown/Algebra 1.quizzes.pdf (6)/Algebra 1.quizzes.pdf - Unknown.pdf",
+        "timestamp": "2023-04-15T03:17:11.778Z",
+        "title": "Algebra 1.quizzes.pdf"
+      },
+      {
+        "key": "/home/tasnuva/Calibre Library/Unknown/Aspose (5)/Aspose - Unknown.epub",
+        "pathtoebook": "/home/tasnuva/Calibre Library/Unknown/Aspose (5)/Aspose - Unknown.epub",
+        "timestamp": "2023-04-15T02:48:35.802Z",
+        "title": "Aspose"
+      },
+      {
+        "key": "/home/tasnuva/Calibre Library/Unknown/1_ (3)/1_ - Unknown.epub",
+        "pathtoebook": "/home/tasnuva/Calibre Library/Unknown/1_ (3)/1_ - Unknown.epub",
+        "timestamp": "2023-04-14T23:58:55.104Z",
+        "title": "1."
+      },
+      {
+        "key": "/home/tasnuva/Calibre Library/Unknown/1. Class-11-12 ICT (E.V) com opt 1-50 (1) (2)/1. Class-11-12 ICT (E.V) com opt 1-50 (1) - Unknown.pdf",
+        "pathtoebook": "/home/tasnuva/Calibre Library/Unknown/1. Class-11-12 ICT (E.V) com opt 1-50 (1) (2)/1. Class-11-12 ICT (E.V) com opt 1-50 (1) - Unknown.pdf",
+        "timestamp": "2023-04-14T23:35:26.610Z",
+        "title": "1. Class-11-12 ICT (E.V) com opt 1-50 (1)"
+      }
+    ],
+    "user_color_schemes": {
+      "*New": {
+        "background": "#ffffff",
+        "foreground": "#757575",
+        "link": "#ff5500",
+        "margin_bottom": "#ffffff:#757575",
+        "margin_left": "#ffffff:#757575",
+        "margin_right": "#ffffff:#757575",
+        "margin_top": "#ffffff:#757575",
+        "name": "New"
+      }
+    },
+    "user_stylesheet": "body {\noverflow-wrap: break-word;\nletter-spacing: .028px;\nline-height: 1.6;\ncolor: #757575;\n}\n"
+  }
+}

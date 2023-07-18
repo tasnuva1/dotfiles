@@ -1,0 +1,17 @@
+[$Version]
+update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
+
+[GuiConfig]
+captureMode=5
+cropRegion=982,320,80,128
+window-position=0,27
+
+[KFileDialog Settings]
+Recent Files[$e]=file:///run/media/tasnuva/DAC28067C2804A29/Downloads/Youtube_videos/Music/Screenshot_20230327_210658.png,file:///run/media/tasnuva/DAC28067C2804A29/Downloads/Youtube_videos/Music/Screenshot_20230327_210658.png
+Recent URLs[$e]=file:///run/media/tasnuva/DAC28067C2804A29/Downloads/Youtube_videos/Music/
+detailViewIconSize=16
+
+[Save]
+lastSaveAsLocation=file:///run/media/tasnuva/DAC28067C2804A29/Downloads/Youtube_videos/Music/Screenshot_20230327_210658.png
+lastSaveLocation=file:///home/tasnuva/Pictures/Screenshot_20230523_140613.png
+lastUsedSaveMode=Save

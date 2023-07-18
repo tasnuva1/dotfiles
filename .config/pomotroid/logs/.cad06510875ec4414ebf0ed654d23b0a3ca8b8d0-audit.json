@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/tasnuva/.config/pomotroid/logs/.cad06510875ec4414ebf0ed654d23b0a3ca8b8d0-audit.json",
+    "files": [
+        {
+            "date": 1678094894249,
+            "name": "/home/tasnuva/.config/pomotroid/logs/pomotroid-2023-03-06.log",
+            "hash": "888a00d739b3b4833afa5390b1a70176"
+        }
+    ]
+}

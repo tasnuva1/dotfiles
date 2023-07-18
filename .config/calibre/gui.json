@@ -1,0 +1,754 @@
+{
+  "action-layout-context-menu": [
+    "Edit Metadata",
+    "Send To Device",
+    "Save To Disk",
+    "Connect Share",
+    "Copy To Library",
+    null,
+    "Convert Books",
+    "View",
+    "Open Folder",
+    "Show Book Details",
+    "Similar Books",
+    "Tweak ePub",
+    null,
+    "Remove Books",
+    "EpubMerge",
+    "EpubSplit"
+  ],
+  "action-layout-context-menu-split": [
+    "Edit Metadata",
+    "Send To Device",
+    "Save To Disk",
+    "Connect Share",
+    "Copy To Library",
+    null,
+    "Convert Books",
+    "View",
+    "Open Folder",
+    "Show Book Details",
+    "Similar Books",
+    "Tweak ePub",
+    null,
+    "Remove Books",
+    "EpubMerge",
+    "EpubSplit"
+  ],
+  "action-layout-toolbar": [
+    "Add Books",
+    "Edit Metadata",
+    null,
+    "Convert Books",
+    "View",
+    null,
+    "Store",
+    "Donate",
+    "Fetch News",
+    "Help",
+    null,
+    "Remove Books",
+    "Choose Library",
+    "Save To Disk",
+    "Connect Share",
+    "Tweak ePub",
+    "Preferences",
+    "EpubMerge",
+    "EpubSplit"
+  ],
+  "action-layout-toolbar-device": [
+    "Add Books",
+    "Edit Metadata",
+    null,
+    "Convert Books",
+    "View",
+    "Send To Device",
+    null,
+    null,
+    "Location Manager",
+    null,
+    null,
+    "Fetch News",
+    "Save To Disk",
+    "Store",
+    "Connect Share",
+    null,
+    "Remove Books",
+    null,
+    "Help",
+    "Preferences",
+    "EpubMerge",
+    "EpubSplit"
+  ],
+  "book_details_splitter_horizontal_state": [
+    true,
+    200
+  ],
+  "book_list_pin_splitter_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAABAAAAAEYA/////wEAAAABAA=="
+  },
+  "choose-merge-dialog-splitter-state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAABigAAAQAA/////wEAAAABAA=="
+  },
+  "convert_single_dialog_geom": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywACAAAAAAAfAAAAIgAABTIAAALDAAAAIQAAAD8AAAUwAAACvwAAAAAAAAAABVY="
+  },
+  "cover_browser_splitter_vertical_state": [
+    false,
+    300
+  ],
+  "custom_colors_for_color_dialog": [
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ]
+  ],
+  "epubsplit:update list dialog": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAAAAAAAGwAABVUAAAL/AAABigAAAOYAAAO3AAACAQAAAAACAAAABVYAAAAAAAAAOAAABVUAAAL/"
+  },
+  "fts_search_splitter_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAAC//////////8A/////wEAAAABAA=="
+  },
+  "geometry-of-Plugin Updater plugin:plugin updater dialog": {
+    "frame_geometry": {
+      "height": 486,
+      "width": 916,
+      "x": 215,
+      "y": 129
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 486,
+      "width": 916,
+      "x": 215,
+      "y": 129
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 486,
+      "width": 916,
+      "x": 215,
+      "y": 129
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAADXAAAAgQAABGoAAAJmAAAA1wAAAIEAAARqAAACZgAAAAAAAAAABVYAAADXAAAAgQAABGoAAAJm"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "SDC",
+      "model": "",
+      "name": "LVDS-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-calibre_main_window_geometry": {
+    "frame_geometry": {
+      "height": 741,
+      "width": 1366,
+      "x": 0,
+      "y": 27
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 712,
+      "width": 1366,
+      "x": 0,
+      "y": 56
+    },
+    "maximized": true,
+    "normal_geometry": {
+      "height": 712,
+      "width": 1366,
+      "x": 0,
+      "y": 56
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAAAAAAGwAABVUAAAL/AAAAAAAAADgAAAVVAAAC/wAAAAACAAAABVYAAAAAAAAAOAAABVUAAAL/"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Samsung Display Corp.",
+      "model": "",
+      "name": "LVDS-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-choose-merge-dialog-geometry": {
+    "frame_geometry": {
+      "height": 357,
+      "width": 676,
+      "x": 335,
+      "y": 181
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 324,
+      "width": 672,
+      "x": 337,
+      "y": 210
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 324,
+      "width": 672,
+      "x": 337,
+      "y": 210
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAFPAAAAtQAAA/IAAAIZAAABUQAAANIAAAPwAAACFQAAAAAAAAAABVYAAAFRAAAA0gAAA/AAAAIV"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Samsung Display Corp.",
+      "model": "",
+      "name": "LVDS-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-convert_single_dialog_geom": {
+    "frame_geometry": {
+      "height": 641,
+      "width": 1296,
+      "x": 25,
+      "y": 56
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 641,
+      "width": 1296,
+      "x": 25,
+      "y": 56
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 641,
+      "width": 1296,
+      "x": 25,
+      "y": 56
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAZAAAAOAAABSgAAAK4AAAAGQAAADgAAAUoAAACuAAAAAAAAAAABVYAAAAZAAAAOAAABSgAAAK4"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "SDC",
+      "model": "",
+      "name": "LVDS-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-duplicates-question-dialog-geometry": {
+    "frame_geometry": {
+      "height": 380,
+      "width": 522,
+      "x": 410,
+      "y": 153
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 380,
+      "width": 522,
+      "x": 410,
+      "y": 153
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 380,
+      "width": 522,
+      "x": 410,
+      "y": 153
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAGaAAAAmQAAA6MAAAIUAAABmgAAAJkAAAOjAAACFAAAAAAAAAAABVYAAAGaAAAAmQAAA6MAAAIU"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Samsung Display Corp.",
+      "model": "",
+      "name": "LVDS-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-job-detail-view-dialog-geometry": {
+    "frame_geometry": {
+      "height": 500,
+      "width": 700,
+      "x": 313,
+      "y": 82
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 500,
+      "width": 700,
+      "x": 313,
+      "y": 82
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 500,
+      "width": 700,
+      "x": 313,
+      "y": 82
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAE5AAAAUgAAA/QAAAJFAAABOQAAAFIAAAP0AAACRQAAAAAAAAAABVYAAAE5AAAAUgAAA/QAAAJF"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "SDC",
+      "model": "",
+      "name": "LVDS-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-jobs_dialog_geometry": {
+    "frame_geometry": {
+      "height": 741,
+      "width": 1366,
+      "x": 0,
+      "y": 27
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 712,
+      "width": 1366,
+      "x": 0,
+      "y": 56
+    },
+    "maximized": true,
+    "normal_geometry": {
+      "height": 461,
+      "width": 906,
+      "x": 294,
+      "y": 303
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAAAAAAGwAABVUAAAL/AAABJgAAAS8AAASvAAAC+wAAAAACAAAABVYAAAAAAAAAOAAABVUAAAL/"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "SDC",
+      "model": "",
+      "name": "LVDS-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-library-fts-dialog-geometry": {
+    "frame_geometry": {
+      "height": 1,
+      "width": 1,
+      "x": 183,
+      "y": 57
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 680,
+      "width": 1000,
+      "x": 183,
+      "y": 57
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 680,
+      "width": 1000,
+      "x": 183,
+      "y": 57
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAC3AAAAOQAAALcAAAA5AAAAtwAAADkAAASeAAAC4AAAAAAAAAAABVYAAAC3AAAAOQAABJ4AAALg"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "SDC",
+      "model": "",
+      "name": "LVDS-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-plugin config dialog:User interface action:EpubSplit": {
+    "frame_geometry": {
+      "height": 712,
+      "width": 420,
+      "x": 471,
+      "y": 56
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 712,
+      "width": 420,
+      "x": 471,
+      "y": 56
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 712,
+      "width": 420,
+      "x": 471,
+      "y": 56
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAHXAAAAOAAAA3oAAAL/AAAB1wAAADgAAAN6AAAC/wAAAAAAAAAABVYAAAHXAAAAOAAAA3oAAAL/"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "SDC",
+      "model": "",
+      "name": "LVDS-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-preferences dialog geometry": {
+    "frame_geometry": {
+      "height": 712,
+      "width": 930,
+      "x": 208,
+      "y": 56
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 712,
+      "width": 930,
+      "x": 208,
+      "y": 56
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 712,
+      "width": 930,
+      "x": 208,
+      "y": 56
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAADQAAAAOAAABHEAAAL/AAAA0AAAADgAAARxAAAC/wAAAAAAAAAABVYAAADQAAAAOAAABHEAAAL/"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "SDC",
+      "model": "",
+      "name": "LVDS-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "grid view visible": false,
+  "jobs view column layout3": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfQAAAAFAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAAFAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAD6AA="
+  },
+  "jobs_dialog_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywACAAAAAAFtAAAAcAAAA+kAAAKuAAABbwAAAI0AAAPnAAACqgAAAAAAAAAABVY="
+  },
+  "library_usage_stats": {
+    "/home/tasnuva/Calibre Library": 76
+  },
+  "previous_sort_order_BooksView": {
+    "size": true
+  },
+  "quick_start_guide_added": true,
+  "quickview visible": false,
+  "replace_scene_breaks_history": [
+    "",
+    "<hr />",
+    "∗ ∗ ∗",
+    "• • •",
+    "♦ ♦ ♦",
+    "† †",
+    "‡ ‡ ‡",
+    "∞ ∞ ∞",
+    "¤ ¤ ¤"
+  ],
+  "search bar visible": true,
+  "tag browser search box visible": false,
+  "tag_browser_show_counts": false,
+  "tag_browser_splitter_horizontal_state": [
+    true,
+    200
+  ]
+}

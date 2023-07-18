@@ -1,0 +1,19 @@
+{
+    "LastRead": "/home/tasnuva/Local/Downloads/tor-browser/Browser/Downloads/Books/The Alchemist (Paulo Coelho) (Z-Library).epub",
+    "States": {
+        "/home/tasnuva/Downloads/tor-browser/Browser/Downloads/The Rust Programming Language (Covers Rust 2018) (Steve Klabnik Carol Nichols) (Z-Library).epub": {
+            "bmarks": [],
+            "index": 10,
+            "width": 80,
+            "pos": 422,
+            "pctg": 0.7021630615640599
+        },
+        "/home/tasnuva/Local/Downloads/tor-browser/Browser/Downloads/Books/The Alchemist (Paulo Coelho) (Z-Library).epub": {
+            "bmarks": [],
+            "index": 5,
+            "width": 91,
+            "pos": 0,
+            "pctg": 0.0
+        }
+    }
+}

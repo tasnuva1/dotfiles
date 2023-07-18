@@ -1,0 +1,78 @@
+[2023-03-06 15:37:01.210] [info]  Checking for update
+[2023-03-06 15:37:01.261] [info]  Generated new staging user ID: c0604e88-cf70-5ddf-ab14-acc951970a52
+[2023-03-06 15:37:17.439] [info]  Found version 1.2.2 (url: Pomatez-v1.2.2-linux.AppImage)
+[2023-03-06 15:37:17.453] [info]  Downloading update from Pomatez-v1.2.2-linux.AppImage
+[2023-03-06 15:37:17.455] [debug] updater cache dir: /home/tasnuva/.cache/pomatez-updater
+[2023-03-06 15:37:40.152] [info]  File has 146 changed blocks
+[2023-03-06 15:37:40.153] [debug] [
+  {
+    "kind": 0,
+    "start": 0,
+    "end": 159006
+  },
+  {
+    "kind": 1,
+    "start": 159006,
+    "end": 191774
+  },
+  {
+    "kind": 0,
+    "start": 191774,
+    "end": 77356783
+  },
+  {
+    "kind": 1,
+    "start": 77356783,
+    "end": 79644603
+  },
+  {
+    "kind": 0,
+    "start": 79594616,
+    "end": 79607479
+  },
+  {
+    "kind": 1,
+    "start": 79657466,
+    "end": 80557064
+  },
+  {
+    "kind": 0,
+    "start": 80506050,
+    "end": 86873979
+  },
+  {
+    "kind": 1,
+    "start": 86924993,
+    "end": 87001855
+  },
+  {
+    "kind": 0,
+    "start": 86991867,
+    "end": 87095585
+  },
+  {
+    "kind": 1,
+    "start": 87105573,
+    "end": 87142376
+  }
+]
+[2023-03-06 15:37:40.205] [info]  Full: 85,189.14 KB, To download: 3,255.71 KB (4%)
+[2023-03-06 15:37:40.208] [info]  Differential download: https://github.com/roldanjr/pomatez/releases/download/v1.2.2/Pomatez-v1.2.2-linux.AppImage
+[2023-03-06 15:37:40.211] [debug] download range: bytes=159006-191773
+[2023-03-06 15:37:40.771] [info]  Redirect to https://objects.githubusercontent.com/github-production-release-asset-2e65be/206254792/b007daef-ba70-4457-859d-2ce4ebf1b481
+[2023-03-06 15:37:42.530] [debug] download range: bytes=77356783-79644602
+[2023-03-06 15:38:26.668] [debug] download range: bytes=79657466-80557063
+[2023-03-06 15:38:36.757] [debug] download range: bytes=86924993-87001854
+[2023-03-06 15:38:37.137] [debug] download range: bytes=87105573-87142375
+[2023-03-06 15:38:37.466] [info]  New version 1.2.2 has been downloaded to /home/tasnuva/.cache/pomatez-updater/pending/Pomatez-v1.2.2-linux.AppImage
+[2023-03-06 22:55:37.716] [info]  Checking for update
+[2023-03-06 22:55:38.365] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7169)
+    at SimpleURLLoaderWrapper.emit (node:events:390:28)
+[2023-03-08 13:22:17.905] [info]  Checking for update
+[2023-03-08 13:22:29.268] [info]  Found version 1.2.2 (url: Pomatez-v1.2.2-linux.AppImage)
+[2023-03-08 13:22:29.288] [info]  Downloading update from Pomatez-v1.2.2-linux.AppImage
+[2023-03-08 13:22:29.290] [debug] updater cache dir: /home/tasnuva/.cache/pomatez-updater
+[2023-03-08 13:22:30.646] [info]  Update has already been downloaded to /home/tasnuva/.cache/pomatez-updater/pending/Pomatez-v1.2.2-linux.AppImage).
+[2023-03-08 19:34:24.719] [info]  Auto install update on quit
+[2023-03-08 19:34:24.923] [info]  Install: isSilent: true, isForceRunAfter: false

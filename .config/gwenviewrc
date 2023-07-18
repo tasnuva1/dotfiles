@@ -1,0 +1,52 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[General]
+LastUsedVersion=210800
+SideBarPage=operations
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=32
+
+[MainWindow]
+1366x768 screen: Height=712
+1366x768 screen: Width=1366
+1366x768 screen: Window-Maximized=true
+1366x768 screen: XPosition=0
+1366x768 screen: YPosition=56
+LVDS-1=LVDS-1
+LVDS-1 Height 1366x768 LVDS-1=594
+LVDS-1 Width 1366x768 LVDS-1=1001
+LVDS-1 Window-Maximized 1366x768 LVDS-1=true
+LVDS-1 XPosition 1366x768 LVDS-1=182
+LVDS-1 YPosition 1366x768 LVDS-1=113
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKaAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=/run/media/tasnuva/DAC28067C2804A29/Downloads/Documents/Notes/ICT/Chapter 3 Section 2/export/02.png
+File10[$e]=$HOME/Local/Downloads/tor-browser/Browser/Downloads/books/PrintableOne/simple1.jpeg
+File2[$e]=/run/media/tasnuva/DAC28067C2804A29/Downloads/Documents/Notes/ICT/Chapter 3 Section 2/export/03.png
+File3[$e]=/run/media/tasnuva/DAC28067C2804A29/Downloads/Documents/Notes/ICT/Chapter 3 Section 2/export/04.png
+File4[$e]=$HOME/Pictures/02.png
+File5[$e]=$HOME/Pictures/Exploring How Computers Work 8-44 screenshot.png
+File6[$e]=$HOME/Pictures/Exploring How Computers Work 8-54 screenshot.png
+File7[$e]=$HOME/Pictures/Exploring How Computers Work 9-32 screenshot 3.png
+File8[$e]=$HOME/Pictures/fiction.png
+File9[$e]=$HOME/Pictures/Exploring How Computers Work 10-43 screenshot 4.png
+Name1[$e]=02.png
+Name10[$e]=simple1.jpeg
+Name2[$e]=03.png
+Name3[$e]=04.png
+Name4[$e]=02.png
+Name5[$e]=Exploring How Computers Work 8-44 screenshot.png
+Name6[$e]=Exploring How Computers Work 8-54 screenshot.png
+Name7[$e]=Exploring How Computers Work 9-32 screenshot 3.png
+Name8[$e]=fiction.png
+Name9[$e]=Exploring How Computers Work 10-43 screenshot 4.png
+
+[SideBar]
+InformationSplitterSizes=221,254
+SideBarSplitterSizes=227,1138

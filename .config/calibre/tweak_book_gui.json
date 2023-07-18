@@ -1,0 +1,201 @@
+{
+  "check-book-splitter-state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAEAAAACAAAARgAAAEYA/////wEAAAABAA=="
+  }, 
+  "css-editor-state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAD9AAAAAAAABJwAAAHnAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAUAGEAYwB0AGkAbwBuAF8AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAF8AYgBhAHIBAAAA3f////8AAAAAAAAAAA=="
+  }, 
+  "custom_colors_for_color_dialog": [
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ]
+  ], 
+  "diff-dialog-geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywACAAAAAABBAAAAKwAABREAAAKbAAAAQwAAAEgAAAUPAAAClwAAAAAAAAAABVY="
+  }, 
+  "find-widget-state": {
+    "case_sensitive": false, 
+    "direction": "down", 
+    "dot_all": false, 
+    "mode": "normal", 
+    "where": "current", 
+    "wrap": true
+  }, 
+  "geometry-of-main_window_geometry": {
+    "frame_geometry": {
+      "height": 741, 
+      "width": 1366, 
+      "x": 0, 
+      "y": 27
+    }, 
+    "full_screened": false, 
+    "geometry": {
+      "height": 712, 
+      "width": 1366, 
+      "x": 0, 
+      "y": 56
+    }, 
+    "maximized": true, 
+    "normal_geometry": {
+      "height": 712, 
+      "width": 1366, 
+      "x": 0, 
+      "y": 56
+    }, 
+    "qt": {
+      "__class__": "bytearray", 
+      "__value__": "AdnQywADAAAAAAAAAAAAGwAABVUAAAL/AAAAAAAAADgAAAVVAAAC/wAAAAACAAAABVYAAAAAAAAAOAAABVUAAAL/"
+    }, 
+    "screen": {
+      "depth": 24, 
+      "device_pixel_ratio": 1.0, 
+      "geometry_in_logical_pixels": {
+        "height": 768, 
+        "width": 1366, 
+        "x": 0, 
+        "y": 0
+      }, 
+      "index_in_screens_list": 0, 
+      "manufacturer": "SDC", 
+      "model": "", 
+      "name": "LVDS-1", 
+      "serial": "", 
+      "size_in_logical_pixels": {
+        "height": 768, 
+        "width": 1366
+      }, 
+      "virtual_geometry": {
+        "height": 768, 
+        "width": 1366, 
+        "x": 0, 
+        "y": 0
+      }
+    }
+  }, 
+  "html-editor-state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAD9AAAAAAAABJwAAAHnAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAUAGEAYwB0AGkAbwBuAF8AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAF8AYgBhAHIBAAAA3f////8AAAAAAAAAAAAAAB4AaAB0AG0AbABfAGYAbwByAG0AYQB0AF8AYgBhAHIBAAABv/////8AAAAAAAAAAA=="
+  }, 
+  "main_window_geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywACAAAAAAAAAAAAGwAABVUAAAL/AAAAAAAAADgAAAKoAAAC/wAAAAACAAAABVY="
+  }, 
+  "main_window_state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAD9AAAABAAAAAAAAABGAAACivwCAAAABfsAAAAkAGYAaQBsAGUAcwAtAGIAcgBvAHcAcwBlAHIALQBkAG8AYwBrAQAAACcAAAKKAAAAWgD////7AAAAHgB0AG8AYwAtAHYAaQBlAHcAZQByAC0AZABvAGMAawAAAAAA/////wAAAFoA////+wAAACAAdABlAHgAdAAtAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAA/////wAAAIAA////+wAAACAAYwBoAGUAYwBrAHAAbwBpAG4AdABzAC0AZABvAGMAawAAAAAA/////wAAAIwA////+wAAACYAcwBhAHYAZQBkAC0AcwBlAGEAcgBjAGgAZQBzAC0AZABvAGMAawAAAAAA/////wAAAhYA////AAAAAQAAAGgAAAKK/AIAAAAC+wAAABgAcAByAGUAdgBpAGUAdwAtAGQAbwBjAGsBAAAAJwAAAooAAABBAP////sAAAAaAGwAaQB2AGUALQBjAHMAcwAtAGQAbwBjAGsAAAAAAP////8AAABaAP///wAAAAIAAAAAAAAAAPwBAAAAAfsAAAAeAGMAaABlAGMAawAtAGIAbwBvAGsALQBkAG8AYwBrAAAAAAD/////AAAAkAD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABpAG4AcwBwAGUAYwB0AG8AcgAtAGQAbwBjAGsAAAAAAP////8AAAAqAP///wAABJwAAAKKAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAUAGcAbABvAGIAYQBsAC0AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAC0AYgBhAHIBAAABJv////8AAAAAAAAAAAAAABYAcABsAHUAZwBpAG4AcwAtAGIAYQByAAAAAAD/////AAAAAAAAAAA="
+  }, 
+  "recent-books": [
+    "/home/tasnuva/Calibre Library/Steve Klabnik/The Rust Programming Language 3 (126)/The Rust Programming Language 3 - Steve Klabnik.epub", 
+    "/home/tasnuva/Calibre Library/Steve Klabnik/The Rust Programming Language (120)/The Rust Programming Language - Steve Klabnik.epub", 
+    "/home/tasnuva/Calibre Library/Tim McNamara/Rust in Action_ Systems programming concepts and techniques (117)/Rust in Action_ Systems programming concep - Tim McNamara.epub"
+  ], 
+  "reports-ui-state": {}, 
+  "saved_seaches_state": {
+    "direction": "down", 
+    "where": "current", 
+    "wrap": true
+  }, 
+  "search-panel-visible": true, 
+  "text_search_widget_state": {
+    "case_sensitive": false, 
+    "dot_all": true, 
+    "mode": "normal", 
+    "where": "current"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "extra_customization": [
+    "eBooks/import, wordplayer/calibretransfer, Books, sdcard/ebooks",
+    ""
+  ],
+  "format_map": [
+    "epub",
+    "pdf"
+  ],
+  "read_metadata": true,
+  "save_template": "{author_sort}/{title} - {authors}",
+  "use_author_sort": false,
+  "use_subdirs": true
+}

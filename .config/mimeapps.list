@@ -1,0 +1,36 @@
+[Added Associations]
+application/epub+zip=com.github.johnfactotum.Foliate.desktop;com.calibre_ebook.calibre.desktop;okularApplication_epub.desktop;com.calibre_ebook.calibre.ebook-edit.desktop;com.calibre_ebook.calibre.ebook-viewer.desktop;org.kde.filelight.desktop;org.kde.ark.desktop;
+application/octet-stream=org.kde.filelight.desktop;
+application/pdf=okularApplication_pdf.desktop;com.github.johnfactotum.Foliate.desktop;calibre-gui.desktop;google-chrome.desktop;com.github.babluboy.bookworm.desktop;org.kde.filelight.desktop;
+application/x-trash=org.kde.kwrite.desktop;org.kde.filelight.desktop;
+audio/mp4=mpv.desktop;org.kde.elisa.desktop;vlc.desktop;org.kde.filelight.desktop;
+audio/mpeg=mpv.desktop;vlc.desktop;org.kde.elisa.desktop;org.kde.filelight.desktop;
+audio/ogg=vlc.desktop;org.kde.elisa.desktop;org.kde.filelight.desktop;mpv.desktop;
+audio/x-vorbis+ogg=mpv.desktop;org.kde.filelight.desktop;
+image/png=org.kde.gwenview.desktop;org.flameshot.Flameshot.desktop;google-chrome.desktop;okularApplication_kimgio.desktop;org.kde.filelight.desktop;
+inode/directory=org.kde.dolphin.desktop;vlc.desktop;org.kde.kate.desktop;org.kde.gwenview.desktop;lf.desktop;org.kde.filelight.desktop;
+text/x-lua=org.kde.kwrite.desktop;org.kde.filelight.desktop;org.kde.kate.desktop;okularApplication_txt.desktop;vim.desktop;nvim.desktop;calibre-ebook-viewer.desktop;calibre-gui.desktop;
+video/mp4=mpv.desktop;vlc.desktop;org.kde.filelight.desktop;
+video/x-matroska=mpv.desktop;org.kde.filelight.desktop;
+
+[Default Applications]
+application/epub+zip=com.github.johnfactotum.Foliate.desktop;
+application/octet-stream=org.kde.filelight.desktop;
+application/pdf=okularApplication_pdf.desktop;
+application/x-trash=org.kde.kwrite.desktop;
+audio/mp4=mpv.desktop;
+audio/mpeg=mpv.desktop;
+audio/ogg=vlc.desktop;
+audio/x-vorbis+ogg=mpv.desktop;
+image/png=org.kde.gwenview.desktop;
+inode/directory=org.kde.dolphin.desktop;
+text/html=google-chrome.desktop
+text/x-lua=org.kde.kwrite.desktop;
+video/mp4=mpv.desktop;
+video/x-matroska=mpv.desktop;
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/webcal=google-chrome.desktop
+
+[Removed Associations]
+application/epub+zip=calibre-ebook-edit.desktop;

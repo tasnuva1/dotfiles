@@ -1,0 +1,15 @@
+[Applications][google-chrome]
+Seen=true
+
+[Applications][org.manjaro.pamac.manager]
+Seen=true
+
+[Applications][org.qbittorrent.qBittorrent]
+Seen=true
+
+[DoNotDisturb]
+WhenScreensMirrored=false
+
+[Notifications]
+PopupPosition=BottomCenter
+PopupTimeout=60000

@@ -1,0 +1,11 @@
+{"message":"Preferences loaded from /home/tasnuva/.config/pomotroid/user-preferences.json","level":"info","hostname":"ManjaroPC","timestamp":"2023-03-06T09:28:14.252Z"}
+{"message":"app ready","level":"info","hostname":"ManjaroPC","timestamp":"2023-03-06T09:28:14.345Z"}
+{"message":"Registering shortcut for call-timer-toggle: Control+F1","level":"info","hostname":"ManjaroPC","timestamp":"2023-03-06T09:28:14.477Z"}
+{"message":"Registering shortcut for call-timer-reset: Control+F2","level":"info","hostname":"ManjaroPC","timestamp":"2023-03-06T09:28:14.480Z"}
+{"message":"Registering shortcut for call-timer-skip: Control+F3","level":"info","hostname":"ManjaroPC","timestamp":"2023-03-06T09:28:14.481Z"}
+{"message":"creating directory: /home/tasnuva/.config/pomotroid/themes","level":"info","hostname":"ManjaroPC","timestamp":"2023-03-06T09:28:14.806Z"}
+{"message":"Preferences loaded from /home/tasnuva/.config/pomotroid/user-preferences.json","level":"info","hostname":"ManjaroPC","timestamp":"2023-03-06T09:28:14.834Z"}
+{"message":"focus round round reset","level":"info","hostname":"ManjaroPC","timestamp":"2023-03-06T09:28:38.651Z"}
+{"message":"focus round round started","level":"info","hostname":"ManjaroPC","timestamp":"2023-03-06T09:30:54.383Z"}
+{"message":"focus round round paused","level":"info","hostname":"ManjaroPC","timestamp":"2023-03-06T09:31:00.389Z"}
+{"message":"quitting app...","level":"info","hostname":"ManjaroPC","timestamp":"2023-03-06T09:31:01.630Z"}

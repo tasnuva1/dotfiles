@@ -1,0 +1,18 @@
+[HTML Settings]
+AutomaticDetectionLanguage=1
+
+[MainWindow]
+1366x768 screen: XPosition=283
+1366x768 screen: YPosition=110
+LVDS-1=LVDS-1
+LVDS-1 XPosition 1366x768 LVDS-1=283
+LVDS-1 YPosition 1366x768 LVDS-1=110
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAyAAAAITAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[MainWindowState]
+Splitter=220,579
+
+[Search]
+ScopeSelection=0

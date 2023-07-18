@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lineedit_history_tweak_book_find_edit</key>
+	<array>
+		<string>line-height: </string>
+		<string>line-height:</string>
+		<string>line-</string>
+		<string>#book-content #sbo-rt-content p.Code</string>
+		<string>#book-content #sbo-rt-content pre code</string>
+		<string> code </string>
+		<string>hyphens: </string>
+		<string>overflow: </string>
+		<string>overflow</string>
+		<string>code</string>
+		<string> p </string>
+		<string>p </string>
+		<string>break</string>
+		<string>brack</string>
+		<string>10px</string>
+		<string>15px</string>
+		<string>img</string>
+		<string>padding: 0.</string>
+		<string>padding</string>
+		<string>margin-bottom</string>
+		<string>margin</string>
+		<string>margin: 0 0 15px 0</string>
+		<string>margin: 0 24px 24px </string>
+		<string>margin: 0 0 24px 0</string>
+		<string>margin: 0 0 24px</string>
+		<string>font-family: </string>
+		<string>Consolas</string>
+		<string>Noto serif</string>
+		<string>font-fa</string>
+		<string>color:</string>
+		<string>color</string>
+	</array>
+	<key>lineedit_history_tweak_book_replace_edit</key>
+	<array>
+		<string>5px</string>
+		<string>10px</string>
+		<string>margin: 0 15px 15px </string>
+		<string>margin: 0 0 15px 0</string>
+		<string>margin: 0 0 24px 0</string>
+		<string>inter</string>
+		<string>in</string>
+	</array>
+</dict>
+</plist>

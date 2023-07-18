@@ -1,0 +1,10 @@
+[FileDialogSize]
+1366x768 screen: Height=480
+1366x768 screen: Width=1366
+LVDS-1 Height 1366x768 LVDS-1=512
+LVDS-1 Width 1366x768 LVDS-1=884
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Downloads/Video/Top 20 Best Self Help Books of All Time .pdf,file:$HOME/y2mate.com - Always in a Rush I Monologue.mp3,file:$HOME/y2mate.com - Self Reflection I Monologue.mp3,file:$HOME/Pictures/HSC exam 2023 update news. HSC 2023 update news. এইচএসসি ২০২৩ পরিক্ষা পেছানো হবে কিনা_ 2-48 screenshot.png,file:$HOME/Pictures/Exploring How Computers Work 8-6 screenshot.png,file:$HOME/Pictures/Exploring How Computers Work 7-59 screenshot.png,file:$HOME/Pictures/02.png,file:$HOME/Pictures/Exploring How Computers Work 10-43 screenshot 4.png
+Recent URLs[$e]=file:$HOME/Pictures/,file:$HOME/Local/Downloads/,file:$HOME/Downloads/Video/,file:$HOME/Documents/,file:$HOME/Local/Downloads/tor-browser/Browser/Downloads/,file:$HOME/Downloads/Compressed/,file:$HOME/Local/Code/rust/,file:$HOME/Downloads/Movies/,file:$HOME/
+detailViewIconSize=16

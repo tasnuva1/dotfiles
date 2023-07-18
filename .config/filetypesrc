@@ -1,0 +1,6 @@
+[EmbedSettings]
+embed-application/octet-stream=false
+embed-application/pdf=false
+embed-audio/mpeg=false
+embed-image/png=false
+embed-inode/directory=false
