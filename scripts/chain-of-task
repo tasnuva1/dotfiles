@@ -1,0 +1,21 @@
+#!/bin/bash
+
+mounter &
+sleep 3
+xdotool key super+1 &
+sleep 1
+st -e bash -c "calibre" & # Rust
+sleep 1
+# st -e bash -c "lf '/home/fahmida/downloads/videos/CoursesTutorials'" & # Rust
+# sleep 1
+st -e bash -c "mpv '/mnt/3/Courses/media/audiobooks/Computer Programming/Devops/1.The-Phoenix-Project/The Phoenix Project.m4b'" & # Devolpment & operation
+sleep 1
+st -e bash -c "lf '/mnt/4/Courses'" & # git
+sleep 1
+# xdotool key super+w & # blockchain
+sleep 1
+xdotool key super+U &
+sleep 1
+xdotool key super+v &
+sleep 1
+
