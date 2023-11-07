@@ -1,0 +1,449 @@
+{
+  "geometry-of-main_window_geometry": {
+    "frame_geometry": {
+      "height": 768,
+      "width": 1366,
+      "x": 0,
+      "y": 0
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 762,
+      "width": 1360,
+      "x": 3,
+      "y": 3
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 762,
+      "width": 1360,
+      "x": 3,
+      "y": 3
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAABVUAAAL/AAAAAwAAAAMAAAVSAAAC/AAAAAAAAAAABVYAAAADAAAAAwAABVIAAAL8"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Samsung Display Corp.",
+      "model": "",
+      "name": "LVDS-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-viewer_image_popup_geometry": {
+    "frame_geometry": {
+      "height": 128,
+      "width": 713,
+      "x": 326,
+      "y": 320
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 122,
+      "width": 707,
+      "x": 329,
+      "y": 323
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 122,
+      "width": 707,
+      "x": 329,
+      "y": 323
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAFGAAABQAAABA4AAAG/AAABSQAAAUMAAAQLAAABvAAAAAAAAAAABVYAAAFJAAABQwAABAsAAAG8"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Samsung Display Corp.",
+      "model": "",
+      "name": "LVDS-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "highlight_export_format": "calibre_highlights",
+  "local_storage": {
+    "search-bar-history-search-for-sc": [
+      "j",
+      "page",
+      "pageup",
+      "pre",
+      "next",
+      "l",
+      "font"
+    ],
+    "simple_input_history_net_search_url": [
+      "https://google.com/search?q={q}"
+    ]
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAEAAAAC+vwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawEAAAAAAAAC+gAAAIcA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAiEAAADEAAAAkwD///8AAAABAAAA/AAAAuX8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAAAAAuUAAAB7AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOQA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAAAAAC5QAAAMYA////AAAESgAAAvoAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "saved-highlights-search-settings": {},
+  "saved-search-settings": {
+    "interact": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "think in terms of how": {
+      "case_sensitive": false,
+      "mode": "normal"
+    }
+  },
+  "session_data": {
+    "base_font_size": 15,
+    "controls_footer": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "progress"
+    },
+    "controls_help_shown_count": 2,
+    "current_color_scheme": "*new",
+    "footer": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "progress"
+    },
+    "header": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "empty"
+    },
+    "hide_tooltips": null,
+    "highlight_style": {
+      "kind": "color",
+      "type": "builtin",
+      "which": "yellow"
+    },
+    "keyboard_shortcuts": {
+      "back": [],
+      "down": [],
+      "end_of_book": [
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "l",
+          "metaKey": false,
+          "shiftKey": true
+        }
+      ],
+      "end_of_file": [],
+      "forward": [],
+      "left": [
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "j",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "next_section": [
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "h",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "pagedown": [],
+      "pageup": [],
+      "previous_section": [
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "l",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "right": [
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "k",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "scrollspeed_decrease": [],
+      "scrollspeed_increase": [],
+      "start_of_book": [
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "h",
+          "metaKey": false,
+          "shiftKey": true
+        }
+      ],
+      "start_of_file": [],
+      "toggle_autoscroll": [],
+      "up": []
+    },
+    "left-margin": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "empty"
+    },
+    "lines_per_sec_auto": 2.1000000000000005,
+    "margin_left": 20,
+    "margin_right": 40,
+    "max_text_width": 850,
+    "override_book_colors": "dark",
+    "read_mode": "flow",
+    "right-margin": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "empty"
+    },
+    "selection_bar_actions": [
+      "copy",
+      "lookup",
+      "quick_highlight",
+      "remove_highlight",
+      "clear",
+      "highlight"
+    ],
+    "selection_bar_quick_highlights": [
+      "type:builtin;kind:color;which:blue;light:undefined;dark:undefined;background-color:undefined;text-decoration-line:undefined;text-decoration-color:undefined;text-decoration-style:undefined"
+    ],
+    "standalone_font_settings": {
+      "sans_family": "Roboto Medium",
+      "serif_family": "Inter"
+    },
+    "standalone_misc_settings": {},
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Mara Bos"
+        ],
+        "key": "/home/fahmida/Calibre Library/Mara Bos/4. Rust Atomics and Locks (4)/4. Rust Atomics and Locks - Mara Bos.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Mara Bos/4. Rust Atomics and Locks (4)/4. Rust Atomics and Locks - Mara Bos.epub",
+        "timestamp": "2023-11-04T06:58:58.242Z",
+        "title": "Rust Atomics and Locks"
+      },
+      {
+        "authors": [
+          "Jon Gjengset"
+        ],
+        "key": "/home/fahmida/Calibre Library/Jon Gjengset/1. Rust for Rustaceans (6)/1. Rust for Rustaceans - Jon Gjengset.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Jon Gjengset/1. Rust for Rustaceans (6)/1. Rust for Rustaceans - Jon Gjengset.epub",
+        "timestamp": "2023-11-04T06:58:01.911Z",
+        "title": "Rust for Rustaceans"
+      },
+      {
+        "authors": [
+          "Jim Blandy",
+          "Jason Orendorff",
+          "Leonora F . S. Tindall"
+        ],
+        "key": "/home/fahmida/Calibre Library/Jim Blandy/3. Programming Rust (5)/3. Programming Rust - Jim Blandy.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Jim Blandy/3. Programming Rust (5)/3. Programming Rust - Jim Blandy.epub",
+        "timestamp": "2023-11-04T06:48:06.440Z",
+        "title": "Programming Rust, 2nd Edition"
+      },
+      {
+        "authors": [
+          "Steve Klabnik",
+          "Carol Nichols"
+        ],
+        "key": "/home/fahmida/Calibre Library/Steve Klabnik/2. The Rust Programming Language (7)/2. The Rust Programming Language - Steve Klabnik.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Steve Klabnik/2. The Rust Programming Language (7)/2. The Rust Programming Language - Steve Klabnik.epub",
+        "timestamp": "2023-10-28T09:02:08.017Z",
+        "title": "The Rust Programming Language"
+      },
+      {
+        "authors": [
+          "Eliezer Yudkowsky",
+          "Stavros Korokithakis"
+        ],
+        "key": "/home/fahmida/Calibre Library/Eliezer Yudkowsky/Harry Potter and the Methods of Rationality (13)/Harry Potter and the Methods of Rationalit - Eliezer Yudkowsky.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Eliezer Yudkowsky/Harry Potter and the Methods of Rationality (13)/Harry Potter and the Methods of Rationalit - Eliezer Yudkowsky.epub",
+        "timestamp": "2023-10-28T08:46:21.885Z",
+        "title": "Harry Potter and the Methods of Rationality"
+      },
+      {
+        "authors": [
+          "Douglas Adams"
+        ],
+        "key": "/home/fahmida/Calibre Library/Douglas Adams/The Ultimate Hitchhiker's Guide to the Galaxy (9)/The Ultimate Hitchhiker's Guide to the Gal - Douglas Adams.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Douglas Adams/The Ultimate Hitchhiker's Guide to the Galaxy (9)/The Ultimate Hitchhiker's Guide to the Gal - Douglas Adams.epub",
+        "timestamp": "2023-10-28T08:45:48.081Z",
+        "title": "The Ultimate Hitchhiker's Guide to the Galaxy"
+      },
+      {
+        "authors": [
+          "James Clear"
+        ],
+        "key": "/home/fahmida/Calibre Library/James Clear/Atomic Habits_ An Easy & Proven Way to Build Good Habits & Break Bad Ones (8)/Atomic Habits_ An Easy & Proven Way to Bui - James Clear.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/James Clear/Atomic Habits_ An Easy & Proven Way to Build Good Habits & Break Bad Ones (8)/Atomic Habits_ An Easy & Proven Way to Bui - James Clear.epub",
+        "timestamp": "2023-10-23T09:37:20.149Z",
+        "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"
+      },
+      {
+        "authors": [
+          "Oscar Wilde"
+        ],
+        "key": "/home/fahmida/Calibre Library/Oscar Wilde/The Picture of Dorian Gray (12)/The Picture of Dorian Gray - Oscar Wilde.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Oscar Wilde/The Picture of Dorian Gray (12)/The Picture of Dorian Gray - Oscar Wilde.epub",
+        "timestamp": "2023-10-23T00:45:00.852Z",
+        "title": "The Picture of Dorian Gray"
+      },
+      {
+        "authors": [
+          "Jim Blandy",
+          "Jason Orendorff",
+          "Leonora F . S. Tindall"
+        ],
+        "key": "/home/fahmida/Calibre Library/Jim Blandy/2. Programming Rust, 2nd Edition (5)/2. Programming Rust, 2nd Edition - Jim Blandy.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Jim Blandy/2. Programming Rust, 2nd Edition (5)/2. Programming Rust, 2nd Edition - Jim Blandy.epub",
+        "timestamp": "2023-10-20T03:06:50.795Z",
+        "title": "Programming Rust, 2nd Edition"
+      },
+      {
+        "authors": [
+          "Sally Rooney"
+        ],
+        "key": "/home/fahmida/Calibre Library/Sally Rooney/Beautiful World, Where Are You_ A Novel (11)/Beautiful World, Where Are You_ A Novel - Sally Rooney.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Sally Rooney/Beautiful World, Where Are You_ A Novel (11)/Beautiful World, Where Are You_ A Novel - Sally Rooney.epub",
+        "timestamp": "2023-10-19T04:43:37.233Z",
+        "title": "Beautiful World, Where Are You: A Novel"
+      },
+      {
+        "authors": [
+          "Sally Rooney"
+        ],
+        "key": "/home/fahmida/Calibre Library/Sally Rooney/Beautiful World, Where Are You (10)/Beautiful World, Where Are You - Sally Rooney.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Sally Rooney/Beautiful World, Where Are You (10)/Beautiful World, Where Are You - Sally Rooney.epub",
+        "timestamp": "2023-10-19T04:38:05.493Z",
+        "title": "Beautiful World, Where Are You"
+      },
+      {
+        "authors": [
+          "Steve Klabnik",
+          "Carol Nichols"
+        ],
+        "key": "/home/fahmida/Calibre Library/Steve Klabnik/The Rust Programming Language (7)/The Rust Programming Language - Steve Klabnik.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Steve Klabnik/The Rust Programming Language (7)/The Rust Programming Language - Steve Klabnik.epub",
+        "timestamp": "2023-10-15T16:36:38.869Z",
+        "title": "The Rust Programming Language"
+      },
+      {
+        "authors": [
+          "John Schember"
+        ],
+        "key": "/home/fahmida/Calibre Library/John Schember/Quick Start Guide (1)/Quick Start Guide - John Schember.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/John Schember/Quick Start Guide (1)/Quick Start Guide - John Schember.epub",
+        "timestamp": "2023-10-15T16:14:49.097Z",
+        "title": "Quick Start Guide"
+      },
+      {
+        "authors": [
+          "Steve Klabnik",
+          "Carol Nichols"
+        ],
+        "key": "/home/fahmida/Calibre Library/Steve Klabnik/The Rust Programming Language (2)/The Rust Programming Language - Steve Klabnik.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Steve Klabnik/The Rust Programming Language (2)/The Rust Programming Language - Steve Klabnik.epub",
+        "timestamp": "2023-10-15T16:13:12.742Z",
+        "title": "The Rust Programming Language"
+      },
+      {
+        "authors": [
+          "Jim Blandy",
+          "Jason Orendorff",
+          "Leonora F . S. Tindall"
+        ],
+        "key": "/home/fahmida/Calibre Library/Jim Blandy/Programming Rust, 2nd Edition (5)/Programming Rust, 2nd Edition - Jim Blandy.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Jim Blandy/Programming Rust, 2nd Edition (5)/Programming Rust, 2nd Edition - Jim Blandy.epub",
+        "timestamp": "2023-10-09T12:20:23.707Z",
+        "title": "Programming Rust, 2nd Edition"
+      },
+      {
+        "authors": [
+          "Mara Bos"
+        ],
+        "key": "/home/fahmida/Calibre Library/Mara Bos/Rust Atomics and Locks (4)/Rust Atomics and Locks - Mara Bos.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Mara Bos/Rust Atomics and Locks (4)/Rust Atomics and Locks - Mara Bos.epub",
+        "timestamp": "2023-10-09T12:19:45.985Z",
+        "title": "Rust Atomics and Locks"
+      },
+      {
+        "authors": [
+          "Jon Gjengset"
+        ],
+        "key": "/home/fahmida/Calibre Library/Jon Gjengset/Rust for Rustaceans (6)/Rust for Rustaceans - Jon Gjengset.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Jon Gjengset/Rust for Rustaceans (6)/Rust for Rustaceans - Jon Gjengset.epub",
+        "timestamp": "2023-10-08T20:33:22.819Z",
+        "title": "Rust for Rustaceans"
+      },
+      {
+        "authors": [
+          "copyright-2023-manning-publications.html"
+        ],
+        "key": "/home/fahmida/Calibre Library/copyright-2023-manning-publications.html/Learn Rust in a Month of Lunches MEAP V09 (3)/Learn Rust in a Month of Lunches MEAP V09 - copyright-2023-manning-publications.html.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/copyright-2023-manning-publications.html/Learn Rust in a Month of Lunches MEAP V09 (3)/Learn Rust in a Month of Lunches MEAP V09 - copyright-2023-manning-publications.html.epub",
+        "timestamp": "2023-09-22T03:19:56.618Z",
+        "title": "Learn Rust in a Month of Lunches MEAP V09"
+      }
+    ],
+    "user_color_schemes": {
+      "*new": {
+        "background": "#fcfcfc",
+        "foreground": "#757575",
+        "margin_bottom": "#ffffff:#757575",
+        "margin_left": "#ffffff:#757575",
+        "margin_right": "#ffffff:#757575",
+        "margin_top": "#ffffff:#757575",
+        "name": "new"
+      }
+    }
+  },
+  "viewer-highlights-search-case-sensitive": false,
+  "viewer-highlights-search-mode": "word",
+  "viewer-search-case-sensitive": false,
+  "viewer-search-mode": "normal"
+}
