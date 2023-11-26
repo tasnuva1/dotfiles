@@ -21,5 +21,4 @@ done >/dev/null 2>&1
 # Ensure that xrdb has finished running before moving on to start the WM/DE - window manager or disktop enverment. Althourgh this script is missting.
 [ -n "$xrdbpid" ] && wait "$xrdbpid" && # checks if $xrdbpid variable is empty or not, if is then wait for xrdbpid variable to be set.  
 
-# st -e bash -c "" &&
-
+# st -e bash -c "current-2" && # not working

@@ -1,28 +1,28 @@
 {
   "geometry-of-main_window_geometry": {
     "frame_geometry": {
-      "height": 768,
-      "width": 1366,
-      "x": 0,
-      "y": 0
+      "height": 374,
+      "width": 610,
+      "x": 752,
+      "y": -3
     },
     "full_screened": false,
     "geometry": {
-      "height": 762,
-      "width": 1360,
-      "x": 3,
-      "y": 3
+      "height": 368,
+      "width": 604,
+      "x": 755,
+      "y": 0
     },
     "maximized": false,
     "normal_geometry": {
-      "height": 762,
-      "width": 1360,
-      "x": 3,
-      "y": 3
+      "height": 368,
+      "width": 604,
+      "x": 755,
+      "y": 0
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAAAAAAAAAABVUAAAL/AAAAAwAAAAMAAAVSAAAC/AAAAAAAAAAABVYAAAADAAAAAwAABVIAAAL8"
+      "__value__": "AdnQywADAAAAAALw/////QAABVEAAAFyAAAC8wAAAAAAAAVOAAABbwAAAAAAAAAABVYAAALzAAAAAAAABU4AAAFv"
     },
     "screen": {
       "depth": 24,
@@ -118,7 +118,7 @@
   },
   "main_window_state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAEAAAAC+vwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawEAAAAAAAAC+gAAAIcA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAiEAAADEAAAAkwD///8AAAABAAAA/AAAAuX8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAAAAAuUAAAB7AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOQA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAAAAAC5QAAAMYA////AAAESgAAAvoAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAADaAAAC+vwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAAAAAC+gAAAIcA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAiEAAADEAAAAkwD///8AAAABAAAA/AAAAwD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAAAAAwAAAAB7AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOQA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAAAAAC5QAAAMYA////AAACXAAAAXAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
   },
   "old_prefs_migrated": true,
   "saved-highlights-search-settings": {},
@@ -162,11 +162,11 @@
       "down": [],
       "end_of_book": [
         {
-          "altKey": false,
+          "altKey": true,
           "ctrlKey": false,
-          "key": "l",
+          "key": "k",
           "metaKey": false,
-          "shiftKey": true
+          "shiftKey": false
         }
       ],
       "end_of_file": [],
@@ -220,7 +220,15 @@
           "shiftKey": true
         }
       ],
-      "start_of_file": [],
+      "start_of_file": [
+        {
+          "altKey": true,
+          "ctrlKey": false,
+          "key": "j",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
       "toggle_autoscroll": [],
       "up": []
     },
@@ -259,12 +267,21 @@
     "standalone_recently_opened": [
       {
         "authors": [
-          "Mara Bos"
+          "Luca Palmieri"
         ],
-        "key": "/home/fahmida/Calibre Library/Mara Bos/4. Rust Atomics and Locks (4)/4. Rust Atomics and Locks - Mara Bos.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Mara Bos/4. Rust Atomics and Locks (4)/4. Rust Atomics and Locks - Mara Bos.epub",
-        "timestamp": "2023-11-04T06:58:58.242Z",
-        "title": "Rust Atomics and Locks"
+        "key": "/home/fahmida/Calibre Library/Luca Palmieri/Zero To Production In Rust (19)/Zero To Production In Rust - Luca Palmieri.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Luca Palmieri/Zero To Production In Rust (19)/Zero To Production In Rust - Luca Palmieri.epub",
+        "timestamp": "2023-11-25T04:47:54.660Z",
+        "title": "Zero To Production In Rust"
+      },
+      {
+        "authors": [
+          "Ken Youens-Clark"
+        ],
+        "key": "/home/fahmida/Calibre Library/Ken Youens-Clark/Command-Line Rust (18)/Command-Line Rust - Ken Youens-Clark.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Ken Youens-Clark/Command-Line Rust (18)/Command-Line Rust - Ken Youens-Clark.epub",
+        "timestamp": "2023-11-25T04:42:35.889Z",
+        "title": "Command-Line Rust"
       },
       {
         "authors": [
@@ -272,8 +289,71 @@
         ],
         "key": "/home/fahmida/Calibre Library/Jon Gjengset/1. Rust for Rustaceans (6)/1. Rust for Rustaceans - Jon Gjengset.epub",
         "pathtoebook": "/home/fahmida/Calibre Library/Jon Gjengset/1. Rust for Rustaceans (6)/1. Rust for Rustaceans - Jon Gjengset.epub",
-        "timestamp": "2023-11-04T06:58:01.911Z",
+        "timestamp": "2023-11-18T23:16:16.986Z",
         "title": "Rust for Rustaceans"
+      },
+      {
+        "authors": [
+          "Sky Nelson-Isaacs"
+        ],
+        "key": "/home/fahmida/Calibre Library/Sky Nelson-Isaacs/Living in Flow (15)/Living in Flow - Sky Nelson-Isaacs.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Sky Nelson-Isaacs/Living in Flow (15)/Living in Flow - Sky Nelson-Isaacs.epub",
+        "timestamp": "2023-11-18T17:53:07.402Z",
+        "title": "Living in Flow"
+      },
+      {
+        "authors": [
+          "Gene Kim"
+        ],
+        "key": "/home/fahmida/Calibre Library/Gene Kim/The DevOps Handbook (16)/The DevOps Handbook - Gene Kim.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Gene Kim/The DevOps Handbook (16)/The DevOps Handbook - Gene Kim.epub",
+        "timestamp": "2023-11-17T23:51:29.086Z",
+        "title": "The DevOps Handbook"
+      },
+      {
+        "authors": [
+          "Sky Nelson-Isaacs"
+        ],
+        "key": "/home/fahmida/downloads/books/books/audio_available/Living in Flow The Science of Synchronicity and How Your Choices Shape Your World (Sky Nelson-Isaacs) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/downloads/books/books/audio_available/Living in Flow The Science of Synchronicity and How Your Choices Shape Your World (Sky Nelson-Isaacs) (Z-Library).epub",
+        "timestamp": "2023-11-17T23:50:08.906Z",
+        "title": "Living in Flow"
+      },
+      {
+        "authors": [
+          "OccupyTheWeb"
+        ],
+        "key": "/home/fahmida/downloads/books/books/audio_available/Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali (OccupyTheWeb) (Z-Library).epub",
+        "pathtoebook": "/home/fahmida/downloads/books/books/audio_available/Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali (OccupyTheWeb) (Z-Library).epub",
+        "timestamp": "2023-11-17T23:49:32.338Z",
+        "title": "Linux Basics for Hackers"
+      },
+      {
+        "authors": [
+          "Gene Kim"
+        ],
+        "key": "/home/fahmida/Calibre Library/Gene Kim/TThe DevOps Handbook (16)/TThe DevOps Handbook - Gene Kim.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Gene Kim/TThe DevOps Handbook (16)/TThe DevOps Handbook - Gene Kim.epub",
+        "timestamp": "2023-11-17T16:17:28.556Z",
+        "title": "The DevOps Handbook"
+      },
+      {
+        "authors": [
+          "Gene Kim"
+        ],
+        "key": "/home/fahmida/Calibre Library/Gene Kim/The DevOps Handbook (17)/The DevOps Handbook - Gene Kim.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Gene Kim/The DevOps Handbook (17)/The DevOps Handbook - Gene Kim.epub",
+        "timestamp": "2023-11-17T16:16:51.076Z",
+        "title": "The DevOps Handbook"
+      },
+      {
+        "authors": [
+          "Mara Bos"
+        ],
+        "key": "/home/fahmida/Calibre Library/Mara Bos/4. Rust Atomics and Locks (4)/4. Rust Atomics and Locks - Mara Bos.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Mara Bos/4. Rust Atomics and Locks (4)/4. Rust Atomics and Locks - Mara Bos.epub",
+        "timestamp": "2023-11-04T06:58:58.242Z",
+        "title": "Rust Atomics and Locks"
       },
       {
         "authors": [
@@ -419,25 +499,16 @@
         "pathtoebook": "/home/fahmida/Calibre Library/Jon Gjengset/Rust for Rustaceans (6)/Rust for Rustaceans - Jon Gjengset.epub",
         "timestamp": "2023-10-08T20:33:22.819Z",
         "title": "Rust for Rustaceans"
-      },
-      {
-        "authors": [
-          "copyright-2023-manning-publications.html"
-        ],
-        "key": "/home/fahmida/Calibre Library/copyright-2023-manning-publications.html/Learn Rust in a Month of Lunches MEAP V09 (3)/Learn Rust in a Month of Lunches MEAP V09 - copyright-2023-manning-publications.html.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/copyright-2023-manning-publications.html/Learn Rust in a Month of Lunches MEAP V09 (3)/Learn Rust in a Month of Lunches MEAP V09 - copyright-2023-manning-publications.html.epub",
-        "timestamp": "2023-09-22T03:19:56.618Z",
-        "title": "Learn Rust in a Month of Lunches MEAP V09"
       }
     ],
     "user_color_schemes": {
       "*new": {
         "background": "#fcfcfc",
-        "foreground": "#757575",
-        "margin_bottom": "#ffffff:#757575",
-        "margin_left": "#ffffff:#757575",
-        "margin_right": "#ffffff:#757575",
-        "margin_top": "#ffffff:#757575",
+        "foreground": "#5a5a5a",
+        "margin_bottom": "#ffffff:#5a5a5a",
+        "margin_left": "#ffffff:#5a5a5a",
+        "margin_right": "#ffffff:#5a5a5a",
+        "margin_top": "#ffffff:#5a5a5a",
         "name": "new"
       }
     }

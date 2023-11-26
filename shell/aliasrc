@@ -48,7 +48,8 @@ alias \
 	trem="transmission-remote" \
 	YT="youtube-viewer" \
 	sdn="shutdown -h now" \
-	duc="du -h --max-depth=1 | sort -hr" \
+	ss="du -h --max-depth=1 | sort -hr" \
+  ssa="df -h /dev/dm-0 /dev/sda3 /dev/sda4" \
 	e="$EDITOR" \
 	v="$EDITOR" \
   h="helix" \
