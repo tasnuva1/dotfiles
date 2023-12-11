@@ -170,27 +170,27 @@
   "geometry-of-calibre_main_window_geometry": {
     "frame_geometry": {
       "height": 768,
-      "width": 610,
-      "x": 755,
+      "width": 1366,
+      "x": 0,
       "y": 0
     },
     "full_screened": false,
     "geometry": {
       "height": 762,
-      "width": 604,
-      "x": 758,
+      "width": 1360,
+      "x": 3,
       "y": 3
     },
     "maximized": false,
     "normal_geometry": {
       "height": 762,
-      "width": 604,
-      "x": 758,
+      "width": 1360,
+      "x": 3,
       "y": 3
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAALzAAAAAAAABVQAAAL/AAAC9gAAAAMAAAVRAAAC/AAAAAAAAAAABVYAAAL2AAAAAwAABVEAAAL8"
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAABVUAAAL/AAAAAwAAAAMAAAVSAAAC/AAAAAAAAAAABVYAAAADAAAAAwAABVIAAAL8"
     },
     "screen": {
       "depth": 24,
@@ -524,30 +524,81 @@
       }
     }
   },
-  "geometry-of-quickview_dialog_geometry": {
+  "geometry-of-preferences dialog geometry": {
     "frame_geometry": {
-      "height": 327,
-      "width": 449,
-      "x": 0,
-      "y": 419
+      "height": 726,
+      "width": 936,
+      "x": 215,
+      "y": 21
     },
     "full_screened": false,
     "geometry": {
-      "height": 321,
-      "width": 443,
-      "x": 3,
-      "y": 422
+      "height": 720,
+      "width": 930,
+      "x": 218,
+      "y": 24
     },
     "maximized": false,
     "normal_geometry": {
-      "height": 321,
-      "width": 443,
-      "x": 3,
-      "y": 422
+      "height": 720,
+      "width": 930,
+      "x": 218,
+      "y": 24
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAAAAABowAAAcAAAALpAAAAAwAAAaYAAAG9AAAC5gAAAAAAAAAABVYAAAADAAABpgAAAb0AAALm"
+      "__value__": "AdnQywADAAAAAADXAAAAFQAABH4AAALqAAAA2gAAABgAAAR7AAAC5wAAAAAAAAAABVYAAADaAAAAGAAABHsAAALn"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Samsung Display Corp.",
+      "model": "",
+      "name": "LVDS-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-quickview_dialog_geometry": {
+    "frame_geometry": {
+      "height": 768,
+      "width": 1366,
+      "x": 0,
+      "y": 0
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 762,
+      "width": 1360,
+      "x": 3,
+      "y": 3
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 762,
+      "width": 1360,
+      "x": 3,
+      "y": 3
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAABVUAAAL/AAAAAwAAAAMAAAVSAAAC/AAAAAAAAAAABVYAAAADAAAAAwAABVIAAAL8"
     },
     "screen": {
       "depth": 24,
@@ -632,11 +683,11 @@
     "__value__": "AAAA/wAAAAEAAAACAAABwgAAAcIA/////wEAAAABAA=="
   },
   "library_usage_stats": {
-    "/home/fahmida/Calibre Library": 80
+    "/home/fahmida/Calibre Library": 182
   },
   "previous_sort_order_BooksView": {
     "authors": true,
-    "pubdate": true,
+    "pubdate": false,
     "publisher": false,
     "rating": true,
     "series": true,

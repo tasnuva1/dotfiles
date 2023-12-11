@@ -61,7 +61,7 @@
   "separate_cover_flow": false,
   "shortcuts_search_history": [],
   "show_avg_rating": false,
-  "sort_tags_by": "name",
+  "sort_tags_by": "popularity",
   "systray_icon": false,
   "tag_browser_hidden_categories": {
     "__class__": "set",

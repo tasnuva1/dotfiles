@@ -1,28 +1,79 @@
 {
   "geometry-of-main_window_geometry": {
     "frame_geometry": {
-      "height": 374,
-      "width": 610,
-      "x": 752,
-      "y": -3
+      "height": 768,
+      "width": 1366,
+      "x": 0,
+      "y": 0
     },
     "full_screened": false,
     "geometry": {
-      "height": 368,
-      "width": 604,
-      "x": 755,
-      "y": 0
+      "height": 762,
+      "width": 1360,
+      "x": 3,
+      "y": 3
     },
     "maximized": false,
     "normal_geometry": {
-      "height": 368,
-      "width": 604,
-      "x": 755,
-      "y": 0
+      "height": 762,
+      "width": 1360,
+      "x": 3,
+      "y": 3
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAALw/////QAABVEAAAFyAAAC8wAAAAAAAAVOAAABbwAAAAAAAAAABVYAAALzAAAAAAAABU4AAAFv"
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAABVUAAAL/AAAAAwAAAAMAAAVSAAAC/AAAAAAAAAAABVYAAAADAAAAAwAABVIAAAL8"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Samsung Display Corp.",
+      "model": "",
+      "name": "LVDS-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-read-aloud-config-geometry": {
+    "frame_geometry": {
+      "height": 658,
+      "width": 357,
+      "x": 504,
+      "y": 55
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 652,
+      "width": 351,
+      "x": 507,
+      "y": 58
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 652,
+      "width": 351,
+      "x": 507,
+      "y": 58
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAH4AAAANwAAA1wAAALIAAAB+wAAADoAAANZAAACxQAAAAAAAAAABVYAAAH7AAAAOgAAA1kAAALF"
     },
     "screen": {
       "depth": 24,
@@ -104,6 +155,10 @@
   "highlight_export_format": "calibre_highlights",
   "local_storage": {
     "search-bar-history-search-for-sc": [
+      "rea",
+      "reas",
+      "read",
+      "close",
       "j",
       "page",
       "pageup",
@@ -118,12 +173,16 @@
   },
   "main_window_state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAADaAAAC+vwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAAAAAC+gAAAIcA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAiEAAADEAAAAkwD///8AAAABAAAA/AAAAwD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAAAAAwAAAAB7AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOQA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAAAAAC5QAAAMYA////AAACXAAAAXAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAD6AAAC+vwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAAAAABewAAAIcA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAAAAAL6AAAAkwD///8AAAABAAAA/AAAAvr8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAAAAAvoAAAB7AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOQA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAAAAAC+gAAAMYA////AAAFUAAAAvoAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
   },
   "old_prefs_migrated": true,
   "saved-highlights-search-settings": {},
   "saved-search-settings": {
     "interact": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "there": {
       "case_sensitive": false,
       "mode": "normal"
     },
@@ -133,7 +192,7 @@
     }
   },
   "session_data": {
-    "base_font_size": 15,
+    "base_font_size": 14,
     "controls_footer": {
       "left": "empty",
       "middle": "empty",
@@ -142,8 +201,8 @@
     "controls_help_shown_count": 2,
     "current_color_scheme": "*new",
     "footer": {
-      "left": "empty",
-      "middle": "empty",
+      "left": "clock",
+      "middle": "pos-chapter",
       "right": "progress"
     },
     "header": {
@@ -200,6 +259,22 @@
           "shiftKey": false
         }
       ],
+      "read_aloud": [
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "s",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "n",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
       "right": [
         {
           "altKey": false,
@@ -240,9 +315,9 @@
     "lines_per_sec_auto": 2.1000000000000005,
     "margin_left": 20,
     "margin_right": 40,
-    "max_text_width": 850,
+    "max_text_width": 0,
     "override_book_colors": "dark",
-    "read_mode": "flow",
+    "read_mode": "paged",
     "right-margin": {
       "left": "empty",
       "middle": "empty",
@@ -251,6 +326,7 @@
     "selection_bar_actions": [
       "copy",
       "lookup",
+      "speak",
       "quick_highlight",
       "remove_highlight",
       "clear",
@@ -267,11 +343,48 @@
     "standalone_recently_opened": [
       {
         "authors": [
+          "Imran Bashir;"
+        ],
+        "key": "/home/fahmida/Calibre Library/Imran Bashir;/Mastering Blockchain (20)/Mastering Blockchain - Imran Bashir;.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Imran Bashir;/Mastering Blockchain (20)/Mastering Blockchain - Imran Bashir;.epub",
+        "timestamp": "2023-12-10T20:18:23.712Z",
+        "title": "Mastering Blockchain"
+      },
+      {
+        "authors": [
+          "Ken Youens-Clark"
+        ],
+        "key": "/home/fahmida/Calibre Library/Ken Youens-Clark/1. Command-Line Rust (18)/1. Command-Line Rust - Ken Youens-Clark.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Ken Youens-Clark/1. Command-Line Rust (18)/1. Command-Line Rust - Ken Youens-Clark.epub",
+        "timestamp": "2023-12-09T05:05:31.326Z",
+        "title": "Command-Line Rust"
+      },
+      {
+        "authors": [
+          "Steve Klabnik",
+          "Carol Nichols"
+        ],
+        "key": "/home/fahmida/Calibre Library/Steve Klabnik/2. The Rust Programming Language (7)/2. The Rust Programming Language - Steve Klabnik.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Steve Klabnik/2. The Rust Programming Language (7)/2. The Rust Programming Language - Steve Klabnik.epub",
+        "timestamp": "2023-12-08T11:58:12.201Z",
+        "title": "The Rust Programming Language"
+      },
+      {
+        "authors": [
+          "Luca Palmieri"
+        ],
+        "key": "/home/fahmida/Calibre Library/Luca Palmieri/1. Zero To Production In Rust (19)/1. Zero To Production In Rust - Luca Palmieri.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Luca Palmieri/1. Zero To Production In Rust (19)/1. Zero To Production In Rust - Luca Palmieri.epub",
+        "timestamp": "1980-01-01T06:19:22.941Z",
+        "title": "Zero To Production In Rust"
+      },
+      {
+        "authors": [
           "Luca Palmieri"
         ],
         "key": "/home/fahmida/Calibre Library/Luca Palmieri/Zero To Production In Rust (19)/Zero To Production In Rust - Luca Palmieri.epub",
         "pathtoebook": "/home/fahmida/Calibre Library/Luca Palmieri/Zero To Production In Rust (19)/Zero To Production In Rust - Luca Palmieri.epub",
-        "timestamp": "2023-11-25T04:47:54.660Z",
+        "timestamp": "2023-12-04T07:34:16.459Z",
         "title": "Zero To Production In Rust"
       },
       {
@@ -280,7 +393,7 @@
         ],
         "key": "/home/fahmida/Calibre Library/Ken Youens-Clark/Command-Line Rust (18)/Command-Line Rust - Ken Youens-Clark.epub",
         "pathtoebook": "/home/fahmida/Calibre Library/Ken Youens-Clark/Command-Line Rust (18)/Command-Line Rust - Ken Youens-Clark.epub",
-        "timestamp": "2023-11-25T04:42:35.889Z",
+        "timestamp": "2023-12-03T08:00:23.301Z",
         "title": "Command-Line Rust"
       },
       {
@@ -365,16 +478,6 @@
         "pathtoebook": "/home/fahmida/Calibre Library/Jim Blandy/3. Programming Rust (5)/3. Programming Rust - Jim Blandy.epub",
         "timestamp": "2023-11-04T06:48:06.440Z",
         "title": "Programming Rust, 2nd Edition"
-      },
-      {
-        "authors": [
-          "Steve Klabnik",
-          "Carol Nichols"
-        ],
-        "key": "/home/fahmida/Calibre Library/Steve Klabnik/2. The Rust Programming Language (7)/2. The Rust Programming Language - Steve Klabnik.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Steve Klabnik/2. The Rust Programming Language (7)/2. The Rust Programming Language - Steve Klabnik.epub",
-        "timestamp": "2023-10-28T09:02:08.017Z",
-        "title": "The Rust Programming Language"
       },
       {
         "authors": [
@@ -470,35 +573,6 @@
         "pathtoebook": "/home/fahmida/Calibre Library/Steve Klabnik/The Rust Programming Language (2)/The Rust Programming Language - Steve Klabnik.epub",
         "timestamp": "2023-10-15T16:13:12.742Z",
         "title": "The Rust Programming Language"
-      },
-      {
-        "authors": [
-          "Jim Blandy",
-          "Jason Orendorff",
-          "Leonora F . S. Tindall"
-        ],
-        "key": "/home/fahmida/Calibre Library/Jim Blandy/Programming Rust, 2nd Edition (5)/Programming Rust, 2nd Edition - Jim Blandy.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Jim Blandy/Programming Rust, 2nd Edition (5)/Programming Rust, 2nd Edition - Jim Blandy.epub",
-        "timestamp": "2023-10-09T12:20:23.707Z",
-        "title": "Programming Rust, 2nd Edition"
-      },
-      {
-        "authors": [
-          "Mara Bos"
-        ],
-        "key": "/home/fahmida/Calibre Library/Mara Bos/Rust Atomics and Locks (4)/Rust Atomics and Locks - Mara Bos.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Mara Bos/Rust Atomics and Locks (4)/Rust Atomics and Locks - Mara Bos.epub",
-        "timestamp": "2023-10-09T12:19:45.985Z",
-        "title": "Rust Atomics and Locks"
-      },
-      {
-        "authors": [
-          "Jon Gjengset"
-        ],
-        "key": "/home/fahmida/Calibre Library/Jon Gjengset/Rust for Rustaceans (6)/Rust for Rustaceans - Jon Gjengset.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Jon Gjengset/Rust for Rustaceans (6)/Rust for Rustaceans - Jon Gjengset.epub",
-        "timestamp": "2023-10-08T20:33:22.819Z",
-        "title": "Rust for Rustaceans"
       }
     ],
     "user_color_schemes": {
@@ -512,6 +586,18 @@
         "name": "new"
       }
     }
+  },
+  "speechd-voice-table-state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAZoAAAADAAEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAADAAAA0gAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAD6AAAAAAAAAAAAA=="
+  },
+  "tts_speechd": {
+    "rate": 100,
+    "voice": [
+      "Piper",
+      "en-us",
+      "MALE1"
+    ]
   },
   "viewer-highlights-search-case-sensitive": false,
   "viewer-highlights-search-mode": "word",

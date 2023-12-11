@@ -57,6 +57,16 @@ alias \
 	xi="sudo xbps-install" \
 	xr="sudo xbps-remove -R" \
 	xq="xbps-query" \
+	ts="timetrace start" \
+	tp="timetrace stop" \
+	tc="timetrace create project" \
+	td="timetrace delete project" \
+	tl="timetrace list projects" \
+	tt="timetrace status" \
+	yu="yay -Syu" \
+	yc="yay -Sc; yay -Yc" \
+	yl="sudo pacman -Qi | egrep '^(Name|Installed)' | cut -f2 -d':' | paste - - | column -t | sort -nrk 2 | grep MiB | less" \
+	yr="yay -Rns" \
 	z="zathura"
 
 alias \
