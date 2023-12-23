@@ -1,22 +1,22 @@
 {
-  "add books dialog dir": "/home/fahmida/downloads/extract(all-zip-gz)/rust-books/OneDrive-2023-10-08",
+  "add books dialog dir": "/home/fahmida",
   "add books dialog dir-last-used-filter-spec-all-files": false,
   "annots-export-save": "/home/fahmida/downloads/extract(all-zip-gz)/highlights.calibre_highlights",
   "notified-version-updates": {
     "__class__": "set",
     "__value__": [
-      "6.29",
-      "6.26",
-      "6.25",
       "6.28",
-      "7.1"
+      "6.26",
+      "7.1",
+      "6.25",
+      "6.29"
     ]
   },
   "s_r_search_mode": 0,
   "sort_history": [
     [
       "pubdate",
-      true
+      false
     ],
     [
       "title",

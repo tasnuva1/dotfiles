@@ -171,26 +171,26 @@
     "frame_geometry": {
       "height": 768,
       "width": 1366,
-      "x": 0,
-      "y": 0
+      "x": -3,
+      "y": -3
     },
     "full_screened": false,
     "geometry": {
       "height": 762,
       "width": 1360,
-      "x": 3,
-      "y": 3
+      "x": 0,
+      "y": 0
     },
     "maximized": false,
     "normal_geometry": {
       "height": 762,
       "width": 1360,
-      "x": 3,
-      "y": 3
+      "x": 0,
+      "y": 0
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAAAAAAAAAABVUAAAL/AAAAAwAAAAMAAAVSAAAC/AAAAAAAAAAABVYAAAADAAAAAwAABVIAAAL8"
+      "__value__": "AdnQywADAAD////9/////QAABVIAAAL8AAAAAAAAAAAAAAVPAAAC+QAAAAAAAAAABVYAAAAAAAAAAAAABU8AAAL5"
     },
     "screen": {
       "depth": 24,
@@ -202,7 +202,7 @@
         "y": 0
       },
       "index_in_screens_list": 0,
-      "manufacturer": "Samsung Display Corp.",
+      "manufacturer": "",
       "model": "",
       "name": "LVDS-1",
       "serial": "",
@@ -683,7 +683,7 @@
     "__value__": "AAAA/wAAAAEAAAACAAABwgAAAcIA/////wEAAAABAA=="
   },
   "library_usage_stats": {
-    "/home/fahmida/Calibre Library": 182
+    "/home/fahmida/Calibre Library": 204
   },
   "previous_sort_order_BooksView": {
     "authors": true,
