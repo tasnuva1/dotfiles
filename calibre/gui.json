@@ -169,28 +169,28 @@
   },
   "geometry-of-calibre_main_window_geometry": {
     "frame_geometry": {
-      "height": 768,
-      "width": 1366,
-      "x": -3,
-      "y": -3
+      "height": 747,
+      "width": 745,
+      "x": 0,
+      "y": 0
     },
     "full_screened": false,
     "geometry": {
-      "height": 762,
-      "width": 1360,
-      "x": 0,
-      "y": 0
+      "height": 741,
+      "width": 739,
+      "x": 3,
+      "y": 3
     },
     "maximized": false,
     "normal_geometry": {
-      "height": 762,
-      "width": 1360,
-      "x": 0,
-      "y": 0
+      "height": 741,
+      "width": 739,
+      "x": 3,
+      "y": 3
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAD////9/////QAABVIAAAL8AAAAAAAAAAAAAAVPAAAC+QAAAAAAAAAABVYAAAAAAAAAAAAABU8AAAL5"
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAAAugAAALqAAAAAwAAAAMAAALlAAAC5wAAAAAAAAAABVYAAAADAAAAAwAAAuUAAALn"
     },
     "screen": {
       "depth": 24,
@@ -683,7 +683,7 @@
     "__value__": "AAAA/wAAAAEAAAACAAABwgAAAcIA/////wEAAAABAA=="
   },
   "library_usage_stats": {
-    "/home/fahmida/Calibre Library": 204
+    "/home/fahmida/Calibre Library": 206
   },
   "previous_sort_order_BooksView": {
     "authors": true,
