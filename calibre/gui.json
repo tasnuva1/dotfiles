@@ -1,4 +1,51 @@
 {
+  "Prefs Viewer dialog": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAHPAAABAwAAA4YAAAH8AAAB0gAAAQYAAAODAAAB+QAAAAAAAAAABVYAAAHSAAABBgAAA4MAAAH5"
+  },
+  "action-layout-toolbar": [
+    "Add Books",
+    "Edit Metadata",
+    null,
+    "Convert Books",
+    "View",
+    null,
+    "Store",
+    "Donate",
+    "Fetch News",
+    "Help",
+    null,
+    "Remove Books",
+    "Choose Library",
+    "Save To Disk",
+    "Connect Share",
+    "Tweak ePub",
+    "Preferences",
+    "Reading List"
+  ],
+  "action-layout-toolbar-device": [
+    "Add Books",
+    "Edit Metadata",
+    null,
+    "Convert Books",
+    "View",
+    "Send To Device",
+    null,
+    null,
+    "Location Manager",
+    null,
+    null,
+    "Fetch News",
+    "Save To Disk",
+    "Store",
+    "Connect Share",
+    null,
+    "Remove Books",
+    null,
+    "Help",
+    "Preferences",
+    "Reading List"
+  ],
   "basic_metadata_widget_splitter_state": {
     "__class__": "bytearray",
     "__value__": "AAAA/wAAAAEAAAADAAAA5gAAAVsAAAEKAf////8BAAAAAQA="
@@ -116,6 +163,57 @@
     ]
   ],
   "general_category_editor_row_height": 30,
+  "geometry-of-Plugin Updater plugin:plugin updater dialog": {
+    "frame_geometry": {
+      "height": 484,
+      "width": 882,
+      "x": 242,
+      "y": 142
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 478,
+      "width": 876,
+      "x": 245,
+      "y": 145
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 478,
+      "width": 876,
+      "x": 245,
+      "y": 145
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAADyAAAAjgAABGMAAAJxAAAA9QAAAJEAAARgAAACbgAAAAAAAAAABVYAAAD1AAAAkQAABGAAAAJu"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Samsung Display Corp.",
+      "model": "",
+      "name": "LVDS-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
   "geometry-of-bulk_metadata_window_geometry": {
     "frame_geometry": {
       "height": 724,
@@ -169,28 +267,28 @@
   },
   "geometry-of-calibre_main_window_geometry": {
     "frame_geometry": {
-      "height": 747,
-      "width": 745,
+      "height": 768,
+      "width": 1366,
       "x": 0,
       "y": 0
     },
     "full_screened": false,
     "geometry": {
-      "height": 741,
-      "width": 739,
+      "height": 762,
+      "width": 1360,
       "x": 3,
       "y": 3
     },
     "maximized": false,
     "normal_geometry": {
-      "height": 741,
-      "width": 739,
+      "height": 762,
+      "width": 1360,
       "x": 3,
       "y": 3
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAAAAAAAAAAAugAAALqAAAAAwAAAAMAAALlAAAC5wAAAAAAAAAABVYAAAADAAAAAwAAAuUAAALn"
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAABVUAAAL/AAAAAwAAAAMAAAVSAAAC/AAAAAAAAAAABVYAAAADAAAAAwAABVIAAAL8"
     },
     "screen": {
       "depth": 24,
@@ -202,7 +300,7 @@
         "y": 0
       },
       "index_in_screens_list": 0,
-      "manufacturer": "",
+      "manufacturer": "Samsung Display Corp.",
       "model": "",
       "name": "LVDS-1",
       "serial": "",
@@ -524,6 +622,57 @@
       }
     }
   },
+  "geometry-of-plugin config dialog:User interface action:Reading List": {
+    "frame_geometry": {
+      "height": 438,
+      "width": 488,
+      "x": 439,
+      "y": 165
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 432,
+      "width": 482,
+      "x": 442,
+      "y": 168
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 432,
+      "width": 482,
+      "x": 442,
+      "y": 168
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAG3AAAApQAAA54AAAJaAAABugAAAKgAAAObAAACVwAAAAAAAAAABVYAAAG6AAAAqAAAA5sAAAJX"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Samsung Display Corp.",
+      "model": "",
+      "name": "LVDS-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
   "geometry-of-preferences dialog geometry": {
     "frame_geometry": {
       "height": 726,
@@ -683,7 +832,7 @@
     "__value__": "AAAA/wAAAAEAAAACAAABwgAAAcIA/////wEAAAABAA=="
   },
   "library_usage_stats": {
-    "/home/fahmida/Calibre Library": 206
+    "/home/fahmida/Calibre Library": 224
   },
   "previous_sort_order_BooksView": {
     "authors": true,

@@ -2,27 +2,27 @@
   "geometry-of-main_window_geometry": {
     "frame_geometry": {
       "height": 768,
-      "width": 745,
+      "width": 1366,
       "x": 0,
       "y": 0
     },
     "full_screened": false,
     "geometry": {
       "height": 762,
-      "width": 739,
+      "width": 1360,
       "x": 3,
       "y": 3
     },
     "maximized": false,
     "normal_geometry": {
       "height": 762,
-      "width": 739,
+      "width": 1360,
       "x": 3,
       "y": 3
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAAAAAAAAAAAugAAAL/AAAAAwAAAAMAAALlAAAC/AAAAAAAAAAABVYAAAADAAAAAwAAAuUAAAL8"
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAABVUAAAL/AAAAAwAAAAMAAAVSAAAC/AAAAAAAAAAABVYAAAADAAAAAwAABVIAAAL8"
     },
     "screen": {
       "depth": 24,
@@ -34,7 +34,7 @@
         "y": 0
       },
       "index_in_screens_list": 0,
-      "manufacturer": "",
+      "manufacturer": "Samsung Display Corp.",
       "model": "",
       "name": "LVDS-1",
       "serial": "",
@@ -174,7 +174,7 @@
   },
   "main_window_state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAD6AAAC+vwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAAAAAC+gAAAIcA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAAAAAL6AAAAkwD///8AAAABAAAA/AAAAvr8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAAAAAvoAAAB7AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOQA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAAAAAC+gAAAMYA////AAAC4wAAAvoAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAD6AAAC5fwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAAAAAC+gAAAIcA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAAAAALlAAAAkwD///8AAAABAAAA/AAAAvr8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAAAAAvoAAAB7AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOQA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAAAAAC+gAAAMYA////AAAFUAAAAvoAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
   },
   "old_prefs_migrated": true,
   "saved-highlights-search-settings": {},
@@ -192,6 +192,10 @@
       "mode": "normal"
     },
     "think in terms of how": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "working with others": {
       "case_sensitive": false,
       "mode": "normal"
     }
@@ -386,6 +390,41 @@
     "standalone_recently_opened": [
       {
         "authors": [
+          "Rustacean Team"
+        ],
+        "key": "/home/fahmida/Calibre Library/Rustacean Team/Practical Rust 1.x Cookbook (28)/Practical Rust 1.x Cookbook - Rustacean Team.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Rustacean Team/Practical Rust 1.x Cookbook (28)/Practical Rust 1.x Cookbook - Rustacean Team.epub",
+        "timestamp": "2024-01-14T07:54:02.425Z",
+        "title": "Practical Rust 1.x Cookbook"
+      },
+      {
+        "key": "/home/fahmida/Calibre Library/Unknown/4 Books That Could Change Your Life (27)/4 Books That Could Change Your Life - Unknown.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Unknown/4 Books That Could Change Your Life (27)/4 Books That Could Change Your Life - Unknown.epub",
+        "timestamp": "2024-01-06T11:08:53.809Z",
+        "title": "4 Books That Could Change Your Life"
+      },
+      {
+        "authors": [
+          "Jim Blandy",
+          "Jason Orendorff",
+          "Leonora F . S. Tindall"
+        ],
+        "key": "/home/fahmida/Calibre Library/Jim Blandy/3. Programming Rust (5)/3. Programming Rust - Jim Blandy.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Jim Blandy/3. Programming Rust (5)/3. Programming Rust - Jim Blandy.epub",
+        "timestamp": "2024-01-02T01:40:10.917Z",
+        "title": "Programming Rust, 2nd Edition"
+      },
+      {
+        "authors": [
+          "Amplenote"
+        ],
+        "key": "/home/fahmida/Calibre Library/Amplenote/Open source path & interaction & communcation (25)/Open source path & interaction & communcat - Amplenote.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Amplenote/Open source path & interaction & communcation (25)/Open source path & interaction & communcat - Amplenote.epub",
+        "timestamp": "2024-01-01T21:33:48.410Z",
+        "title": "Open source path & interaction & communcation"
+      },
+      {
+        "authors": [
           "Ken Youens-Clark"
         ],
         "key": "/home/fahmida/Calibre Library/Ken Youens-Clark/1. Command-Line Rust (18)/1. Command-Line Rust - Ken Youens-Clark.epub",
@@ -549,17 +588,6 @@
       },
       {
         "authors": [
-          "Jim Blandy",
-          "Jason Orendorff",
-          "Leonora F . S. Tindall"
-        ],
-        "key": "/home/fahmida/Calibre Library/Jim Blandy/3. Programming Rust (5)/3. Programming Rust - Jim Blandy.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Jim Blandy/3. Programming Rust (5)/3. Programming Rust - Jim Blandy.epub",
-        "timestamp": "2023-11-04T06:48:06.440Z",
-        "title": "Programming Rust, 2nd Edition"
-      },
-      {
-        "authors": [
           "Eliezer Yudkowsky",
           "Stavros Korokithakis"
         ],
@@ -585,35 +613,6 @@
         "pathtoebook": "/home/fahmida/Calibre Library/James Clear/Atomic Habits_ An Easy & Proven Way to Build Good Habits & Break Bad Ones (8)/Atomic Habits_ An Easy & Proven Way to Bui - James Clear.epub",
         "timestamp": "2023-10-23T09:37:20.149Z",
         "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"
-      },
-      {
-        "authors": [
-          "Oscar Wilde"
-        ],
-        "key": "/home/fahmida/Calibre Library/Oscar Wilde/The Picture of Dorian Gray (12)/The Picture of Dorian Gray - Oscar Wilde.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Oscar Wilde/The Picture of Dorian Gray (12)/The Picture of Dorian Gray - Oscar Wilde.epub",
-        "timestamp": "2023-10-23T00:45:00.852Z",
-        "title": "The Picture of Dorian Gray"
-      },
-      {
-        "authors": [
-          "Jim Blandy",
-          "Jason Orendorff",
-          "Leonora F . S. Tindall"
-        ],
-        "key": "/home/fahmida/Calibre Library/Jim Blandy/2. Programming Rust, 2nd Edition (5)/2. Programming Rust, 2nd Edition - Jim Blandy.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Jim Blandy/2. Programming Rust, 2nd Edition (5)/2. Programming Rust, 2nd Edition - Jim Blandy.epub",
-        "timestamp": "2023-10-20T03:06:50.795Z",
-        "title": "Programming Rust, 2nd Edition"
-      },
-      {
-        "authors": [
-          "Sally Rooney"
-        ],
-        "key": "/home/fahmida/Calibre Library/Sally Rooney/Beautiful World, Where Are You_ A Novel (11)/Beautiful World, Where Are You_ A Novel - Sally Rooney.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Sally Rooney/Beautiful World, Where Are You_ A Novel (11)/Beautiful World, Where Are You_ A Novel - Sally Rooney.epub",
-        "timestamp": "2023-10-19T04:43:37.233Z",
-        "title": "Beautiful World, Where Are You: A Novel"
       }
     ],
     "user_color_schemes": {

@@ -14,7 +14,7 @@ unsetopt PROMPT_SP
 export EDITOR="helix"
 export TERMINAL="st"
 export TERMINAL_PROG="st"
-export BROWSER="google-chrome-stable"
+export BROWSER="thorium-browser"
 export BARTIB_FILE="/home/fahmida/.local/activities.bartib"
 
 
