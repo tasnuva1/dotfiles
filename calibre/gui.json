@@ -272,23 +272,23 @@
       "x": 0,
       "y": 0
     },
-    "full_screened": false,
+    "full_screened": true,
     "geometry": {
-      "height": 762,
-      "width": 1360,
-      "x": 3,
-      "y": 3
+      "height": 768,
+      "width": 1366,
+      "x": 0,
+      "y": 0
     },
     "maximized": false,
     "normal_geometry": {
       "height": 762,
-      "width": 1360,
+      "width": 813,
       "x": 3,
       "y": 3
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAAAAAAAAAABVUAAAL/AAAAAwAAAAMAAAVSAAAC/AAAAAAAAAAABVYAAAADAAAAAwAABVIAAAL8"
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAABVUAAAL/AAAAAwAAAAMAAAMvAAAC/AAAAAAABAAABVYAAAAAAAAAAAAABVUAAAL/"
     },
     "screen": {
       "depth": 24,
@@ -832,7 +832,7 @@
     "__value__": "AAAA/wAAAAEAAAACAAABwgAAAcIA/////wEAAAABAA=="
   },
   "library_usage_stats": {
-    "/home/fahmida/Calibre Library": 224
+    "/home/fahmida/Calibre Library": 242
   },
   "previous_sort_order_BooksView": {
     "authors": true,

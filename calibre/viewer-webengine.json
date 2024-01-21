@@ -2,27 +2,27 @@
   "geometry-of-main_window_geometry": {
     "frame_geometry": {
       "height": 768,
-      "width": 1366,
+      "width": 813,
       "x": 0,
       "y": 0
     },
     "full_screened": false,
     "geometry": {
       "height": 762,
-      "width": 1360,
+      "width": 807,
       "x": 3,
       "y": 3
     },
     "maximized": false,
     "normal_geometry": {
       "height": 762,
-      "width": 1360,
+      "width": 807,
       "x": 3,
       "y": 3
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAAAAAAAAAABVUAAAL/AAAAAwAAAAMAAAVSAAAC/AAAAAAAAAAABVYAAAADAAAAAwAABVIAAAL8"
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAAAywAAAL/AAAAAwAAAAMAAAMpAAAC/AAAAAAAAAAABVYAAAADAAAAAwAAAykAAAL8"
     },
     "screen": {
       "depth": 24,
@@ -152,7 +152,7 @@
       }
     }
   },
-  "highlight_export_format": "calibre_highlights",
+  "highlight_export_format": "txt",
   "local_storage": {
     "search-bar-history-search-for-sc": [
       "copy",
@@ -174,7 +174,7 @@
   },
   "main_window_state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAD6AAAC5fwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAAAAAC+gAAAIcA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAAAAALlAAAAkwD///8AAAABAAAA/AAAAvr8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAAAAAvoAAAB7AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOQA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAAAAAC+gAAAMYA////AAAFUAAAAvoAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAD6AAAC+vwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAAAAAC+gAAAIcA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAAAAAL6AAAAkwD///8AAAABAAAA/AAAAvr8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAAAAAvoAAAB7AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOQA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawEAAAAAAAAC+gAAAMYA////AAACJQAAAvoAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
   },
   "old_prefs_migrated": true,
   "saved-highlights-search-settings": {},
@@ -183,7 +183,35 @@
       "case_sensitive": false,
       "mode": "normal"
     },
+    "brad": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "bread": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "care": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "freedom": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
     "interact": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "location 6": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "location 630": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "mini": {
       "case_sensitive": false,
       "mode": "normal"
     },
@@ -192,6 +220,22 @@
       "mode": "normal"
     },
     "think in terms of how": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "wait": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "we are b": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "we are be": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "we're b": {
       "case_sensitive": false,
       "mode": "normal"
     },
@@ -389,12 +433,27 @@
     "standalone_misc_settings": {},
     "standalone_recently_opened": [
       {
+        "key": "/home/fahmida/Calibre Library/Unknown/4 Books That Could Change Your Life (29)/4 Books That Could Change Your Life - Unknown.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Unknown/4 Books That Could Change Your Life (29)/4 Books That Could Change Your Life - Unknown.epub",
+        "timestamp": "2024-01-21T17:18:59.945Z",
+        "title": "4 Books That Could Change Your Life"
+      },
+      {
+        "authors": [
+          "hudsjen"
+        ],
+        "key": "/home/fahmida/Calibre Library/hudsjen/Microsoft Word - To the American people (24)/Microsoft Word - To the American people - hudsjen.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/hudsjen/Microsoft Word - To the American people (24)/Microsoft Word - To the American people - hudsjen.epub",
+        "timestamp": "2024-01-20T17:36:14.797Z",
+        "title": "Microsoft Word - To the American people"
+      },
+      {
         "authors": [
           "Rustacean Team"
         ],
         "key": "/home/fahmida/Calibre Library/Rustacean Team/Practical Rust 1.x Cookbook (28)/Practical Rust 1.x Cookbook - Rustacean Team.epub",
         "pathtoebook": "/home/fahmida/Calibre Library/Rustacean Team/Practical Rust 1.x Cookbook (28)/Practical Rust 1.x Cookbook - Rustacean Team.epub",
-        "timestamp": "2024-01-14T07:54:02.425Z",
+        "timestamp": "2024-01-14T13:43:13.448Z",
         "title": "Practical Rust 1.x Cookbook"
       },
       {
@@ -449,15 +508,6 @@
         "pathtoebook": "/home/fahmida/Calibre Library/Tim McNamara/5. Rust in Action_ Systems programming concepts and techniques (14)/5. Rust in Action_ Systems programming con - Tim McNamara.epub",
         "timestamp": "2023-12-16T00:09:40.975Z",
         "title": "Rust in Action: Systems programming concepts and techniques"
-      },
-      {
-        "authors": [
-          "hudsjen"
-        ],
-        "key": "/home/fahmida/Calibre Library/hudsjen/Microsoft Word - To the American people (24)/Microsoft Word - To the American people - hudsjen.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/hudsjen/Microsoft Word - To the American people (24)/Microsoft Word - To the American people - hudsjen.epub",
-        "timestamp": "2023-12-14T00:03:49.921Z",
-        "title": "Microsoft Word - To the American people"
       },
       {
         "authors": [
@@ -604,15 +654,6 @@
         "pathtoebook": "/home/fahmida/Calibre Library/Douglas Adams/The Ultimate Hitchhiker's Guide to the Galaxy (9)/The Ultimate Hitchhiker's Guide to the Gal - Douglas Adams.epub",
         "timestamp": "2023-10-28T08:45:48.081Z",
         "title": "The Ultimate Hitchhiker's Guide to the Galaxy"
-      },
-      {
-        "authors": [
-          "James Clear"
-        ],
-        "key": "/home/fahmida/Calibre Library/James Clear/Atomic Habits_ An Easy & Proven Way to Build Good Habits & Break Bad Ones (8)/Atomic Habits_ An Easy & Proven Way to Bui - James Clear.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/James Clear/Atomic Habits_ An Easy & Proven Way to Build Good Habits & Break Bad Ones (8)/Atomic Habits_ An Easy & Proven Way to Bui - James Clear.epub",
-        "timestamp": "2023-10-23T09:37:20.149Z",
-        "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"
       }
     ],
     "user_color_schemes": {
