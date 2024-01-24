@@ -52,9 +52,14 @@
   "new_version_notification": false,
   "oldest_news": 60,
   "overwrite_author_title_metadata": true,
-  "plugin_search_history": [],
+  "plugin_search_history": [
+    "page c",
+    "Count Pages"
+  ],
   "save_to_disk_template_history": [],
-  "scheduler_search_history": [],
+  "scheduler_search_history": [
+    "us"
+  ],
   "search_as_you_type": false,
   "send_to_device_template_history": [],
   "send_to_storage_card_by_default": false,

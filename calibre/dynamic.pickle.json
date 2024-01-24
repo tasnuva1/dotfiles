@@ -5,26 +5,26 @@
   "notified-version-updates": {
     "__class__": "set",
     "__value__": [
-      "6.29",
-      "7.1",
-      "6.25",
       "6.28",
-      "6.26"
+      "6.26",
+      "6.25",
+      "6.29",
+      "7.1"
     ]
   },
   "s_r_search_mode": 0,
   "sort_history": [
     [
-      "pubdate",
+      "#pages",
+      true
+    ],
+    [
+      "#lastopened",
       false
     ],
     [
-      "title",
-      false
-    ],
-    [
-      "tags",
-      false
+      "#pages",
+      true
     ],
     [
       "timestamp",

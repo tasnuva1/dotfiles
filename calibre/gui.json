@@ -1,7 +1,19 @@
 {
+  "CustomProgressBar": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAI1AAABTQAAAyAAAAGxAAACOAAAAVAAAAMdAAABrgAAAAAAAAAABVYAAAI4AAABUAAAAx0AAAGu"
+  },
+  "Generate Cover plugin:cover options dialog": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAACJAAAACgAABMwAAAL1AAAAjAAAAA0AAATJAAAC8gAAAAAAAAAABVYAAACMAAAADQAABMkAAALy"
+  },
   "Prefs Viewer dialog": {
     "__class__": "bytearray",
     "__value__": "AdnQywADAAAAAAHPAAABAwAAA4YAAAH8AAAB0gAAAQYAAAODAAAB+QAAAAAAAAAABVYAAAHSAAABBgAAA4MAAAH5"
+  },
+  "Prettify Cover plugin: cover options dialog": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAFYAAAALQAAA/4AAALeAAABWwAAADAAAAP7AAAC2wAAAAAAAAAABVYAAAFbAAAAMAAAA/sAAALb"
   },
   "action-layout-toolbar": [
     "Add Books",
@@ -21,7 +33,17 @@
     "Connect Share",
     "Tweak ePub",
     "Preferences",
-    "Reading List"
+    "Reading List",
+    "Send Highlights to Obsidian",
+    "Generate Cover",
+    "BookFusion Plugin",
+    "Audio M3U",
+    "Prettify Cover",
+    "Auto Datestamp and View",
+    "Modify ePub",
+    "Count Pages",
+    "View Manager",
+    "Job Spy"
   ],
   "action-layout-toolbar-device": [
     "Add Books",
@@ -44,14 +66,24 @@
     null,
     "Help",
     "Preferences",
-    "Reading List"
+    "Reading List",
+    "Send Highlights to Obsidian",
+    "Generate Cover",
+    "BookFusion Plugin",
+    "Audio M3U",
+    "Prettify Cover",
+    "Auto Datestamp and View",
+    "Modify ePub",
+    "Count Pages",
+    "View Manager",
+    "Job Spy"
   ],
   "basic_metadata_widget_splitter_state": {
     "__class__": "bytearray",
     "__value__": "AAAA/wAAAAEAAAADAAAA5gAAAVsAAAEKAf////8BAAAAAQA="
   },
   "book_details_splitter_horizontal_state": [
-    true,
+    false,
     200
   ],
   "book_list_pin_splitter_state": {
@@ -60,9 +92,24 @@
   },
   "bulk-mde-casing-algorithm": "title_case",
   "bulk_metadata_window_tab": 1,
+  "color_palette": "dark",
   "cover_browser_splitter_vertical_state": [
     false,
     300
+  ],
+  "cover_grid_color": [
+    80,
+    80,
+    80
+  ],
+  "cover_grid_texture": null,
+  "custcol-prefs-table-geometry": [
+    86,
+    118,
+    107,
+    323,
+    94,
+    86
   ],
   "custom_colors_for_color_dialog": [
     [
@@ -162,6 +209,7 @@
       255
     ]
   ],
+  "default_author_link": null,
   "general_category_editor_row_height": 30,
   "geometry-of-Plugin Updater plugin:plugin updater dialog": {
     "frame_geometry": {
@@ -272,23 +320,23 @@
       "x": 0,
       "y": 0
     },
-    "full_screened": true,
+    "full_screened": false,
     "geometry": {
-      "height": 768,
-      "width": 1366,
-      "x": 0,
-      "y": 0
+      "height": 762,
+      "width": 1360,
+      "x": 3,
+      "y": 3
     },
     "maximized": false,
     "normal_geometry": {
       "height": 762,
-      "width": 813,
+      "width": 1360,
       "x": 3,
       "y": 3
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAAAAAAAAAABVUAAAL/AAAAAwAAAAMAAAMvAAAC/AAAAAAABAAABVYAAAAAAAAAAAAABVUAAAL/"
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAABVUAAAL/AAAAAwAAAAMAAAVSAAAC/AAAAAAAAAAABVYAAAADAAAAAwAABVIAAAL8"
     },
     "screen": {
       "depth": 24,
@@ -622,6 +670,159 @@
       }
     }
   },
+  "geometry-of-plugin config dialog:User interface action:BookFusion Plugin": {
+    "frame_geometry": {
+      "height": 275,
+      "width": 440,
+      "x": 463,
+      "y": 246
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 269,
+      "width": 434,
+      "x": 466,
+      "y": 249
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 269,
+      "width": 434,
+      "x": 466,
+      "y": 249
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAHPAAAA9gAAA4YAAAIIAAAB0gAAAPkAAAODAAACBQAAAAAAAAAABVYAAAHSAAAA+QAAA4MAAAIF"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Samsung Display Corp.",
+      "model": "",
+      "name": "LVDS-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-plugin config dialog:User interface action:Count Pages": {
+    "frame_geometry": {
+      "height": 630,
+      "width": 518,
+      "x": 424,
+      "y": 69
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 624,
+      "width": 512,
+      "x": 427,
+      "y": 72
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 624,
+      "width": 512,
+      "x": 427,
+      "y": 72
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAGoAAAARQAAA60AAAK6AAABqwAAAEgAAAOqAAACtwAAAAAAAAAABVYAAAGrAAAASAAAA6oAAAK3"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Samsung Display Corp.",
+      "model": "",
+      "name": "LVDS-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-plugin config dialog:User interface action:Highlights to Obsidian": {
+    "frame_geometry": {
+      "height": 181,
+      "width": 234,
+      "x": 566,
+      "y": 293
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 175,
+      "width": 228,
+      "x": 569,
+      "y": 296
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 175,
+      "width": 228,
+      "x": 569,
+      "y": 296
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAI2AAABJQAAAx8AAAHZAAACOQAAASgAAAMcAAAB1gAAAAAAAAAABVYAAAI5AAABKAAAAxwAAAHW"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Samsung Display Corp.",
+      "model": "",
+      "name": "LVDS-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
   "geometry-of-plugin config dialog:User interface action:Reading List": {
     "frame_geometry": {
       "height": 438,
@@ -775,6 +976,57 @@
       }
     }
   },
+  "geometry-of-scheduler_dialog_geometry": {
+    "frame_geometry": {
+      "height": 606,
+      "width": 806,
+      "x": 280,
+      "y": 81
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 600,
+      "width": 800,
+      "x": 283,
+      "y": 84
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 600,
+      "width": 800,
+      "x": 283,
+      "y": 84
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAEYAAAAUQAABD0AAAKuAAABGwAAAFQAAAQ6AAACqwAAAAAAAAAABVYAAAEbAAAAVAAABDoAAAKr"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Samsung Display Corp.",
+      "model": "",
+      "name": "LVDS-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
   "geometry-of-tag_list_editor_dialog_geometry": {
     "frame_geometry": {
       "height": 507,
@@ -832,24 +1084,34 @@
     "__value__": "AAAA/wAAAAEAAAACAAABwgAAAcIA/////wEAAAABAA=="
   },
   "library_usage_stats": {
-    "/home/fahmida/Calibre Library": 242
+    "/home/fahmida/Calibre Library": 272
+  },
+  "modify epub plugin:options dialog": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAGPAAAAqwAAA8YAAAJUAAABkgAAAK4AAAPDAAACUQAAAAAAAAAABVYAAAGSAAAArgAAA8MAAAJR"
   },
   "previous_sort_order_BooksView": {
+    "#lastopened": false,
+    "#pages": true,
     "authors": true,
     "pubdate": false,
     "publisher": false,
     "rating": true,
     "series": true,
     "size": true,
-    "tags": false,
-    "timestamp": true
+    "tags": true,
+    "timestamp": true,
+    "title": false
   },
   "quick_start_guide_added": true,
   "quickview visible": false,
   "quickview_dialog_books_table_widths": [
     265,
     265,
-    265
+    265,
+    100,
+    100,
+    100
   ],
   "recently_used_languages": [
     "English"
@@ -865,11 +1127,12 @@
     "∞ ∞ ∞",
     "¤ ¤ ¤"
   ],
-  "search bar visible": true,
+  "search bar visible": false,
+  "show_emblems": false,
   "tag browser search box visible": false,
   "tag_browser_show_counts": false,
   "tag_browser_splitter_horizontal_state": [
-    false,
+    true,
     200
   ],
   "tag_list_editor_table_widths": [
@@ -877,5 +1140,12 @@
     191,
     191,
     191
-  ]
+  ],
+  "tb_search_order": {
+    "0": 1,
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 0
+  }
 }

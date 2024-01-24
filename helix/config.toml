@@ -1,5 +1,6 @@
 # theme = "jellybeans"
-theme = "ayu_evolve"
+# theme = "ayu_evolve"
+theme = "bogster"
 
 [editor]
 line-number = "absolute"

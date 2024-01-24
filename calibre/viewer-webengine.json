@@ -2,27 +2,27 @@
   "geometry-of-main_window_geometry": {
     "frame_geometry": {
       "height": 768,
-      "width": 813,
+      "width": 1366,
       "x": 0,
       "y": 0
     },
     "full_screened": false,
     "geometry": {
       "height": 762,
-      "width": 807,
+      "width": 1360,
       "x": 3,
       "y": 3
     },
     "maximized": false,
     "normal_geometry": {
       "height": 762,
-      "width": 807,
+      "width": 1360,
       "x": 3,
       "y": 3
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAAAAAAAAAAAywAAAL/AAAAAwAAAAMAAAMpAAAC/AAAAAAAAAAABVYAAAADAAAAAwAAAykAAAL8"
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAABVUAAAL/AAAAAwAAAAMAAAVSAAAC/AAAAAAAAAAABVYAAAADAAAAAwAABVIAAAL8"
     },
     "screen": {
       "depth": 24,
@@ -174,7 +174,7 @@
   },
   "main_window_state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAD6AAAC+vwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAAAAAC+gAAAIcA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAAAAAL6AAAAkwD///8AAAABAAAA/AAAAvr8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAAAAAvoAAAB7AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOQA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawEAAAAAAAAC+gAAAMYA////AAACJQAAAvoAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAD6AAAC+vwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAAAAAC+gAAAIcA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAAAAAL6AAAAkwD///8AAAABAAAA/AAAAvr8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAAAAAvoAAAB7AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOQA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawEAAAAAAAAC+gAAAMYA////AAAETgAAAvoAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
   },
   "old_prefs_migrated": true,
   "saved-highlights-search-settings": {},
@@ -433,9 +433,24 @@
     "standalone_misc_settings": {},
     "standalone_recently_opened": [
       {
+        "key": "/home/fahmida/Calibre Library/Unknown/highlights (32)/highlights - Unknown.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Unknown/highlights (32)/highlights - Unknown.epub",
+        "timestamp": "2024-01-22T04:23:32.519Z",
+        "title": "highlights"
+      },
+      {
+        "authors": [
+          "Luca Palmieri"
+        ],
+        "key": "/home/fahmida/Calibre Library/Luca Palmieri/1. Zero To Production In Rust (19)/1. Zero To Production In Rust - Luca Palmieri.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Luca Palmieri/1. Zero To Production In Rust (19)/1. Zero To Production In Rust - Luca Palmieri.epub",
+        "timestamp": "2024-01-22T04:02:41.626Z",
+        "title": "Zero To Production In Rust"
+      },
+      {
         "key": "/home/fahmida/Calibre Library/Unknown/4 Books That Could Change Your Life (29)/4 Books That Could Change Your Life - Unknown.epub",
         "pathtoebook": "/home/fahmida/Calibre Library/Unknown/4 Books That Could Change Your Life (29)/4 Books That Could Change Your Life - Unknown.epub",
-        "timestamp": "2024-01-21T17:18:59.945Z",
+        "timestamp": "2024-01-22T03:15:58.754Z",
         "title": "4 Books That Could Change Your Life"
       },
       {
@@ -541,15 +556,6 @@
         "authors": [
           "Luca Palmieri"
         ],
-        "key": "/home/fahmida/Calibre Library/Luca Palmieri/1. Zero To Production In Rust (19)/1. Zero To Production In Rust - Luca Palmieri.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Luca Palmieri/1. Zero To Production In Rust (19)/1. Zero To Production In Rust - Luca Palmieri.epub",
-        "timestamp": "1980-01-01T06:19:22.941Z",
-        "title": "Zero To Production In Rust"
-      },
-      {
-        "authors": [
-          "Luca Palmieri"
-        ],
         "key": "/home/fahmida/Calibre Library/Luca Palmieri/Zero To Production In Rust (19)/Zero To Production In Rust - Luca Palmieri.epub",
         "pathtoebook": "/home/fahmida/Calibre Library/Luca Palmieri/Zero To Production In Rust (19)/Zero To Production In Rust - Luca Palmieri.epub",
         "timestamp": "2023-12-04T07:34:16.459Z",
@@ -645,15 +651,6 @@
         "pathtoebook": "/home/fahmida/Calibre Library/Eliezer Yudkowsky/Harry Potter and the Methods of Rationality (13)/Harry Potter and the Methods of Rationalit - Eliezer Yudkowsky.epub",
         "timestamp": "2023-10-28T08:46:21.885Z",
         "title": "Harry Potter and the Methods of Rationality"
-      },
-      {
-        "authors": [
-          "Douglas Adams"
-        ],
-        "key": "/home/fahmida/Calibre Library/Douglas Adams/The Ultimate Hitchhiker's Guide to the Galaxy (9)/The Ultimate Hitchhiker's Guide to the Gal - Douglas Adams.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Douglas Adams/The Ultimate Hitchhiker's Guide to the Galaxy (9)/The Ultimate Hitchhiker's Guide to the Gal - Douglas Adams.epub",
-        "timestamp": "2023-10-28T08:45:48.081Z",
-        "title": "The Ultimate Hitchhiker's Guide to the Galaxy"
       }
     ],
     "user_color_schemes": {
