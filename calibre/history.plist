@@ -2,10 +2,18 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>lineedit_history_choose_library_dialog</key>
+	<array>
+		<string>/home/fahmida/downloads/Calibre Library</string>
+	</array>
+	<key>lineedit_history_tag_browser_search</key>
+	<array/>
 	<key>lineedit_history_tag_list_search_box_Tags</key>
 	<array/>
 	<key>lineedit_history_viewer-search-panel-expression</key>
 	<array>
+		<string>just</string>
+		<string>blog</string>
 		<string>freedom</string>
 		<string>location 6</string>
 		<string>location 630</string>

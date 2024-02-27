@@ -43,7 +43,8 @@
     "Modify ePub",
     "Count Pages",
     "View Manager",
-    "Job Spy"
+    "Job Spy",
+    "Reading Goal"
   ],
   "action-layout-toolbar-device": [
     "Add Books",
@@ -76,7 +77,8 @@
     "Modify ePub",
     "Count Pages",
     "View Manager",
-    "Job Spy"
+    "Job Spy",
+    "Reading Goal"
   ],
   "basic_metadata_widget_splitter_state": {
     "__class__": "bytearray",
@@ -92,7 +94,7 @@
   },
   "bulk-mde-casing-algorithm": "title_case",
   "bulk_metadata_window_tab": 1,
-  "color_palette": "dark",
+  "color_palette": "light",
   "cover_browser_splitter_vertical_state": [
     false,
     300
@@ -315,35 +317,35 @@
   },
   "geometry-of-calibre_main_window_geometry": {
     "frame_geometry": {
-      "height": 768,
-      "width": 1366,
+      "height": 747,
+      "width": 1024,
       "x": 0,
-      "y": 0
+      "y": 21
     },
     "full_screened": false,
     "geometry": {
-      "height": 762,
-      "width": 1360,
-      "x": 3,
-      "y": 3
+      "height": 739,
+      "width": 1016,
+      "x": 4,
+      "y": 25
     },
     "maximized": false,
     "normal_geometry": {
-      "height": 762,
-      "width": 1360,
-      "x": 3,
-      "y": 3
+      "height": 739,
+      "width": 1016,
+      "x": 4,
+      "y": 25
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAAAAAAAAAABVUAAAL/AAAAAwAAAAMAAAVSAAAC/AAAAAAAAAAABVYAAAADAAAAAwAABVIAAAL8"
+      "__value__": "AdnQywADAAAAAAAAAAAAFQAAA/8AAAL/AAAABAAAABkAAAP7AAAC+wAAAAAAAAAABAAAAAAEAAAAGQAAA/sAAAL7"
     },
     "screen": {
       "depth": 24,
       "device_pixel_ratio": 1.0,
       "geometry_in_logical_pixels": {
         "height": 768,
-        "width": 1366,
+        "width": 1024,
         "x": 0,
         "y": 0
       },
@@ -354,11 +356,11 @@
       "serial": "",
       "size_in_logical_pixels": {
         "height": 768,
-        "width": 1366
+        "width": 1024
       },
       "virtual_geometry": {
         "height": 768,
-        "width": 1366,
+        "width": 1024,
         "x": 0,
         "y": 0
       }
@@ -621,35 +623,35 @@
   },
   "geometry-of-metasingle_window_geometry3": {
     "frame_geometry": {
-      "height": 724,
-      "width": 1302,
-      "x": 32,
-      "y": 22
+      "height": 726,
+      "width": 1026,
+      "x": -1,
+      "y": 21
     },
     "full_screened": false,
     "geometry": {
       "height": 718,
-      "width": 1296,
-      "x": 35,
+      "width": 1018,
+      "x": 3,
       "y": 25
     },
     "maximized": false,
     "normal_geometry": {
       "height": 718,
-      "width": 1296,
-      "x": 35,
+      "width": 1018,
+      "x": 3,
       "y": 25
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAgAAAAFgAABTUAAALpAAAAIwAAABkAAAUyAAAC5gAAAAAAAAAABVYAAAAjAAAAGQAABTIAAALm"
+      "__value__": "AdnQywADAAD/////AAAAFQAABAAAAALqAAAAAwAAABkAAAP8AAAC5gAAAAAAAAAABAAAAAADAAAAGQAAA/wAAALm"
     },
     "screen": {
       "depth": 24,
       "device_pixel_ratio": 1.0,
       "geometry_in_logical_pixels": {
         "height": 768,
-        "width": 1366,
+        "width": 1024,
         "x": 0,
         "y": 0
       },
@@ -660,11 +662,11 @@
       "serial": "",
       "size_in_logical_pixels": {
         "height": 768,
-        "width": 1366
+        "width": 1024
       },
       "virtual_geometry": {
         "height": 768,
-        "width": 1366,
+        "width": 1024,
         "x": 0,
         "y": 0
       }
@@ -874,12 +876,63 @@
       }
     }
   },
+  "geometry-of-plugin-reading-goal-config-dialog-geometry": {
+    "frame_geometry": {
+      "height": 492,
+      "width": 470,
+      "x": 448,
+      "y": 138
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 486,
+      "width": 464,
+      "x": 451,
+      "y": 141
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 486,
+      "width": 464,
+      "x": 451,
+      "y": 141
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAHAAAAAigAAA5UAAAJ1AAABwwAAAI0AAAOSAAACcgAAAAAAAAAABVYAAAHDAAAAjQAAA5IAAAJy"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Samsung Display Corp.",
+      "model": "",
+      "name": "LVDS-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
   "geometry-of-preferences dialog geometry": {
     "frame_geometry": {
-      "height": 726,
-      "width": 936,
-      "x": 215,
-      "y": 21
+      "height": 728,
+      "width": 938,
+      "x": 214,
+      "y": 20
     },
     "full_screened": false,
     "geometry": {
@@ -897,7 +950,7 @@
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAADXAAAAFQAABH4AAALqAAAA2gAAABgAAAR7AAAC5wAAAAAAAAAABVYAAADaAAAAGAAABHsAAALn"
+      "__value__": "AdnQywADAAAAAADWAAAAFAAABH8AAALrAAAA2gAAABgAAAR7AAAC5wAAAAAAAAAABVYAAADaAAAAGAAABHsAAALn"
     },
     "screen": {
       "depth": 24,
@@ -927,28 +980,28 @@
   },
   "geometry-of-quickview_dialog_geometry": {
     "frame_geometry": {
-      "height": 768,
+      "height": 747,
       "width": 1366,
       "x": 0,
       "y": 0
     },
     "full_screened": false,
     "geometry": {
-      "height": 762,
+      "height": 741,
       "width": 1360,
       "x": 3,
       "y": 3
     },
     "maximized": false,
     "normal_geometry": {
-      "height": 762,
+      "height": 741,
       "width": 1360,
       "x": 3,
       "y": 3
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAAAAAAAAAABVUAAAL/AAAAAwAAAAMAAAVSAAAC/AAAAAAAAAAABVYAAAADAAAAAwAABVIAAAL8"
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAABVUAAALqAAAAAwAAAAMAAAVSAAAC5wAAAAAAAAAABVYAAAADAAAAAwAABVIAAALn"
     },
     "screen": {
       "depth": 24,
@@ -1084,7 +1137,8 @@
     "__value__": "AAAA/wAAAAEAAAACAAABwgAAAcIA/////wEAAAABAA=="
   },
   "library_usage_stats": {
-    "/home/fahmida/Calibre Library": 272
+    "/home/fahmida/Calibre Library": 288,
+    "/home/fahmida/downloads/Calibre Library": 23
   },
   "modify epub plugin:options dialog": {
     "__class__": "bytearray",
@@ -1099,9 +1153,9 @@
     "rating": true,
     "series": true,
     "size": true,
-    "tags": true,
+    "tags": false,
     "timestamp": true,
-    "title": false
+    "title": true
   },
   "quick_start_guide_added": true,
   "quickview visible": false,
@@ -1129,7 +1183,7 @@
   ],
   "search bar visible": false,
   "show_emblems": false,
-  "tag browser search box visible": false,
+  "tag browser search box visible": true,
   "tag_browser_show_counts": false,
   "tag_browser_splitter_horizontal_state": [
     true,
@@ -1139,7 +1193,8 @@
     191,
     191,
     191,
-    191
+    191,
+    100
   ],
   "tb_search_order": {
     "0": 1,

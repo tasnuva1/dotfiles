@@ -99,6 +99,11 @@ alias \
 	dco="cd /mnt/3/Courses/tor-browser/Browser/Downloads/digitalBooks && lf" \
 	vco="cd /mnt/4/Courses && lf" \
 	nf="cd /mnt/3/Video && lf" \
+	bu="sudo brightnessctl set +10%" \
+	bd="sudo brightnessctl set 10%-" \
+	d="sudo da" \
+	b="sudo brightnessctl set 0%" \
+	r="ebook-viewer '/home/fahmida/downloads/Calibre Library/Jim Blandy/3. Programming Rust (5)/3. Programming Rust - Jim Blandy.epub'" \
 	z="zathura"
 
 alias \

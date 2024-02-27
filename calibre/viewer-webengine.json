@@ -1,35 +1,36 @@
 {
+  "delete-highlight-from-viewer_again": false,
   "geometry-of-main_window_geometry": {
     "frame_geometry": {
-      "height": 768,
-      "width": 1366,
+      "height": 747,
+      "width": 1024,
       "x": 0,
-      "y": 0
+      "y": 21
     },
     "full_screened": false,
     "geometry": {
-      "height": 762,
-      "width": 1360,
-      "x": 3,
-      "y": 3
+      "height": 739,
+      "width": 1016,
+      "x": 4,
+      "y": 25
     },
     "maximized": false,
     "normal_geometry": {
-      "height": 762,
-      "width": 1360,
-      "x": 3,
-      "y": 3
+      "height": 739,
+      "width": 1016,
+      "x": 4,
+      "y": 25
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAAAAAAAAAABVUAAAL/AAAAAwAAAAMAAAVSAAAC/AAAAAAAAAAABVYAAAADAAAAAwAABVIAAAL8"
+      "__value__": "AdnQywADAAAAAAAAAAAAFQAAA/8AAAL/AAAABAAAABkAAAP7AAAC+wAAAAAAAAAABAAAAAAEAAAAGQAAA/sAAAL7"
     },
     "screen": {
       "depth": 24,
       "device_pixel_ratio": 1.0,
       "geometry_in_logical_pixels": {
         "height": 768,
-        "width": 1366,
+        "width": 1024,
         "x": 0,
         "y": 0
       },
@@ -40,11 +41,11 @@
       "serial": "",
       "size_in_logical_pixels": {
         "height": 768,
-        "width": 1366
+        "width": 1024
       },
       "virtual_geometry": {
         "height": 768,
-        "width": 1366,
+        "width": 1024,
         "x": 0,
         "y": 0
       }
@@ -103,28 +104,28 @@
   },
   "geometry-of-viewer_image_popup_geometry": {
     "frame_geometry": {
-      "height": 128,
-      "width": 713,
-      "x": 326,
-      "y": 320
+      "height": 768,
+      "width": 1366,
+      "x": 0,
+      "y": 0
     },
-    "full_screened": false,
+    "full_screened": true,
     "geometry": {
-      "height": 122,
-      "width": 707,
-      "x": 329,
-      "y": 323
+      "height": 768,
+      "width": 1366,
+      "x": 0,
+      "y": 0
     },
     "maximized": false,
     "normal_geometry": {
       "height": 122,
-      "width": 707,
-      "x": 329,
+      "width": 828,
+      "x": 269,
       "y": 323
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAFGAAABQAAABA4AAAG/AAABSQAAAUMAAAQLAAABvAAAAAAAAAAABVYAAAFJAAABQwAABAsAAAG8"
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAABVUAAAL/AAABDQAAAUMAAARIAAABvAAAAAAABAAABVYAAAAAAAAAAAAABVUAAAL/"
     },
     "screen": {
       "depth": 24,
@@ -174,12 +175,16 @@
   },
   "main_window_state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAD6AAAC+vwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAAAAAC+gAAAIcA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAAAAAL6AAAAkwD///8AAAABAAAA/AAAAvr8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAAAAAvoAAAB7AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOQA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawEAAAAAAAAC+gAAAMYA////AAAETgAAAvoAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAD8AAAC4/wCAAAAA/sAAAAeAGgAaQBnAGgAbABpAGcAaAB0AHMALQBkAG8AYwBrAAAAAAAAAALlAAAAxgD////7AAAAEAB0AG8AYwAtAGQAbwBjAGsAAAAAAAAAAuMAAACHAP////sAAAAWAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAAAAAC5QAAAJMA////AAAAAQAAAPwAAALl/AIAAAAD+wAAABYAbABvAG8AawB1AHAALQBkAG8AYwBrAAAAAAAAAAL6AAAAewD////7AAAAHABiAG8AbwBrAG0AYQByAGsAcwAtAGQAbwBjAGsAAAAAAP////8AAADkAP////sAAAAcAGkAbgBzAHAAZQBjAHQAbwByAC0AZABvAGMAawAAAAAA/////wAAABMA////AAAD+AAAAuMAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
   },
   "old_prefs_migrated": true,
   "saved-highlights-search-settings": {},
   "saved-search-settings": {
     "army": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "blog": {
       "case_sensitive": false,
       "mode": "normal"
     },
@@ -200,6 +205,10 @@
       "mode": "normal"
     },
     "interact": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "just": {
       "case_sensitive": false,
       "mode": "normal"
     },
@@ -245,7 +254,11 @@
     }
   },
   "session_data": {
-    "base_font_size": 17,
+    "base_font_size": 15,
+    "columns_per_screen": {
+      "landscape": 0,
+      "portrait": 0
+    },
     "controls_footer": {
       "left": "empty",
       "middle": "empty",
@@ -260,7 +273,7 @@
     },
     "header": {
       "left": "empty",
-      "middle": "empty",
+      "middle": "pos-book",
       "right": "empty"
     },
     "hide_tooltips": null,
@@ -403,10 +416,11 @@
       "right": "empty"
     },
     "lines_per_sec_auto": 2.1000000000000005,
-    "margin_left": 20,
-    "margin_right": 40,
-    "margin_top": 80,
-    "max_text_width": 0,
+    "margin_bottom": 40,
+    "margin_left": 280,
+    "margin_right": 280,
+    "margin_top": 40,
+    "max_text_width": 700,
     "override_book_colors": "dark",
     "read_mode": "paged",
     "right-margin": {
@@ -433,49 +447,60 @@
     "standalone_misc_settings": {},
     "standalone_recently_opened": [
       {
-        "key": "/home/fahmida/Calibre Library/Unknown/highlights (32)/highlights - Unknown.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Unknown/highlights (32)/highlights - Unknown.epub",
-        "timestamp": "2024-01-22T04:23:32.519Z",
-        "title": "highlights"
-      },
-      {
         "authors": [
-          "Luca Palmieri"
+          "Jim Blandy",
+          "Jason Orendorff",
+          "Leonora F . S. Tindall"
         ],
-        "key": "/home/fahmida/Calibre Library/Luca Palmieri/1. Zero To Production In Rust (19)/1. Zero To Production In Rust - Luca Palmieri.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Luca Palmieri/1. Zero To Production In Rust (19)/1. Zero To Production In Rust - Luca Palmieri.epub",
-        "timestamp": "2024-01-22T04:02:41.626Z",
-        "title": "Zero To Production In Rust"
-      },
-      {
-        "key": "/home/fahmida/Calibre Library/Unknown/4 Books That Could Change Your Life (29)/4 Books That Could Change Your Life - Unknown.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Unknown/4 Books That Could Change Your Life (29)/4 Books That Could Change Your Life - Unknown.epub",
-        "timestamp": "2024-01-22T03:15:58.754Z",
-        "title": "4 Books That Could Change Your Life"
-      },
-      {
-        "authors": [
-          "hudsjen"
-        ],
-        "key": "/home/fahmida/Calibre Library/hudsjen/Microsoft Word - To the American people (24)/Microsoft Word - To the American people - hudsjen.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/hudsjen/Microsoft Word - To the American people (24)/Microsoft Word - To the American people - hudsjen.epub",
-        "timestamp": "2024-01-20T17:36:14.797Z",
-        "title": "Microsoft Word - To the American people"
+        "key": "/home/fahmida/downloads/Calibre Library/Jim Blandy/3. Programming Rust (5)/3. Programming Rust - Jim Blandy.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Jim Blandy/3. Programming Rust (5)/3. Programming Rust - Jim Blandy.epub",
+        "timestamp": "2024-02-25T15:06:19.872Z",
+        "title": "Programming Rust, 2nd Edition"
       },
       {
         "authors": [
           "Rustacean Team"
         ],
-        "key": "/home/fahmida/Calibre Library/Rustacean Team/Practical Rust 1.x Cookbook (28)/Practical Rust 1.x Cookbook - Rustacean Team.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Rustacean Team/Practical Rust 1.x Cookbook (28)/Practical Rust 1.x Cookbook - Rustacean Team.epub",
-        "timestamp": "2024-01-14T13:43:13.448Z",
+        "key": "/home/fahmida/downloads/Calibre Library/Rustacean Team/1. Practical Rust 1.x Cookbook (28)/1. Practical Rust 1.x Cookbook - Rustacean Team.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Rustacean Team/1. Practical Rust 1.x Cookbook (28)/1. Practical Rust 1.x Cookbook - Rustacean Team.epub",
+        "timestamp": "2024-02-25T09:50:57.670Z",
         "title": "Practical Rust 1.x Cookbook"
       },
       {
-        "key": "/home/fahmida/Calibre Library/Unknown/4 Books That Could Change Your Life (27)/4 Books That Could Change Your Life - Unknown.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Unknown/4 Books That Could Change Your Life (27)/4 Books That Could Change Your Life - Unknown.epub",
-        "timestamp": "2024-01-06T11:08:53.809Z",
-        "title": "4 Books That Could Change Your Life"
+        "authors": [
+          "Kleppmann, Martin"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/Kleppmann, Martin/Designing Data-Intensive Applications (38)/Designing Data-Intensive Applications - Kleppmann, Martin.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Kleppmann, Martin/Designing Data-Intensive Applications (38)/Designing Data-Intensive Applications - Kleppmann, Martin.epub",
+        "timestamp": "2024-02-24T17:27:59.929Z",
+        "title": "Designing Data-Intensive Applications"
+      },
+      {
+        "authors": [
+          "Rustacean Team"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/Rustacean Team/Practical Rust 1.x Cookbook (28)/Practical Rust 1.x Cookbook - Rustacean Team.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Rustacean Team/Practical Rust 1.x Cookbook (28)/Practical Rust 1.x Cookbook - Rustacean Team.epub",
+        "timestamp": "2024-02-23T02:31:59.579Z",
+        "title": "Practical Rust 1.x Cookbook"
+      },
+      {
+        "authors": [
+          "Alex Hormozi"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/Alex Hormozi/$100M Offers (35)/$100M Offers - Alex Hormozi.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Alex Hormozi/$100M Offers (35)/$100M Offers - Alex Hormozi.epub",
+        "timestamp": "2024-02-17T04:01:39.870Z",
+        "title": "$100M Offers"
+      },
+      {
+        "authors": [
+          "Brian Ward"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/Brian Ward/How Linux Works (37)/How Linux Works - Brian Ward.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Brian Ward/How Linux Works (37)/How Linux Works - Brian Ward.epub",
+        "timestamp": "2024-02-13T09:39:04.479Z",
+        "title": "How Linux Works"
       },
       {
         "authors": [
@@ -485,8 +510,116 @@
         ],
         "key": "/home/fahmida/Calibre Library/Jim Blandy/3. Programming Rust (5)/3. Programming Rust - Jim Blandy.epub",
         "pathtoebook": "/home/fahmida/Calibre Library/Jim Blandy/3. Programming Rust (5)/3. Programming Rust - Jim Blandy.epub",
-        "timestamp": "2024-01-02T01:40:10.917Z",
+        "timestamp": "2024-02-02T20:58:41.368Z",
         "title": "Programming Rust, 2nd Edition"
+      },
+      {
+        "authors": [
+          "Tim McNamara"
+        ],
+        "key": "/home/fahmida/Calibre Library/Tim McNamara/5. Rust in Action_ Systems programming concepts and techniques (14)/5. Rust in Action_ Systems programming con - Tim McNamara.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Tim McNamara/5. Rust in Action_ Systems programming concepts and techniques (14)/5. Rust in Action_ Systems programming con - Tim McNamara.epub",
+        "timestamp": "2024-02-02T20:09:28.975Z",
+        "title": "Rust in Action: Systems programming concepts and techniques"
+      },
+      {
+        "authors": [
+          "Jon Gjengset"
+        ],
+        "key": "/home/fahmida/Calibre Library/Jon Gjengset/6. Rust for Rustaceans (6)/6. Rust for Rustaceans - Jon Gjengset.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Jon Gjengset/6. Rust for Rustaceans (6)/6. Rust for Rustaceans - Jon Gjengset.epub",
+        "timestamp": "2024-02-02T17:35:59.079Z",
+        "title": "Rust for Rustaceans"
+      },
+      {
+        "authors": [
+          "Rustacean Team"
+        ],
+        "key": "/home/fahmida/Calibre Library/Rustacean Team/Practical Rust 1.x Cookbook (28)/Practical Rust 1.x Cookbook - Rustacean Team.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Rustacean Team/Practical Rust 1.x Cookbook (28)/Practical Rust 1.x Cookbook - Rustacean Team.epub",
+        "timestamp": "2024-02-02T14:02:14.777Z",
+        "title": "Practical Rust 1.x Cookbook"
+      },
+      {
+        "authors": [
+          "Mara Bos"
+        ],
+        "key": "/home/fahmida/Calibre Library/Mara Bos/4. Rust Atomics and Locks (4)/4. Rust Atomics and Locks - Mara Bos.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Mara Bos/4. Rust Atomics and Locks (4)/4. Rust Atomics and Locks - Mara Bos.epub",
+        "timestamp": "2024-02-02T13:40:55.837Z",
+        "title": "Rust Atomics and Locks"
+      },
+      {
+        "authors": [
+          "Luca Palmieri"
+        ],
+        "key": "/home/fahmida/Calibre Library/Luca Palmieri/1. Zero To Production In Rust (19)/1. Zero To Production In Rust - Luca Palmieri.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Luca Palmieri/1. Zero To Production In Rust (19)/1. Zero To Production In Rust - Luca Palmieri.epub",
+        "timestamp": "2024-02-01T07:38:55.353Z",
+        "title": "Zero To Production In Rust"
+      },
+      {
+        "key": "/home/fahmida/Calibre Library/Unknown/Open Source From Community to Commercialization Andreessen Horowitz (26)/Open Source From Community to Commercializ - Unknown.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Unknown/Open Source From Community to Commercialization Andreessen Horowitz (26)/Open Source From Community to Commercializ - Unknown.epub",
+        "timestamp": "2024-02-01T07:24:06.473Z",
+        "title": "Open Source From Community to Commercialization Andreessen Horowitz"
+      },
+      {
+        "key": "/home/fahmida/Calibre Library/Unknown/Navigating The Rust OSS Community (33)/Navigating The Rust OSS Community - Unknown.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Unknown/Navigating The Rust OSS Community (33)/Navigating The Rust OSS Community - Unknown.epub",
+        "timestamp": "2024-02-01T07:00:19.075Z",
+        "title": "some"
+      },
+      {
+        "key": "/home/fahmida/Calibre Library/Unknown/In-depth Overview [_] Zig Programming Language (34)/In-depth Overview [_] Zig Programming Lang - Unknown.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Unknown/In-depth Overview [_] Zig Programming Language (34)/In-depth Overview [_] Zig Programming Lang - Unknown.epub",
+        "timestamp": "1980-01-01T00:03:56.343Z",
+        "title": "In-depth Overview ⚡ Zig Programming Language"
+      },
+      {
+        "key": "/home/fahmida/Calibre Library/Unknown/document (21)/document - Unknown.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Unknown/document (21)/document - Unknown.epub",
+        "timestamp": "2024-01-24T23:48:55.104Z",
+        "title": "document"
+      },
+      {
+        "key": "/home/fahmida/Calibre Library/Unknown/index (30)/index - Unknown.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Unknown/index (30)/index - Unknown.epub",
+        "timestamp": "2024-01-24T23:47:28.448Z",
+        "title": "index"
+      },
+      {
+        "authors": [
+          "hudsjen"
+        ],
+        "key": "/home/fahmida/Calibre Library/hudsjen/Microsoft Word - To the American people (24)/Microsoft Word - To the American people - hudsjen.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/hudsjen/Microsoft Word - To the American people (24)/Microsoft Word - To the American people - hudsjen.epub",
+        "timestamp": "2024-01-24T23:44:01.741Z",
+        "title": "Microsoft Word - To the American people"
+      },
+      {
+        "key": "/home/fahmida/Calibre Library/Unknown/highlights (32)/highlights - Unknown.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Unknown/highlights (32)/highlights - Unknown.epub",
+        "timestamp": "2024-01-24T23:43:30.525Z",
+        "title": "highlights"
+      },
+      {
+        "key": "/home/fahmida/Calibre Library/Unknown/some (33)/some - Unknown.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Unknown/some (33)/some - Unknown.epub",
+        "timestamp": "2024-01-24T23:41:08.402Z",
+        "title": "some"
+      },
+      {
+        "key": "/home/fahmida/Calibre Library/Unknown/4 Books That Could Change Your Life (29)/4 Books That Could Change Your Life - Unknown.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Unknown/4 Books That Could Change Your Life (29)/4 Books That Could Change Your Life - Unknown.epub",
+        "timestamp": "2024-01-22T03:15:58.754Z",
+        "title": "4 Books That Could Change Your Life"
+      },
+      {
+        "key": "/home/fahmida/Calibre Library/Unknown/4 Books That Could Change Your Life (27)/4 Books That Could Change Your Life - Unknown.epub",
+        "pathtoebook": "/home/fahmida/Calibre Library/Unknown/4 Books That Could Change Your Life (27)/4 Books That Could Change Your Life - Unknown.epub",
+        "timestamp": "2024-01-06T11:08:53.809Z",
+        "title": "4 Books That Could Change Your Life"
       },
       {
         "authors": [
@@ -508,149 +641,12 @@
       },
       {
         "authors": [
-          "Jon Gjengset"
-        ],
-        "key": "/home/fahmida/Calibre Library/Jon Gjengset/6. Rust for Rustaceans (6)/6. Rust for Rustaceans - Jon Gjengset.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Jon Gjengset/6. Rust for Rustaceans (6)/6. Rust for Rustaceans - Jon Gjengset.epub",
-        "timestamp": "2023-12-20T20:45:55.107Z",
-        "title": "Rust for Rustaceans"
-      },
-      {
-        "authors": [
-          "Tim McNamara"
-        ],
-        "key": "/home/fahmida/Calibre Library/Tim McNamara/5. Rust in Action_ Systems programming concepts and techniques (14)/5. Rust in Action_ Systems programming con - Tim McNamara.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Tim McNamara/5. Rust in Action_ Systems programming concepts and techniques (14)/5. Rust in Action_ Systems programming con - Tim McNamara.epub",
-        "timestamp": "2023-12-16T00:09:40.975Z",
-        "title": "Rust in Action: Systems programming concepts and techniques"
-      },
-      {
-        "authors": [
           "hudsjen"
         ],
         "key": "/home/fahmida/Calibre Library/hudsjen/Microsoft Word - To the American people (22)/Microsoft Word - To the American people - hudsjen.epub",
         "pathtoebook": "/home/fahmida/Calibre Library/hudsjen/Microsoft Word - To the American people (22)/Microsoft Word - To the American people - hudsjen.epub",
         "timestamp": "2023-12-14T00:00:39.069Z",
         "title": "Microsoft Word - To the American people"
-      },
-      {
-        "authors": [
-          "Imran Bashir;"
-        ],
-        "key": "/home/fahmida/Calibre Library/Imran Bashir;/Mastering Blockchain (20)/Mastering Blockchain - Imran Bashir;.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Imran Bashir;/Mastering Blockchain (20)/Mastering Blockchain - Imran Bashir;.epub",
-        "timestamp": "2023-12-10T20:18:23.712Z",
-        "title": "Mastering Blockchain"
-      },
-      {
-        "authors": [
-          "Steve Klabnik",
-          "Carol Nichols"
-        ],
-        "key": "/home/fahmida/Calibre Library/Steve Klabnik/2. The Rust Programming Language (7)/2. The Rust Programming Language - Steve Klabnik.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Steve Klabnik/2. The Rust Programming Language (7)/2. The Rust Programming Language - Steve Klabnik.epub",
-        "timestamp": "2023-12-08T11:58:12.201Z",
-        "title": "The Rust Programming Language"
-      },
-      {
-        "authors": [
-          "Luca Palmieri"
-        ],
-        "key": "/home/fahmida/Calibre Library/Luca Palmieri/Zero To Production In Rust (19)/Zero To Production In Rust - Luca Palmieri.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Luca Palmieri/Zero To Production In Rust (19)/Zero To Production In Rust - Luca Palmieri.epub",
-        "timestamp": "2023-12-04T07:34:16.459Z",
-        "title": "Zero To Production In Rust"
-      },
-      {
-        "authors": [
-          "Ken Youens-Clark"
-        ],
-        "key": "/home/fahmida/Calibre Library/Ken Youens-Clark/Command-Line Rust (18)/Command-Line Rust - Ken Youens-Clark.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Ken Youens-Clark/Command-Line Rust (18)/Command-Line Rust - Ken Youens-Clark.epub",
-        "timestamp": "2023-12-03T08:00:23.301Z",
-        "title": "Command-Line Rust"
-      },
-      {
-        "authors": [
-          "Jon Gjengset"
-        ],
-        "key": "/home/fahmida/Calibre Library/Jon Gjengset/1. Rust for Rustaceans (6)/1. Rust for Rustaceans - Jon Gjengset.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Jon Gjengset/1. Rust for Rustaceans (6)/1. Rust for Rustaceans - Jon Gjengset.epub",
-        "timestamp": "2023-11-18T23:16:16.986Z",
-        "title": "Rust for Rustaceans"
-      },
-      {
-        "authors": [
-          "Sky Nelson-Isaacs"
-        ],
-        "key": "/home/fahmida/Calibre Library/Sky Nelson-Isaacs/Living in Flow (15)/Living in Flow - Sky Nelson-Isaacs.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Sky Nelson-Isaacs/Living in Flow (15)/Living in Flow - Sky Nelson-Isaacs.epub",
-        "timestamp": "2023-11-18T17:53:07.402Z",
-        "title": "Living in Flow"
-      },
-      {
-        "authors": [
-          "Gene Kim"
-        ],
-        "key": "/home/fahmida/Calibre Library/Gene Kim/The DevOps Handbook (16)/The DevOps Handbook - Gene Kim.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Gene Kim/The DevOps Handbook (16)/The DevOps Handbook - Gene Kim.epub",
-        "timestamp": "2023-11-17T23:51:29.086Z",
-        "title": "The DevOps Handbook"
-      },
-      {
-        "authors": [
-          "Sky Nelson-Isaacs"
-        ],
-        "key": "/home/fahmida/downloads/books/books/audio_available/Living in Flow The Science of Synchronicity and How Your Choices Shape Your World (Sky Nelson-Isaacs) (Z-Library).epub",
-        "pathtoebook": "/home/fahmida/downloads/books/books/audio_available/Living in Flow The Science of Synchronicity and How Your Choices Shape Your World (Sky Nelson-Isaacs) (Z-Library).epub",
-        "timestamp": "2023-11-17T23:50:08.906Z",
-        "title": "Living in Flow"
-      },
-      {
-        "authors": [
-          "OccupyTheWeb"
-        ],
-        "key": "/home/fahmida/downloads/books/books/audio_available/Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali (OccupyTheWeb) (Z-Library).epub",
-        "pathtoebook": "/home/fahmida/downloads/books/books/audio_available/Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali (OccupyTheWeb) (Z-Library).epub",
-        "timestamp": "2023-11-17T23:49:32.338Z",
-        "title": "Linux Basics for Hackers"
-      },
-      {
-        "authors": [
-          "Gene Kim"
-        ],
-        "key": "/home/fahmida/Calibre Library/Gene Kim/TThe DevOps Handbook (16)/TThe DevOps Handbook - Gene Kim.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Gene Kim/TThe DevOps Handbook (16)/TThe DevOps Handbook - Gene Kim.epub",
-        "timestamp": "2023-11-17T16:17:28.556Z",
-        "title": "The DevOps Handbook"
-      },
-      {
-        "authors": [
-          "Gene Kim"
-        ],
-        "key": "/home/fahmida/Calibre Library/Gene Kim/The DevOps Handbook (17)/The DevOps Handbook - Gene Kim.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Gene Kim/The DevOps Handbook (17)/The DevOps Handbook - Gene Kim.epub",
-        "timestamp": "2023-11-17T16:16:51.076Z",
-        "title": "The DevOps Handbook"
-      },
-      {
-        "authors": [
-          "Mara Bos"
-        ],
-        "key": "/home/fahmida/Calibre Library/Mara Bos/4. Rust Atomics and Locks (4)/4. Rust Atomics and Locks - Mara Bos.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Mara Bos/4. Rust Atomics and Locks (4)/4. Rust Atomics and Locks - Mara Bos.epub",
-        "timestamp": "2023-11-04T06:58:58.242Z",
-        "title": "Rust Atomics and Locks"
-      },
-      {
-        "authors": [
-          "Eliezer Yudkowsky",
-          "Stavros Korokithakis"
-        ],
-        "key": "/home/fahmida/Calibre Library/Eliezer Yudkowsky/Harry Potter and the Methods of Rationality (13)/Harry Potter and the Methods of Rationalit - Eliezer Yudkowsky.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Eliezer Yudkowsky/Harry Potter and the Methods of Rationality (13)/Harry Potter and the Methods of Rationalit - Eliezer Yudkowsky.epub",
-        "timestamp": "2023-10-28T08:46:21.885Z",
-        "title": "Harry Potter and the Methods of Rationality"
       }
     ],
     "user_color_schemes": {
@@ -663,7 +659,8 @@
         "margin_top": "#ffffff:#5a5a5a",
         "name": "new"
       }
-    }
+    },
+    "user_stylesheet": "body {\n\nline-height: 30px;\n\n}"
   },
   "speechd-voice-table-state": {
     "__class__": "bytearray",

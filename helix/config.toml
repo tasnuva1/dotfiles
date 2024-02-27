@@ -5,11 +5,18 @@ theme = "bogster"
 [editor]
 line-number = "absolute"
 mouse = false
+color-modes = true
+auto-save = true
+soft-wrap.enable = true
+middle-click-paste = false
+# rulers = [80, 100]
+rulers = [120]
+auto-format = true
 
-[keys.normal."backspace"]
-r = ":run-shell-command cargo run" 
-s = [":w", ":config-reload"]
-c = ":config-open" 
+# [keys.normal."backspace"]
+# r = ":run-shell-command cargo run" 
+# s = [":w", ":config-reload"]
+# c = ":config-open" 
 
 [editor.cursor-shape]
 insert = "bar"
@@ -24,11 +31,11 @@ render = true
 # character = "╎" # Some characters that work well: "▏", "┆", "┊", "⸽"
 # skip-levels = 1
 
-[editor.soft-wrap]
-enable = true
-max-wrap = 25 # increase value to reduce forced mid-word wrapping
-max-indent-retain = 0
-wrap-indicator = ""  # set wrap-indicator to "" to hide it
+# [editor.soft-wrap]
+# enable = true
+# max-wrap = 25 # increase value to reduce forced mid-word wrapping
+# max-indent-retain = 0
+# wrap-indicator = ""  # set wrap-indicator to "" to hide it
 
 [editor.auto-pairs]
 '(' = ')'
@@ -38,3 +45,27 @@ wrap-indicator = ""  # set wrap-indicator to "" to hide it
 '`' = '`'
 '<' = '>'
 
+#########################################
+
+[editor.lsp]
+display-messages = true
+display-inlay-hints = true
+
+[editor.statusline]
+left = ["mode", "spinner"]
+center = ["file-name"]
+right = ["diagnostics", "version-control", "selections", "position", "file-encoding", "file-line-ending", "file-type"]
+
+
+[keys.insert]
+j = { k = "normal_mode" } # Maps `jk` to exit insert mode.
+C-h = "delete_char_backward" # Most terminals do this by default.
+C-l = "move_char_right" # Useful to jump over a closing parenthesises.
+C-s = ["save_selection", ":w"] # Add `:w` to the default binding.
+
+[keys.normal]
+Z = { Z = ":wq" } # Shortcut to save and close buffer.
+C-h = "delete_char_backward" # Most terminals do this by default.
+C-l = "move_char_right" # Useful to jump over a closing parenthesises.
+C-s = ["save_selection", ":w"]
+C-j = "jump_backward" # C-o is sometimes captured by the "MidnightCommander"
