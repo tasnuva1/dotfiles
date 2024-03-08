@@ -3,7 +3,7 @@
 # This file runs when a DM logs you into a graphical session.
 # If you use startx/xinit like a Chad, this file will also be sourced.
 
-xrandr --dpi 96		# Set DPI. User may want to use a larger number for larger screens. It set your display size, refresh rates, and orientation
+xrandr --dpi 96		# Set DPI. --> 96 User may want to use a larger number for larger screens. It set your display size, refresh rates, and orientation
 
 #### you can add command with set key binding - For that a package to start. Like sxhkd &
 

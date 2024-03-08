@@ -7,11 +7,14 @@
 		<string>/home/fahmida/downloads/Calibre Library</string>
 	</array>
 	<key>lineedit_history_tag_browser_search</key>
-	<array/>
+	<array>
+		<string>rust programming lang</string>
+	</array>
 	<key>lineedit_history_tag_list_search_box_Tags</key>
 	<array/>
 	<key>lineedit_history_viewer-search-panel-expression</key>
 	<array>
+		<string>simp</string>
 		<string>just</string>
 		<string>blog</string>
 		<string>freedom</string>

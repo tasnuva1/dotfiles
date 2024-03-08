@@ -175,7 +175,7 @@
   },
   "main_window_state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAD8AAAC4/wCAAAAA/sAAAAeAGgAaQBnAGgAbABpAGcAaAB0AHMALQBkAG8AYwBrAAAAAAAAAALlAAAAxgD////7AAAAEAB0AG8AYwAtAGQAbwBjAGsAAAAAAAAAAuMAAACHAP////sAAAAWAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAAAAAC5QAAAJMA////AAAAAQAAAPwAAALl/AIAAAAD+wAAABYAbABvAG8AawB1AHAALQBkAG8AYwBrAAAAAAAAAAL6AAAAewD////7AAAAHABiAG8AbwBrAG0AYQByAGsAcwAtAGQAbwBjAGsAAAAAAP////8AAADkAP////sAAAAcAGkAbgBzAHAAZQBjAHQAbwByAC0AZABvAGMAawAAAAAA/////wAAABMA////AAAD+AAAAuMAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAD6AAAC4/wCAAAAA/sAAAAeAGgAaQBnAGgAbABpAGcAaAB0AHMALQBkAG8AYwBrAAAAAAAAAALlAAAAxgD////7AAAAEAB0AG8AYwAtAGQAbwBjAGsAAAAAAAAAAuMAAACHAP////sAAAAWAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAAAAAC4wAAAJMA////AAAAAQAAAPwAAALl/AIAAAAD+wAAABYAbABvAG8AawB1AHAALQBkAG8AYwBrAAAAAAAAAAL6AAAAewD////7AAAAHABiAG8AbwBrAG0AYQByAGsAcwAtAGQAbwBjAGsAAAAAAP////8AAADkAP////sAAAAcAGkAbgBzAHAAZQBjAHQAbwByAC0AZABvAGMAawAAAAAA/////wAAABMA////AAAD+AAAAuMAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
   },
   "old_prefs_migrated": true,
   "saved-highlights-search-settings": {},
@@ -224,6 +224,10 @@
       "case_sensitive": false,
       "mode": "normal"
     },
+    "simp": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
     "there": {
       "case_sensitive": false,
       "mode": "normal"
@@ -254,7 +258,7 @@
     }
   },
   "session_data": {
-    "base_font_size": 15,
+    "base_font_size": 13,
     "columns_per_screen": {
       "landscape": 0,
       "portrait": 0
@@ -448,6 +452,34 @@
     "standalone_recently_opened": [
       {
         "authors": [
+          "Steve Klabnik",
+          "Carol Nichols"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/Steve Klabnik/2. The Rust Programming Language (7)/2. The Rust Programming Language - Steve Klabnik.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Steve Klabnik/2. The Rust Programming Language (7)/2. The Rust Programming Language - Steve Klabnik.epub",
+        "timestamp": "2024-03-08T23:35:32.976Z",
+        "title": "The Rust Programming Language"
+      },
+      {
+        "authors": [
+          "Alex Hormozi"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/Alex Hormozi/$100M Offers (35)/$100M Offers - Alex Hormozi.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Alex Hormozi/$100M Offers (35)/$100M Offers - Alex Hormozi.epub",
+        "timestamp": "2024-03-08T14:02:16.303Z",
+        "title": "$100M Offers"
+      },
+      {
+        "authors": [
+          "Cal Newport"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/Cal Newport/Deep Work (39)/Deep Work - Cal Newport.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Cal Newport/Deep Work (39)/Deep Work - Cal Newport.epub",
+        "timestamp": "2024-03-06T00:31:50.720Z",
+        "title": "Deep Work"
+      },
+      {
+        "authors": [
           "Jim Blandy",
           "Jason Orendorff",
           "Leonora F . S. Tindall"
@@ -483,15 +515,6 @@
         "pathtoebook": "/home/fahmida/downloads/Calibre Library/Rustacean Team/Practical Rust 1.x Cookbook (28)/Practical Rust 1.x Cookbook - Rustacean Team.epub",
         "timestamp": "2024-02-23T02:31:59.579Z",
         "title": "Practical Rust 1.x Cookbook"
-      },
-      {
-        "authors": [
-          "Alex Hormozi"
-        ],
-        "key": "/home/fahmida/downloads/Calibre Library/Alex Hormozi/$100M Offers (35)/$100M Offers - Alex Hormozi.epub",
-        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Alex Hormozi/$100M Offers (35)/$100M Offers - Alex Hormozi.epub",
-        "timestamp": "2024-02-17T04:01:39.870Z",
-        "title": "$100M Offers"
       },
       {
         "authors": [
@@ -629,24 +652,6 @@
         "pathtoebook": "/home/fahmida/Calibre Library/Amplenote/Open source path & interaction & communcation (25)/Open source path & interaction & communcat - Amplenote.epub",
         "timestamp": "2024-01-01T21:33:48.410Z",
         "title": "Open source path & interaction & communcation"
-      },
-      {
-        "authors": [
-          "Ken Youens-Clark"
-        ],
-        "key": "/home/fahmida/Calibre Library/Ken Youens-Clark/1. Command-Line Rust (18)/1. Command-Line Rust - Ken Youens-Clark.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Ken Youens-Clark/1. Command-Line Rust (18)/1. Command-Line Rust - Ken Youens-Clark.epub",
-        "timestamp": "2023-12-22T13:15:14.086Z",
-        "title": "Command-Line Rust"
-      },
-      {
-        "authors": [
-          "hudsjen"
-        ],
-        "key": "/home/fahmida/Calibre Library/hudsjen/Microsoft Word - To the American people (22)/Microsoft Word - To the American people - hudsjen.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/hudsjen/Microsoft Word - To the American people (22)/Microsoft Word - To the American people - hudsjen.epub",
-        "timestamp": "2023-12-14T00:00:39.069Z",
-        "title": "Microsoft Word - To the American people"
       }
     ],
     "user_color_schemes": {
