@@ -74,7 +74,7 @@ local options = {
     detect_round = 2,
     detect_min_ratio = 0.5,
     detect_seconds = 1,
-    suppress_osd = false,
+    suppress_osd = true,
     use_vo_crop = false,
 }
 read_options(options)

@@ -106,8 +106,8 @@ alias \
 	br="sudo brightnessctl set 100%" \
 	r="ebook-viewer '/home/fahmida/downloads/Calibre Library/Steve Klabnik/2. The Rust Programming Language (7)/2. The Rust Programming Language - Steve Klabnik.epub'" \
 	space="for f in *; do mv "$f" $(echo $f | tr ' ' '_'); done" \
-	usb="sudo mount /dev/sdb /mnt/usb && cd /mnt/usb && lf" \
-	close-usb="sudo fuser -km /dev/sdb && sudo umount /mnt/usb" \
+	usb-open="sudo mount /dev/sdb /mnt/usb && cd /mnt/usb && lf" \
+	usb-close="sudo fuser -km /dev/sdb && sudo umount /mnt/usb" \
 	z="zathura"
 
 alias \

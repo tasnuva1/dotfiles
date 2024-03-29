@@ -103,5 +103,5 @@ source /usr/share/zsh/plugins/fast-syntax-highlighting/fast-syntax-highlighting.
 # eval "$(starship init zsh)"
 
 eval "$(atuin init zsh)"
-ssa; 
-lf
+# ssa; 
+# lf

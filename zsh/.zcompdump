@@ -1,4 +1,4 @@
-#files: 795	version: 5.9
+#files: 800	version: 5.9
 
 _comps=(
 '-' '_precommand'
@@ -754,6 +754,7 @@ _comps=(
 'mencal' '_mencal'
 'mere' '_mere'
 'merge' '_rcs'
+'meson' '_meson'
 'metaflac' '_flac'
 'mformat' '_mtools'
 'mgv' '_pspdf'
@@ -846,6 +847,7 @@ _comps=(
 'nginx' '_nginx'
 'ngrep' '_ngrep'
 'nice' '_nice'
+'ninja' '_ninja'
 'nkf' '_nkf'
 'nl' '_nl'
 'nm' '_nm'
@@ -946,6 +948,7 @@ _comps=(
 'ping6' '_ping'
 'pkgadd' '_pkgadd'
 'pkg-config' '_pkg-config'
+'pkgfile' '_pkgfile'
 'pkginfo' '_pkginfo'
 'pkgrm' '_pkgrm'
 'pkill' '_pgrep'
@@ -1281,6 +1284,7 @@ _comps=(
 'txt' '_hosts'
 'type' '_which'
 'typeset' '_typeset'
+'udevadm' '_udevadm'
 'ulimit' '_ulimit'
 'uml_mconsole' '_uml'
 'uml_moo' '_uml'
@@ -1654,11 +1658,12 @@ bindkey '^[/' _history-complete-older
 bindkey '^[~' _bash_complete-word
 
 autoload -Uz _mutt-wizard.zsh _bat _bluetoothctl _busctl _calibre \
-            _curl _dotnet _email-notmuch _helix _img2sixel \
-            _libinput _loginctl _mkinitcpio _mpv _mutt-wizard.zsh \
-            _notmuch _pacman _pass _pip _podman \
-            _podman-remote _pulseaudio _shtab _starship _timetrace \
-            _tldr _wpctl _xwallpaper _yay _yt-dlp \
+            _code _curl _dotnet _email-notmuch _helix \
+            _img2sixel _libinput _loginctl _meson _mkinitcpio \
+            _mpv _mutt-wizard.zsh _ninja _notmuch _pacman \
+            _pass _pip _pkgfile _podman _podman-remote \
+            _pulseaudio _shtab _starship _timetrace _tldr \
+            _udevadm _wpctl _xwallpaper _yay _yt-dlp \
             _zathura _cdr _all_labels _all_matches _alternative \
             _approximate _arg_compile _arguments _bash_completions _cache_invalid \
             _call_function _combination _complete _complete_debug _complete_help \

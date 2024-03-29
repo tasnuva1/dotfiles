@@ -3,7 +3,8 @@
 theme = "bogster"
 
 [editor]
-line-number = "absolute"
+# line-number = "absolute"
+line-number = "relative"
 mouse = false
 color-modes = true
 auto-save = true
@@ -69,3 +70,5 @@ C-h = "delete_char_backward" # Most terminals do this by default.
 C-l = "move_char_right" # Useful to jump over a closing parenthesises.
 C-s = ["save_selection", ":w"]
 C-j = "jump_backward" # C-o is sometimes captured by the "MidnightCommander"
+ret = "insert_newline"
+y = ["extend_line_below", "yank"]
