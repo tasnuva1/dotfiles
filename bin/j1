@@ -1,0 +1,41 @@
+#!/bin/bash
+
+
+xdotool key super+1 &
+sleep 1
+# st -e bash -c "ebook-viewer '/home/fahmida/downloads/Calibre Library/Steve Klabnik/2. The Rust Programming Language (7)/2. The Rust Programming Language - Steve Klabnik.epub'" &
+st -e bash -c "obsidian" &
+sleep 4
+# st -e bash -c "stopwatch" &
+# sleep 3
+# xdotool key super+k &
+# xdotool key space &
+sleep 1
+st -e bash -c "zathura /home/fahmida/./Untitled.pdf" &
+sleep 1
+# xdotool key super+shift+9 &
+# sleep 1
+# xdotool key super+1 &
+sleep 1
+xdotool key super+a &
+sleep 1
+xdotool key super+T &
+sleep 1
+xdotool key super+l &
+sleep 1
+xdotool key super+l &
+sleep 1
+xdotool key super+l &
+sleep 1
+xdotool key super+j &
+sleep 1
+# xdotool key super+l &
+# sleep 1
+# xdotool key super+l &
+# sleep 1
+# xdotool key super+l &
+# sleep 1
+# xdotool key super+l &
+# sleep 1
+# xdotool key super+j &
+# sleep 1

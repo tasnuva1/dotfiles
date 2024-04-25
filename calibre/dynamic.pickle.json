@@ -1,18 +1,18 @@
 {
   "add books dialog dir": "/home/fahmida/get-into",
   "add books dialog dir-last-used-filter-spec-all-files": false,
-  "annots-export-save": "/home/fahmida/downloads/extract(all-zip-gz)/highlights.calibre_highlights",
+  "annots-export-save": "/home/fahmida/writing/highlights.txt",
   "choose library location": "/home/fahmida/downloads/Calibre Library",
   "notified-version-updates": {
     "__class__": "set",
     "__value__": [
-      "7.1",
+      "6.28",
+      "6.25",
+      "6.29",
+      "7.5",
       "6.26",
       "7.4",
-      "7.5",
-      "6.29",
-      "6.28",
-      "6.25"
+      "7.1"
     ]
   },
   "s_r_search_mode": 0,

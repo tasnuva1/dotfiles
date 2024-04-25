@@ -72,3 +72,7 @@ C-s = ["save_selection", ":w"]
 C-j = "jump_backward" # C-o is sometimes captured by the "MidnightCommander"
 ret = "insert_newline"
 y = ["extend_line_below", "yank"]
+
+[keys.normal.space]
+i = ":toggle lsp.display-inlay-hints"
+

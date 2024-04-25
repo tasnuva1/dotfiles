@@ -2,28 +2,28 @@
   "delete-highlight-from-viewer_again": false,
   "geometry-of-main_window_geometry": {
     "frame_geometry": {
-      "height": 747,
+      "height": 768,
       "width": 1024,
       "x": 0,
-      "y": 21
+      "y": 0
     },
     "full_screened": false,
     "geometry": {
-      "height": 739,
+      "height": 760,
       "width": 1016,
       "x": 4,
-      "y": 25
+      "y": 4
     },
     "maximized": false,
     "normal_geometry": {
-      "height": 739,
+      "height": 760,
       "width": 1016,
       "x": 4,
-      "y": 25
+      "y": 4
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAAAAAAFQAAA/8AAAL/AAAABAAAABkAAAP7AAAC+wAAAAAAAAAABAAAAAAEAAAAGQAAA/sAAAL7"
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAAA/8AAAL/AAAABAAAAAQAAAP7AAAC+wAAAAAAAAAABAAAAAAEAAAABAAAA/sAAAL7"
     },
     "screen": {
       "depth": 24,
@@ -35,9 +35,9 @@
         "y": 0
       },
       "index_in_screens_list": 0,
-      "manufacturer": "Samsung Display Corp.",
+      "manufacturer": "",
       "model": "",
-      "name": "LVDS-1",
+      "name": "VGA-1",
       "serial": "",
       "size_in_logical_pixels": {
         "height": 768,
@@ -175,12 +175,24 @@
   },
   "main_window_state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAD6AAAC4/wCAAAAA/sAAAAeAGgAaQBnAGgAbABpAGcAaAB0AHMALQBkAG8AYwBrAAAAAAAAAALlAAAAxgD////7AAAAEAB0AG8AYwAtAGQAbwBjAGsCAAAA3QAAAA4AAAJFAAAC4/sAAAAWAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAAAAAC4wAAAJMA////AAAAAQAAAPwAAALl/AIAAAAD+wAAABYAbABvAG8AawB1AHAALQBkAG8AYwBrAAAAAAAAAAL6AAAAewD////7AAAAHABiAG8AbwBrAG0AYQByAGsAcwAtAGQAbwBjAGsAAAAAAP////8AAADkAP////sAAAAcAGkAbgBzAHAAZQBjAHQAbwByAC0AZABvAGMAawAAAAAA/////wAAABMA////AAAD+AAAAuMAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAD6AAAC4/wCAAAAA/sAAAAeAGgAaQBnAGgAbABpAGcAaAB0AHMALQBkAG8AYwBrAAAAAAAAAALlAAAAxgD////7AAAAEAB0AG8AYwAtAGQAbwBjAGsCAAAA3QAAAA4AAAJFAAAC4/sAAAAWAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAAAAAC4wAAAJMA////AAAAAQAAAPwAAALl/AIAAAAD+wAAABYAbABvAG8AawB1AHAALQBkAG8AYwBrAAAAAAAAAAL6AAAAewD////7AAAAHABiAG8AbwBrAG0AYQByAGsAcwAtAGQAbwBjAGsAAAAAAP////8AAADkAP////sAAAAcAGkAbgBzAHAAZQBjAHQAbwByAC0AZABvAGMAawAAAAAA/////wAAABMA////AAAD+AAAAvgAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
   },
   "old_prefs_migrated": true,
   "saved-highlights-search-settings": {},
   "saved-search-settings": {
+    "and conn": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "and conntec": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
     "army": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "as a result of this": {
       "case_sensitive": false,
       "mode": "normal"
     },
@@ -196,11 +208,31 @@
       "case_sensitive": false,
       "mode": "normal"
     },
+    "by st": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
     "care": {
       "case_sensitive": false,
       "mode": "normal"
     },
+    "far more": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
     "freedom": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "full of p": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "get up": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "hours a week to": {
       "case_sensitive": false,
       "mode": "normal"
     },
@@ -209,6 +241,10 @@
       "mode": "normal"
     },
     "just": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "learning": {
       "case_sensitive": false,
       "mode": "normal"
     },
@@ -224,7 +260,23 @@
       "case_sensitive": false,
       "mode": "normal"
     },
+    "not for me": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "over time": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "pattern r": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
     "simp": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "so on": {
       "case_sensitive": false,
       "mode": "normal"
     },
@@ -262,7 +314,7 @@
     }
   },
   "session_data": {
-    "base_font_size": 17,
+    "base_font_size": 12,
     "columns_per_screen": {
       "landscape": 0,
       "portrait": 0
@@ -425,8 +477,8 @@
     },
     "lines_per_sec_auto": 2.1000000000000005,
     "margin_bottom": 40,
-    "margin_left": 280,
-    "margin_right": 280,
+    "margin_left": 40,
+    "margin_right": 40,
     "margin_top": 40,
     "max_text_width": 700,
     "override_book_colors": "dark",
@@ -454,6 +506,21 @@
     },
     "standalone_misc_settings": {},
     "standalone_recently_opened": [
+      {
+        "key": "/home/fahmida/downloads/Calibre Library/Unknown/2. Principles of Program Design (M. A. Jackson) (Z-Library) (42)/2. Principles of Program Design (M. A. Jac - Unknown.djvu",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Unknown/2. Principles of Program Design (M. A. Jackson) (Z-Library) (42)/2. Principles of Program Design (M. A. Jac - Unknown.djvu",
+        "timestamp": "2024-04-25T07:37:27.964Z",
+        "title": "2. Principles of Program Design (M. A. Jac"
+      },
+      {
+        "authors": [
+          "Steven Kotler"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/Steven Kotler/The Art of Impossible (41)/The Art of Impossible - Steven Kotler.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Steven Kotler/The Art of Impossible (41)/The Art of Impossible - Steven Kotler.epub",
+        "timestamp": "2024-04-24T14:52:33.540Z",
+        "title": "The Art of Impossible"
+      },
       {
         "authors": [
           "Steve Klabnik",
@@ -647,18 +714,6 @@
         "pathtoebook": "/home/fahmida/Calibre Library/Unknown/highlights (32)/highlights - Unknown.epub",
         "timestamp": "2024-01-24T23:43:30.525Z",
         "title": "highlights"
-      },
-      {
-        "key": "/home/fahmida/Calibre Library/Unknown/some (33)/some - Unknown.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Unknown/some (33)/some - Unknown.epub",
-        "timestamp": "2024-01-24T23:41:08.402Z",
-        "title": "some"
-      },
-      {
-        "key": "/home/fahmida/Calibre Library/Unknown/4 Books That Could Change Your Life (29)/4 Books That Could Change Your Life - Unknown.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Unknown/4 Books That Could Change Your Life (29)/4 Books That Could Change Your Life - Unknown.epub",
-        "timestamp": "2024-01-22T03:15:58.754Z",
-        "title": "4 Books That Could Change Your Life"
       }
     ],
     "user_color_schemes": {
