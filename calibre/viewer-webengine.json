@@ -35,9 +35,9 @@
         "y": 0
       },
       "index_in_screens_list": 0,
-      "manufacturer": "",
+      "manufacturer": "Samsung Display Corp.",
       "model": "",
-      "name": "VGA-1",
+      "name": "LVDS-1",
       "serial": "",
       "size_in_logical_pixels": {
         "height": 768,
@@ -509,7 +509,7 @@
       {
         "key": "/home/fahmida/downloads/Calibre Library/Unknown/2. Principles of Program Design (M. A. Jackson) (Z-Library) (42)/2. Principles of Program Design (M. A. Jac - Unknown.djvu",
         "pathtoebook": "/home/fahmida/downloads/Calibre Library/Unknown/2. Principles of Program Design (M. A. Jackson) (Z-Library) (42)/2. Principles of Program Design (M. A. Jac - Unknown.djvu",
-        "timestamp": "2024-04-25T07:37:27.964Z",
+        "timestamp": "2024-04-25T16:19:03.415Z",
         "title": "2. Principles of Program Design (M. A. Jac"
       },
       {

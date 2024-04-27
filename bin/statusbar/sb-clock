@@ -30,4 +30,6 @@ case $BLOCK_BUTTON in
 esac
 
 # date "+%Y %b %d (%a) $icon%I:%M%p ${hour_passed}h-gone %R"
-date "+%Y %b %d (%a) $icon%I:%M%p %R"
+# date "+%Y %b %d (%a) $icon %I:%M%p %R"
+date "+%I:%M%p %R"
+# date "(%a) $icon %I:%M%p %R"
