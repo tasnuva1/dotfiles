@@ -350,9 +350,9 @@
         "y": 0
       },
       "index_in_screens_list": 0,
-      "manufacturer": "Samsung Display Corp.",
+      "manufacturer": "",
       "model": "",
-      "name": "LVDS-1",
+      "name": "VGA-1",
       "serial": "",
       "size_in_logical_pixels": {
         "height": 768,
@@ -1138,7 +1138,7 @@
   },
   "library_usage_stats": {
     "/home/fahmida/Calibre Library": 288,
-    "/home/fahmida/downloads/Calibre Library": 47
+    "/home/fahmida/downloads/Calibre Library": 53
   },
   "modify epub plugin:options dialog": {
     "__class__": "bytearray",

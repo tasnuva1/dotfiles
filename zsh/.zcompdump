@@ -1,4 +1,4 @@
-#files: 800	version: 5.9
+#files: 805	version: 5.9
 
 _comps=(
 '-' '_precommand'
@@ -138,6 +138,7 @@ _comps=(
 'calibre-debug' '_calibre'
 'calibre-server' '_calibre'
 'calibre-smtp' '_calibre'
+'cargo' '_cargo'
 'cat' '_cat'
 'catchsegv' '_precommand'
 'cc' '_gcc'
@@ -273,6 +274,10 @@ _comps=(
 'dsh' '_dsh'
 'dtruss' '_dtruss'
 'du' '_du'
+'_dunst' '_dunst'
+'dunst' '_dunst'
+'_dunstctl' '_dunstctl'
+'dunstctl' '_dunstctl'
 'dvibook' '_dvi'
 'dviconcat' '_dvi'
 'dvicopy' '_dvi'
@@ -1090,6 +1095,7 @@ _comps=(
 'run-help' '_run-help'
 'rup' '_hosts'
 'rusage' '_precommand'
+'rustup' '_rustup'
 'rview' '_vim'
 'rvim' '_vim'
 'rwho' '_hosts'
@@ -1529,6 +1535,7 @@ _comps=(
 'zmodload' '_zmodload'
 'zmv' '_zmv'
 'zone' '_hosts'
+'zoxide' '_zoxide'
 'zparseopts' '_zparseopts'
 'zpool' '_zfs'
 'zpty' '_zpty'
@@ -1658,13 +1665,14 @@ bindkey '^[/' _history-complete-older
 bindkey '^[~' _bash_complete-word
 
 autoload -Uz _mutt-wizard.zsh _bat _bluetoothctl _busctl _calibre \
-            _code _curl _dotnet _email-notmuch _helix \
-            _img2sixel _libinput _loginctl _meson _mkinitcpio \
-            _mpv _mutt-wizard.zsh _ninja _notmuch _pacman \
-            _pass _pip _pkgfile _podman _podman-remote \
-            _pulseaudio _shtab _starship _timetrace _tldr \
-            _udevadm _wpctl _xwallpaper _yay _yt-dlp \
-            _zathura _cdr _all_labels _all_matches _alternative \
+            _cargo _code _curl _dotnet _dunst \
+            _dunstctl _email-notmuch _helix _img2sixel _libinput \
+            _loginctl _meson _mkinitcpio _mpv _mutt-wizard.zsh \
+            _ninja _notmuch _pacman _pass _pip \
+            _pkgfile _podman _podman-remote _pulseaudio _rustup \
+            _shtab _starship _timetrace _tldr _udevadm \
+            _wpctl _xwallpaper _yay _yt-dlp _zathura \
+            _zoxide _cdr _all_labels _all_matches _alternative \
             _approximate _arg_compile _arguments _bash_completions _cache_invalid \
             _call_function _combination _complete _complete_debug _complete_help \
             _complete_help_generic _complete_tag _comp_locale _correct _correct_filename \

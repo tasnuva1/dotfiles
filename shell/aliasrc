@@ -110,7 +110,8 @@ alias \
 	space="for f in *; do mv "$f" $(echo $f | tr ' ' '_'); done" \
 	usb-open="sudo mount /dev/sdb /mnt/usb && cd /mnt/usb && lf" \
 	usb-close="sudo fuser -km /dev/sdb && sudo umount /mnt/usb" \
-	z="zathura"
+	cd="z" \
+	za="zathura"
 
 alias \
 	lf="lfub" \

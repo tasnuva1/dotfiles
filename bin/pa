@@ -11,7 +11,7 @@
 # Next date weekly times:
 # https://muslimsalat.com/london/weekly/12-01-2013.json?key=api_key 
 
-# 24 hourse times:    (True or false)
+# hours are incremented by 1+:    (True or false)
 # https://muslimsalat.com/london/weekly/12-01-2013/true.json?key=api_key 
 
 # which Muslim World League calculation method to use:
@@ -29,6 +29,7 @@
 ############################################## SUMMARY DOC END ##############################################
 
 # API_URL="https://muslimsalat.com/dhaka.json?key=api_key"
+# API_URL="https://muslimsalat.com/dhaka/true/2.json?key=api_key"
 API_URL="https://muslimsalat.com/dhaka/2.json?key=api_key"
 
 response=$(curl -s "$API_URL")

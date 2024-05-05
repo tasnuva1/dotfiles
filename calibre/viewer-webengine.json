@@ -35,9 +35,9 @@
         "y": 0
       },
       "index_in_screens_list": 0,
-      "manufacturer": "Samsung Display Corp.",
+      "manufacturer": "",
       "model": "",
-      "name": "LVDS-1",
+      "name": "VGA-1",
       "serial": "",
       "size_in_logical_pixels": {
         "height": 768,
@@ -156,6 +156,9 @@
   "highlight_export_format": "txt",
   "local_storage": {
     "search-bar-history-search-for-sc": [
+      "es",
+      "click",
+      "right click",
       "copy",
       "rea",
       "reas",
@@ -390,7 +393,14 @@
         {
           "altKey": false,
           "ctrlKey": false,
-          "key": "ArrowLeft",
+          "key": "`",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "ArrowDown",
           "metaKey": false,
           "shiftKey": false
         }
@@ -443,6 +453,13 @@
           "altKey": false,
           "ctrlKey": false,
           "key": "ArrowRight",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "Tab",
           "metaKey": false,
           "shiftKey": false
         }
@@ -507,6 +524,16 @@
     "standalone_misc_settings": {},
     "standalone_recently_opened": [
       {
+        "authors": [
+          "Steve Klabnik",
+          "Carol Nichols"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/Steve Klabnik/2. The Rust Programming Language (7)/2. The Rust Programming Language - Steve Klabnik.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Steve Klabnik/2. The Rust Programming Language (7)/2. The Rust Programming Language - Steve Klabnik.epub",
+        "timestamp": "2024-05-03T14:45:08.763Z",
+        "title": "The Rust Programming Language"
+      },
+      {
         "key": "/home/fahmida/downloads/Calibre Library/Unknown/2. Principles of Program Design (M. A. Jackson) (Z-Library) (42)/2. Principles of Program Design (M. A. Jac - Unknown.djvu",
         "pathtoebook": "/home/fahmida/downloads/Calibre Library/Unknown/2. Principles of Program Design (M. A. Jackson) (Z-Library) (42)/2. Principles of Program Design (M. A. Jac - Unknown.djvu",
         "timestamp": "2024-04-25T16:19:03.415Z",
@@ -520,16 +547,6 @@
         "pathtoebook": "/home/fahmida/downloads/Calibre Library/Steven Kotler/The Art of Impossible (41)/The Art of Impossible - Steven Kotler.epub",
         "timestamp": "2024-04-24T14:52:33.540Z",
         "title": "The Art of Impossible"
-      },
-      {
-        "authors": [
-          "Steve Klabnik",
-          "Carol Nichols"
-        ],
-        "key": "/home/fahmida/downloads/Calibre Library/Steve Klabnik/2. The Rust Programming Language (7)/2. The Rust Programming Language - Steve Klabnik.epub",
-        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Steve Klabnik/2. The Rust Programming Language (7)/2. The Rust Programming Language - Steve Klabnik.epub",
-        "timestamp": "2024-03-15T23:26:43.230Z",
-        "title": "The Rust Programming Language"
       },
       {
         "authors": [

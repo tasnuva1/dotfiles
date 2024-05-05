@@ -105,3 +105,4 @@ source /usr/share/zsh/plugins/fast-syntax-highlighting/fast-syntax-highlighting.
 eval "$(atuin init zsh)"
 # ssa; 
 # lf
+eval "$(zoxide init zsh)"
