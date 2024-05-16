@@ -29,7 +29,11 @@ case $BLOCK_BUTTON in
 	6) "$TERMINAL" -e "$EDITOR" "$0" ;;
 esac
 
+date_num=$(date | cut -c 9-10)
+date=$(date "+%I:%M%p %R")
+
 # date "+%Y %b %d (%a) $icon%I:%M%p ${hour_passed}h-gone %R"
 # date "+%Y %b %d (%a) $icon %I:%M%p %R"
-date "+%I:%M%p %R"
+echo "$date_num $date"
 # date "(%a) $icon %I:%M%p %R"
+

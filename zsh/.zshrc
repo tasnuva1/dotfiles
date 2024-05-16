@@ -106,3 +106,9 @@ eval "$(atuin init zsh)"
 # ssa; 
 # lf
 eval "$(zoxide init zsh)"
+
+echo "
+current-project
+rust-advence                                             -> more variety, more points
+free-time
+"
