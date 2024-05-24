@@ -1,0 +1,11 @@
+---
+"terminal:scroll_up_one_line": alt-j
+"workspace:move_tab_right": alt-.
+"workspace:activate_next_tab": alt-n
+"editor_view:add_cursor_above": ctrl-alt-up
+"workspace:new_tab": alt-o
+"workspace:move_tab_left": "alt-,"
+"terminal:scroll_down_one_line": alt-k
+"workspace:close_active_tab": alt-m
+"workspace:activate_prev_tab": alt-i
+"editor_view:add_cursor_below": ctrl-alt-down
