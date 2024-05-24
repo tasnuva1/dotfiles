@@ -527,6 +527,21 @@
     },
     "standalone_recently_opened": [
       {
+        "key": "/home/fahmida/downloads/Calibre Library/Unknown/Clean Code (44)/Clean Code - Unknown.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Unknown/Clean Code (44)/Clean Code - Unknown.epub",
+        "timestamp": "2024-05-20T06:12:09.144Z",
+        "title": "Clean Code"
+      },
+      {
+        "authors": [
+          "Martin Fowler"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/Martin Fowler/Refactoring_ Improving the Design of Existing Code, Second Edition (Garner McCloud's Library) (40)/Refactoring_ Improving the Design of Exist - Martin Fowler.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Martin Fowler/Refactoring_ Improving the Design of Existing Code, Second Edition (Garner McCloud's Library) (40)/Refactoring_ Improving the Design of Exist - Martin Fowler.epub",
+        "timestamp": "2024-05-16T06:31:46.825Z",
+        "title": "Refactoring: Improving the Design of Existing Code, Second Edition (Garner McCloud's Library)"
+      },
+      {
         "authors": [
           "Delia Owens"
         ],
@@ -568,15 +583,6 @@
         "pathtoebook": "/home/fahmida/downloads/Calibre Library/Alex Hormozi/$100M Offers (35)/$100M Offers - Alex Hormozi.epub",
         "timestamp": "2024-03-14T09:55:27.125Z",
         "title": "$100M Offers"
-      },
-      {
-        "authors": [
-          "Martin Fowler"
-        ],
-        "key": "/home/fahmida/downloads/Calibre Library/Martin Fowler/Refactoring_ Improving the Design of Existing Code, Second Edition (Garner McCloud's Library) (40)/Refactoring_ Improving the Design of Exist - Martin Fowler.epub",
-        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Martin Fowler/Refactoring_ Improving the Design of Existing Code, Second Edition (Garner McCloud's Library) (40)/Refactoring_ Improving the Design of Exist - Martin Fowler.epub",
-        "timestamp": "2024-03-13T16:54:42.822Z",
-        "title": "Refactoring: Improving the Design of Existing Code, Second Edition (Garner McCloud's Library)"
       },
       {
         "authors": [
@@ -728,15 +734,6 @@
         "pathtoebook": "/home/fahmida/Calibre Library/Unknown/index (30)/index - Unknown.epub",
         "timestamp": "2024-01-24T23:47:28.448Z",
         "title": "index"
-      },
-      {
-        "authors": [
-          "hudsjen"
-        ],
-        "key": "/home/fahmida/Calibre Library/hudsjen/Microsoft Word - To the American people (24)/Microsoft Word - To the American people - hudsjen.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/hudsjen/Microsoft Word - To the American people (24)/Microsoft Word - To the American people - hudsjen.epub",
-        "timestamp": "2024-01-24T23:44:01.741Z",
-        "title": "Microsoft Word - To the American people"
       }
     ],
     "user_color_schemes": {

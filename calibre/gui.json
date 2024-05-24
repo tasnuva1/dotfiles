@@ -419,35 +419,35 @@
   },
   "geometry-of-convert_single_dialog_geom": {
     "frame_geometry": {
-      "height": 674,
-      "width": 1302,
-      "x": 32,
-      "y": 47
+      "height": 676,
+      "width": 1026,
+      "x": -1,
+      "y": 46
     },
     "full_screened": false,
     "geometry": {
       "height": 668,
-      "width": 1296,
-      "x": 35,
+      "width": 1018,
+      "x": 3,
       "y": 50
     },
     "maximized": false,
     "normal_geometry": {
       "height": 668,
-      "width": 1296,
-      "x": 35,
+      "width": 1018,
+      "x": 3,
       "y": 50
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAgAAAALwAABTUAAALQAAAAIwAAADIAAAUyAAACzQAAAAAAAAAABVYAAAAjAAAAMgAABTIAAALN"
+      "__value__": "AdnQywADAAD/////AAAALgAABAAAAALRAAAAAwAAADIAAAP8AAACzQAAAAAAAAAABAAAAAADAAAAMgAAA/wAAALN"
     },
     "screen": {
       "depth": 24,
       "device_pixel_ratio": 1.0,
       "geometry_in_logical_pixels": {
         "height": 768,
-        "width": 1366,
+        "width": 1024,
         "x": 0,
         "y": 0
       },
@@ -458,11 +458,11 @@
       "serial": "",
       "size_in_logical_pixels": {
         "height": 768,
-        "width": 1366
+        "width": 1024
       },
       "virtual_geometry": {
         "height": 768,
-        "width": 1366,
+        "width": 1024,
         "x": 0,
         "y": 0
       }
@@ -470,50 +470,50 @@
   },
   "geometry-of-duplicates-question-dialog-geometry": {
     "frame_geometry": {
-      "height": 384,
-      "width": 506,
-      "x": 430,
-      "y": 192
+      "height": 386,
+      "width": 508,
+      "x": 258,
+      "y": 191
     },
     "full_screened": false,
     "geometry": {
       "height": 378,
       "width": 500,
-      "x": 433,
+      "x": 262,
       "y": 195
     },
     "maximized": false,
     "normal_geometry": {
       "height": 378,
       "width": 500,
-      "x": 433,
+      "x": 262,
       "y": 195
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAGuAAAAwAAAA6cAAAI/AAABsQAAAMMAAAOkAAACPAAAAAAAAAAABVYAAAGxAAAAwwAAA6QAAAI8"
+      "__value__": "AdnQywADAAAAAAECAAAAvwAAAv0AAAJAAAABBgAAAMMAAAL5AAACPAAAAAAAAAAABAAAAAEGAAAAwwAAAvkAAAI8"
     },
     "screen": {
       "depth": 24,
       "device_pixel_ratio": 1.0,
       "geometry_in_logical_pixels": {
         "height": 768,
-        "width": 1366,
+        "width": 1024,
         "x": 0,
         "y": 0
       },
       "index_in_screens_list": 0,
-      "manufacturer": "Samsung Display Corp.",
+      "manufacturer": "",
       "model": "",
-      "name": "LVDS-1",
+      "name": "VGA-1",
       "serial": "",
       "size_in_logical_pixels": {
         "height": 768,
-        "width": 1366
+        "width": 1024
       },
       "virtual_geometry": {
         "height": 768,
-        "width": 1366,
+        "width": 1024,
         "x": 0,
         "y": 0
       }
@@ -1138,7 +1138,7 @@
   },
   "library_usage_stats": {
     "/home/fahmida/Calibre Library": 288,
-    "/home/fahmida/downloads/Calibre Library": 63
+    "/home/fahmida/downloads/Calibre Library": 67
   },
   "modify epub plugin:options dialog": {
     "__class__": "bytearray",

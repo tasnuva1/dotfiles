@@ -57,15 +57,22 @@ left = ["mode", "spinner"]
 center = ["file-name"]
 right = ["diagnostics", "version-control", "selections", "position", "file-encoding", "file-line-ending", "file-type"]
 
-
+# somethi jj
 [keys.insert]
-j = { k = "normal_mode" } # Maps `jk` to exit insert mode.
+# j = { k = "normal_mode" } # Maps `jk` to exit insert mode.
 C-h = "delete_char_backward" # Most terminals do this by default.
 C-l = "move_char_right" # Useful to jump over a closing parenthesises.
 C-s = ["save_selection", ":w"] # Add `:w` to the default binding.
 
 [keys.normal]
+# i = "append_mode"
+I = "insert_at_line_end"
+# a = "insert_mode"
+A = "insert_at_line_start"
+s = { s = ":w", f = ":wq"} 
+# s = { f = ":wq"} 
 Z = { Z = ":wq" } # Shortcut to save and close buffer.
+g = { u = "align_view_top"}
 C-h = "delete_char_backward" # Most terminals do this by default.
 C-l = "move_char_right" # Useful to jump over a closing parenthesises.
 C-s = ["save_selection", ":w"]
