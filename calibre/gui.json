@@ -317,28 +317,28 @@
   },
   "geometry-of-calibre_main_window_geometry": {
     "frame_geometry": {
-      "height": 747,
-      "width": 1024,
-      "x": 0,
-      "y": 21
+      "height": 374,
+      "width": 456,
+      "x": 563,
+      "y": -4
     },
     "full_screened": false,
     "geometry": {
-      "height": 739,
-      "width": 1016,
-      "x": 4,
-      "y": 25
+      "height": 366,
+      "width": 448,
+      "x": 567,
+      "y": 0
     },
     "maximized": false,
     "normal_geometry": {
-      "height": 739,
-      "width": 1016,
-      "x": 4,
-      "y": 25
+      "height": 366,
+      "width": 448,
+      "x": 567,
+      "y": 0
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAAAAAAFQAAA/8AAAL/AAAABAAAABkAAAP7AAAC+wAAAAAAAAAABAAAAAAEAAAAGQAAA/sAAAL7"
+      "__value__": "AdnQywADAAAAAAIz/////AAAA/oAAAFxAAACNwAAAAAAAAP2AAABbQAAAAAAAAAABAAAAAI3AAAAAAAAA/YAAAFt"
     },
     "screen": {
       "depth": 24,
@@ -1138,7 +1138,7 @@
   },
   "library_usage_stats": {
     "/home/fahmida/Calibre Library": 288,
-    "/home/fahmida/downloads/Calibre Library": 67
+    "/home/fahmida/downloads/Calibre Library": 75
   },
   "modify epub plugin:options dialog": {
     "__class__": "bytearray",

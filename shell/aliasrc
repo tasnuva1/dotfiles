@@ -112,7 +112,7 @@ alias \
 	usb-close="sudo fuser -km /dev/sdb && sudo umount /mnt/usb" \
 	rust-advence-with-project="lf '/mnt/4/Courses/1. Udemy - Rust Programming Part 2 - Advanced Concepts and Real-World Projects by Oreilly/'" \
 	free-time="lf '/home/fahmida/0.1 current audiobooks in theory/'" \
-	current-project-git="lf '/home/fahmida/1. gits(all-code)/1. Rust/1. Small-projects/new/codecrafters-git-rust/src/'" \
+	current-project-git="lf '/home/fahmida/1. gits(all-code)/1. Rust/1. Small-projects/codecrafters-git-rust/src/'" \
 	cd="z" \
 	za="zathura"
 

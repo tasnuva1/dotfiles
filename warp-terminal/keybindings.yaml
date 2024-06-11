@@ -1,11 +1,17 @@
 ---
-"terminal:scroll_up_one_line": alt-j
-"workspace:move_tab_right": alt-.
-"workspace:activate_next_tab": alt-n
-"editor_view:add_cursor_above": ctrl-alt-up
-"workspace:new_tab": alt-o
 "workspace:move_tab_left": "alt-,"
+"workspace:activate_next_tab": alt-n
 "terminal:scroll_down_one_line": alt-k
+"workspace:move_tab_right": alt-.
+"editor_view:move_to_line_start": ctrl-a
+"editor_view:select_all": ctrl-shift-A
+"editor_view:add_cursor_above": ctrl-alt-up
+"input:open_completion_suggestions": none
 "workspace:close_active_tab": alt-m
+"editor_view:move_to_line_end": ctrl-e
+"editor_view:insert_autosuggestion": tab
+"terminal:backward_tabulation": none
+"workspace:new_tab": alt-o
+"terminal:scroll_up_one_line": alt-j
 "workspace:activate_prev_tab": alt-i
 "editor_view:add_cursor_below": ctrl-alt-down

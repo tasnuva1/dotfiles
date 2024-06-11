@@ -66,13 +66,19 @@ C-s = ["save_selection", ":w"] # Add `:w` to the default binding.
 
 [keys.normal]
 # i = "append_mode"
-I = "insert_at_line_end"
 # a = "insert_mode"
+I = "insert_at_line_end"
 A = "insert_at_line_start"
 s = { s = ":w", f = ":wq"} 
 # s = { f = ":wq"} 
 Z = { Z = ":wq" } # Shortcut to save and close buffer.
 g = { u = "align_view_top"}
+# ";" = "page_cursor_half_up"
+t = "page_cursor_half_down"
+";" = "page_cursor_half_up"
+# "tab-t" = "page_cursor_half_up"
+# ";" = "goto_next_function"
+# t = "goto_prev_function"
 C-h = "delete_char_backward" # Most terminals do this by default.
 C-l = "move_char_right" # Useful to jump over a closing parenthesises.
 C-s = ["save_selection", ":w"]

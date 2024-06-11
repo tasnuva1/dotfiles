@@ -2,28 +2,28 @@
   "delete-highlight-from-viewer_again": false,
   "geometry-of-main_window_geometry": {
     "frame_geometry": {
-      "height": 768,
+      "height": 747,
       "width": 1024,
       "x": 0,
-      "y": 0
+      "y": 21
     },
     "full_screened": false,
     "geometry": {
-      "height": 760,
+      "height": 739,
       "width": 1016,
       "x": 4,
-      "y": 4
+      "y": 25
     },
     "maximized": false,
     "normal_geometry": {
-      "height": 760,
+      "height": 739,
       "width": 1016,
       "x": 4,
-      "y": 4
+      "y": 25
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAAAAAAAAAAA/8AAAL/AAAABAAAAAQAAAP7AAAC+wAAAAAAAAAABAAAAAAEAAAABAAAA/sAAAL7"
+      "__value__": "AdnQywADAAAAAAAAAAAAFQAAA/8AAAL/AAAABAAAABkAAAP7AAAC+wAAAAAAAAAABAAAAAAEAAAAGQAAA/sAAAL7"
     },
     "screen": {
       "depth": 24,
@@ -178,7 +178,7 @@
   },
   "main_window_state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAD6AAAC4/wCAAAAA/sAAAAeAGgAaQBnAGgAbABpAGcAaAB0AHMALQBkAG8AYwBrAAAAAAAAAALlAAAAxgD////7AAAAEAB0AG8AYwAtAGQAbwBjAGsCAAAA3QAAAA4AAAJFAAAC4/sAAAAWAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAAAAAC4wAAAJMA////AAAAAQAAAPwAAALl/AIAAAAD+wAAABYAbABvAG8AawB1AHAALQBkAG8AYwBrAAAAAAAAAAL6AAAAewD////7AAAAHABiAG8AbwBrAG0AYQByAGsAcwAtAGQAbwBjAGsAAAAAAP////8AAADkAP////sAAAAcAGkAbgBzAHAAZQBjAHQAbwByAC0AZABvAGMAawAAAAAA/////wAAABMA////AAAD+AAAAvgAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAD6AAAC+PwCAAAAA/sAAAAeAGgAaQBnAGgAbABpAGcAaAB0AHMALQBkAG8AYwBrAAAAAAAAAALlAAAAxgD////7AAAAEAB0AG8AYwAtAGQAbwBjAGsCAAAA3QAAAA4AAAJFAAAC4/sAAAAWAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAAAAAC+AAAAJMA////AAAAAQAAAPwAAALl/AIAAAAD+wAAABYAbABvAG8AawB1AHAALQBkAG8AYwBrAAAAAAAAAAL6AAAAewD////7AAAAHABiAG8AbwBrAG0AYQByAGsAcwAtAGQAbwBjAGsAAAAAAP////8AAADkAP////sAAAAcAGkAbgBzAHAAZQBjAHQAbwByAC0AZABvAGMAawAAAAAA/////wAAABMA////AAAD+AAAAuMAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
   },
   "old_prefs_migrated": true,
   "saved-highlights-search-settings": {},
@@ -216,6 +216,14 @@
       "mode": "normal"
     },
     "care": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "code (the final output of a project": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "code the final output of a project": {
       "case_sensitive": false,
       "mode": "normal"
     },
@@ -527,6 +535,33 @@
     },
     "standalone_recently_opened": [
       {
+        "authors": [
+          "Ryan Holiday"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/Ryan Holiday/Ego Is the Enemy (47)/Ego Is the Enemy - Ryan Holiday.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Ryan Holiday/Ego Is the Enemy (47)/Ego Is the Enemy - Ryan Holiday.epub",
+        "timestamp": "2024-06-03T17:18:54.147Z",
+        "title": "Ego Is the Enemy"
+      },
+      {
+        "authors": [
+          "Vitalik Buterin"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/Vitalik Buterin/Proof of Stake (46)/Proof of Stake - Vitalik Buterin.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Vitalik Buterin/Proof of Stake (46)/Proof of Stake - Vitalik Buterin.epub",
+        "timestamp": "2024-06-01T08:57:06.348Z",
+        "title": "Proof of Stake"
+      },
+      {
+        "authors": [
+          "Eghbal, Nadia"
+        ],
+        "key": "/home/fahmida/downloads/Calibre Library/Eghbal, Nadia/Working in Public (45)/Working in Public - Eghbal, Nadia.epub",
+        "pathtoebook": "/home/fahmida/downloads/Calibre Library/Eghbal, Nadia/Working in Public (45)/Working in Public - Eghbal, Nadia.epub",
+        "timestamp": "2024-05-29T12:06:52.210Z",
+        "title": "Working in Public"
+      },
+      {
         "key": "/home/fahmida/downloads/Calibre Library/Unknown/Clean Code (44)/Clean Code - Unknown.epub",
         "pathtoebook": "/home/fahmida/downloads/Calibre Library/Unknown/Clean Code (44)/Clean Code - Unknown.epub",
         "timestamp": "2024-05-20T06:12:09.144Z",
@@ -716,24 +751,6 @@
         "pathtoebook": "/home/fahmida/Calibre Library/Unknown/Navigating The Rust OSS Community (33)/Navigating The Rust OSS Community - Unknown.epub",
         "timestamp": "2024-02-01T07:00:19.075Z",
         "title": "some"
-      },
-      {
-        "key": "/home/fahmida/Calibre Library/Unknown/In-depth Overview [_] Zig Programming Language (34)/In-depth Overview [_] Zig Programming Lang - Unknown.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Unknown/In-depth Overview [_] Zig Programming Language (34)/In-depth Overview [_] Zig Programming Lang - Unknown.epub",
-        "timestamp": "1980-01-01T00:03:56.343Z",
-        "title": "In-depth Overview ⚡ Zig Programming Language"
-      },
-      {
-        "key": "/home/fahmida/Calibre Library/Unknown/document (21)/document - Unknown.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Unknown/document (21)/document - Unknown.epub",
-        "timestamp": "2024-01-24T23:48:55.104Z",
-        "title": "document"
-      },
-      {
-        "key": "/home/fahmida/Calibre Library/Unknown/index (30)/index - Unknown.epub",
-        "pathtoebook": "/home/fahmida/Calibre Library/Unknown/index (30)/index - Unknown.epub",
-        "timestamp": "2024-01-24T23:47:28.448Z",
-        "title": "index"
       }
     ],
     "user_color_schemes": {

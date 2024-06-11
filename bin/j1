@@ -1,28 +1,39 @@
 #!/bin/bash
 
-# Define an array of URLs you want to open
-urls=(
-    "https://rust-book.cs.brown.edu/ch08-00-common-collections.html"
-    "https://google.github.io/comprehensive-rust/methods-and-traits.html"
-    "https://doc.rust-lang.org/stable/reference/"
-    "https://learn.letsgetrusty.com/beginner/constants-statics.html"
-    "https://rust-unofficial.github.io/too-many-lists/"
-)
 
-# Path to the Google Chrome executable
-chrome="/usr/bin/google-chrome-stable"
-xdotool key super+w &
-sleep 5 
-# Open each URL in a new tab
-for url in "${urls[@]}"; do
-    "$chrome" --new-tab "$url" &
-    sleep 1
-done
-
+xdotool key super+t &
+st -e bash -c "helix writing/DAILY\ HOMEWORK.md" &
+sleep 2 
+xdotool key g &
 sleep 1
-xdotool key ctrl+1 &
+xdotool key 6 &
 sleep 1
-xdotool key ctrl+w &
-
+xdotool key 4 &
+sleep 1
+xdotool key 2 &
+sleep 1
+xdotool key g &
+sleep 1
+xdotool key z &
+sleep 1
+xdotool key t &
+sleep 1
+# xdotool key ctrl+w &
+st -e bash -c "helix writing/For\ print-tem.md" &
+sleep 2 
+xdotool key g &
+sleep 1
+xdotool key 9 &
+sleep 1
+xdotool key 5 &
+sleep 1
+xdotool key g &
+sleep 1
+xdotool key z &
+sleep 1
+xdotool key t &
+sleep 1
+xdotool key super+t &
+sleep 1 
 
 
