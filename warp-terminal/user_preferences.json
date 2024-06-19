@@ -1,26 +1,7 @@
 {
   "prefs": {
-    "FontSize": "12.0",
-    "FontName": "\"Source Code Pro\"",
-    "ChangelogVersions": "{\"v0.2024.03.12.08.02.stable_01\":true,\"v0.2024.05.14.08.01.stable_04\":true}",
-    "AliasExpansionBannerSeen": "true",
-    "ShowWarningBeforeQuitting": "false",
-    "VimModeEnabled": "true",
-    "AIAssistantRequestLimitInfo": "{\"limit\":40,\"num_requests_used_since_refresh\":9,\"next_refresh_time\":\"2024-06-24T23:00:02.447282Z\"}",
-    "WelcomeTipsFeaturesUsed": "[{\"Hint\":\"CreateBlock\"},{\"Hint\":\"BlockAction\"},{\"Action\":\"CommandPalette\"},{\"Hint\":\"BlockSelect\"},{\"Action\":\"AiCommandSearch\"},{\"Action\":\"SplitPane\"},{\"Action\":\"WarpAI\"},{\"Action\":\"CommandSearch\"}]",
-    "EmacsBindingsBannerState": "\"Dismissed\"",
-    "WorkflowsBoxOpen": "true",
-    "HasAutoOpenedWelcomeFolder": "true",
-    "VimKeybindingsBannerState": "\"Dismissed\"",
-    "CursorBlink": "\"Disabled\"",
-    "HonorPS1": "false",
-    "Shortcuts": "true",
-    "LineHeightRatio": "1.5",
-    "ExperimentId": "149b4009-ec34-44c2-8bc9-daae97bb8b21",
-    "AutosuggestionAcceptedCount": "2",
-    "StartupShellOverride": "null",
-    "Theme": "\"Dracula\"",
-    "ReceivedReferralTheme": "\"Inactive\"",
-    "InputMode": "\"PinnedToTop\""
+    "CrashReportingEnabled": "true",
+    "ExperimentId": "fbd135ee-40b1-40fd-a1e4-105fb1721ec4",
+    "TelemetryEnabled": "true"
   }
 }
