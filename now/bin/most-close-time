@@ -2,9 +2,13 @@
 
 # Function to convert time to minutes
 to_minutes() {
-    local h=$(echo $1 | cut -d: -f1)
-    local m=$(echo $1 | cut -d: -f2)
-    echo $(($h * 60 + $m))
+    # local h=$(echo $1 | cut -d: -f1)
+    # local m=$(echo $1 | cut -d: -f2)
+    local h=$(echo $1 | sed 's/^0*//' | cut -d: -f1) # Remove leading zeros
+    local m=$(echo $1 | sed 's/^0*//' | cut -d: -f2) # Remove leading zeros
+    # echo $(($h * 60 + $m))
+    echo $(( 10#$h * 60 + 10#$m ))
+
 }
 
 # Function to find the closest time
@@ -27,6 +31,8 @@ find_closest_time() {
     done
 
     echo $closest_time
+    # printf "%s" "$closest_time"
+
 }
 
 # Usage: ./script.sh "current_time" "time1" "time2" ...
@@ -46,3 +52,5 @@ closest_time=$(find_closest_time $current_time "$@")
 # echo "this is $closest_time"
 
 echo "$closest_time"
+# printf "%s" "$closest_time"
+

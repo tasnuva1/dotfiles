@@ -338,7 +338,7 @@
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAAAAAAAAAAA/8AAAL/AAAABAAAAAQAAAP7AAAC+wAAAAEAAAAABAAAAAAEAAAABAAAA/sAAAL7"
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAAA/8AAAL/AAAABAAAAAQAAAP7AAAC+wAAAAAAAAAABAAAAAAEAAAABAAAA/sAAAL7"
     },
     "screen": {
       "depth": 24,
@@ -349,7 +349,7 @@
         "x": 0,
         "y": 0
       },
-      "index_in_screens_list": 1,
+      "index_in_screens_list": 0,
       "manufacturer": "",
       "model": "",
       "name": "VGA-1",
@@ -452,9 +452,9 @@
         "y": 0
       },
       "index_in_screens_list": 0,
-      "manufacturer": "Samsung Display Corp.",
+      "manufacturer": "",
       "model": "",
-      "name": "LVDS-1",
+      "name": "VGA-1",
       "serial": "",
       "size_in_logical_pixels": {
         "height": 768,
@@ -1138,7 +1138,7 @@
   },
   "library_usage_stats": {
     "/home/fahmida/Calibre Library": 288,
-    "/home/fahmida/downloads/Calibre Library": 77
+    "/home/fahmida/downloads/Calibre Library": 87
   },
   "modify epub plugin:options dialog": {
     "__class__": "bytearray",

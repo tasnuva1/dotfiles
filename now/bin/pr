@@ -63,7 +63,6 @@ echo "Sunset / Maghrib: $maghrib 3"
 echo "Evening / Isha: $isha"
 echo "'---------+---------+---------+---------+---------+---------+---------'"
 
-
 # Usage: ./script.sh "6:39 pm"
 # ./12-24-h $fair
 # "${am_pm_part//\"/}"
@@ -73,12 +72,12 @@ echo "'---------+---------+---------+---------+---------+---------+---------'"
 # echo "./12-24-h $isha"
 
 
-time1=$(./12-24-h "${fair//\"/}")
-time2=$(./12-24-h "${sunrise//\"/}")
-time3=$(./12-24-h "${dhuhr//\"/}")
-time4=$(./12-24-h "${asr//\"/}")
-time5=$(./12-24-h "${maghrib//\"/}")
-time6=$(./12-24-h "${isha//\"/}")
+time1=$(/home/fahmida/.local/bin/12-24-h "${fair//\"/}")
+time2=$(/home/fahmida/.local/bin/12-24-h "${sunrise//\"/}")
+time3=$(/home/fahmida/.local/bin/12-24-h "${dhuhr//\"/}")
+time4=$(/home/fahmida/.local/bin/12-24-h "${asr//\"/}")
+time5=$(/home/fahmida/.local/bin/12-24-h "${maghrib//\"/}")
+time6=$(/home/fahmida/.local/bin/12-24-h "${isha//\"/}")
 
 
 # Get the current date and time in 12-hour format
@@ -88,14 +87,15 @@ current_date_12hr=$(date "+%Y-%m-%d %I:%M:%S %p")
 current_date_24hr=$(date -d "$current_date_12hr" "+%H:%M")
 # echo "$current_date_24hr"
 
-next_prayer=$(./most-close-time $current_date_24hr $time1 $time2 $time3 $time4 $time5 $time6)
+next_prayer=$(/home/fahmida/.local/bin/most-close-time $current_date_24hr $time1 $time2 $time3 $time4 $time5 $time6)
 
-remaining_time=$(./calculate_time_difference $current_date_24hr $next_prayer)
+remaining_time=$(/home/fahmida/.local/bin/calculate_time_difference $current_date_24hr $next_prayer)
 
 # echo "$remaining_time -- $current_date_24hr $next_prayer"
 
 
 date "+%I:%M %p"
+echo ""
 
 if [[ $next_prayer == $time1 ]]
 then 
@@ -131,7 +131,7 @@ else
   echo "non mathch"
 fi
 
-./t $remaining_time
+/home/fahmida/.local/bin/t $remaining_time && mpv /home/fahmida/.local/bin/cock.mp4
 
 
 

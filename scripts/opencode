@@ -1,2 +1,0 @@
-#!/bin/bash
-directory_path=$(dirname "$1") && st -e sh -c "code '$directory_path'; exec zsh"
