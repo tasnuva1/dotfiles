@@ -1,0 +1,39 @@
+#!/bin/bash
+
+
+xdotool key super+t &
+st -e bash -c "helix writing/DAILY\ HOMEWORK.md" &
+sleep 2 
+xdotool key g &
+sleep 1
+xdotool key 6 &
+sleep 1
+xdotool key 4 &
+sleep 1
+xdotool key 2 &
+sleep 1
+xdotool key g &
+sleep 1
+xdotool key z &
+sleep 1
+xdotool key t &
+sleep 1
+# xdotool key ctrl+w &
+st -e bash -c "helix writing/For\ print-tem.md" &
+sleep 2 
+xdotool key g &
+sleep 1
+xdotool key 9 &
+sleep 1
+xdotool key 5 &
+sleep 1
+xdotool key g &
+sleep 1
+xdotool key z &
+sleep 1
+xdotool key t &
+sleep 1
+xdotool key super+t &
+sleep 1 
+
+
