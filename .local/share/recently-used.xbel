@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/tasnuva/dwm.zip" added="2025-03-05T19:40:58.655009Z" modified="2025-03-05T19:40:58.655012Z" visited="2025-03-05T19:40:58.655010Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2025-03-05T19:40:58.655011Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasnuva/---.jpg" added="2025-03-07T00:52:15.030071Z" modified="2025-03-07T00:52:15.030074Z" visited="2025-03-07T00:52:15.030072Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2025-03-07T00:52:15.030072Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasnuva/cascadia-code.zip" added="2025-03-07T01:21:05.912770Z" modified="2025-03-07T01:21:05.912775Z" visited="2025-03-07T01:21:05.912773Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2025-03-07T01:21:05.912774Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasnuva/CascadiaCode-2407.24.zip" added="2025-03-07T01:22:18.161609Z" modified="2025-03-07T01:22:18.161612Z" visited="2025-03-07T01:22:18.161609Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2025-03-07T01:22:18.161610Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tasnuva/Death-of-Neo-Darwinism-Subboor-Hamad-Salman-Butt-February-2025.pdf" added="2025-03-07T11:56:40.727213Z" modified="2025-03-07T11:56:40.727219Z" visited="2025-03-07T11:56:40.727216Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2025-03-07T11:56:40.727218Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

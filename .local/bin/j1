@@ -1,0 +1,71 @@
+#!/bin/bash
+
+
+xdotool key super+d
+sleep .3
+xdotool type "dis"
+sleep .3
+xdotool key Right
+sleep .3
+xdotool key Right
+sleep .3
+xdotool key Right
+sleep .3
+xdotool key Enter
+sleep .3
+xdotool type "v"
+sleep .3
+xdotool key Enter
+
+
+sleep .3
+xdotool key super+a
+sleep .3
+xdotool key super+shift+u
+sleep .3
+
+
+# THIS 2 ARE UTILITE FUNCIONS, HELPERS
+urls=(
+    "https://www.youtube.com/watch?v=yy8jQgmhbAU&list=PLNlglTVffL93lVd52bvl6CW94OzqyzShF&index=120&t=1388s"
+    "https://www.amplenote.com/notes/948bedf4-1fbf-11ef-89bd-2e97089a9920"
+)
+# urls=(
+#     "https://rust-book.cs.brown.edu/ch08-00-common-collections.html"
+#     "https://google.github.io/comprehensive-rust/methods-and-traits.html"
+#     "https://doc.rust-lang.org/stable/reference/"
+#     "https://learn.letsgetrusty.com/beginner/constants-statics.html"
+#     "https://rust-unofficial.github.io/too-many-lists/"
+# )
+
+# Path to the Google Chrome executable
+chrome="/usr/bin/google-chrome-stable"
+# xdotool key super+w &
+# sleep 18
+
+xdotool key super+d
+sleep .3
+xdotool type "goo"
+sleep .3
+xdotool key Enter
+sleep 20
+
+# Open each URL in a new tab
+for url in "${urls[@]}"; do
+    "$chrome" --new-tab "$url" &
+    sleep 1
+done
+
+sleep 8
+xdotool key ctrl+shift+Tab
+sleep 7
+xdotool key space
+sleep 2
+xdotool type "gi" &
+sleep 1
+xdotool type "when eating" &
+sleep 1
+xdotool key Escape &
+sleep 1
+# xdotool key ctrl+w &
+

@@ -1,0 +1,7 @@
+[default-routes]
+alsa_card.pci-0000_10_00.6:output:analog-output-lineout={"mute":false, "latencyOffsetNsec":0, "channelMap":["FL", "FR"], "channelVolumes":[0.279833, 0.279833]}
+alsa_card.pci-0000_10_00.6:profile:output:analog-stereo+input:analog-stereo=["analog-output-lineout"]
+bluez_card.84_26_7A_32_FD_CF:input:headset-input={"mute":false, "channelMap":["MONO"], "channelVolumes":[1.000000]}
+bluez_card.84_26_7A_32_FD_CF:output:headset-hf-output={"mute":false, "channelMap":["MONO"], "channelVolumes":[0.064000]}
+bluez_card.84_26_7A_32_FD_CF:profile:a2dp-sink=["headset-output", "headset-input"]
+bluez_card.84_26_7A_32_FD_CF:profile:headset-head-unit=["headset-hf-output", "headset-input"]

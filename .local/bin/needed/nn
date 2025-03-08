@@ -1,0 +1,109 @@
+#!/bin/bash
+
+# now_time=$(date "+%I:%M %p")
+# echo "${now_time//\"/} " >> /home/$USER/file
+
+# /home/$USER/.local/bin/t $remaining_time && mpv /home/$USER/.local/bin/cock.mp4
+
+
+# case $1 in
+#   -h)
+#     echo "What time should the alarm go off? (HH:MM)"
+#     exit 1
+#     ;;
+#     *)
+    
+# esac
+
+#!/bin/bash
+
+# File to log activities
+log_file="activity_log.txt"
+
+# Function to get current time in 12-hour format
+get_time() {
+    date +"%I:%M %p"
+}
+
+# Combine all input arguments into a single string called 'doing_now'
+doing_now="$*"
+first_arg="$1"
+
+echo "" >> "$log_file"
+
+# Write initial entry with the current time and 'doing_now' (if any arguments)
+# echo -n "$(get_time)  $doing_now" >> "$log_file"
+
+echo -n "$(get_time)  $doing_now" >> "$log_file"
+echo "Starts at $(get_time)"
+
+/home/$USER/.local/bin/t $first_arg && echo -n "  $done_now  $(get_time)" >> "$log_file" && mpv /home/$USER/.local/bin/cock.mp4
+
+#############################################################
+
+# if [ -n "$doing_now" ]; then
+#     echo -n "$(get_time)  $doing_now" >> "$log_file"
+# else
+#     echo -n "$(get_time)" >> "$log_file"
+# fi
+
+
+
+# # Enable watch mode until `Ctrl+C` is pressed
+# trap "exit_flag=true" SIGINT
+
+
+# # Initialize timer
+# hours=0
+# minutes=0
+# seconds=0
+
+# # Function to display timer in HH:MM:SS format
+# display_timer() {
+#     # printf "\rTimer: %02d:%02d:%02d" "$hours" "$minutes" "$seconds"
+#     printf "\r%02d:%02d:%02d" "$hours" "$minutes" "$seconds"
+# }
+
+# # Function to increment timer
+# increment_timer() {
+#     ((seconds++))
+#     if [ $seconds -eq 60 ]; then
+#         seconds=0
+#         ((minutes++))
+#     fi
+#     if [ $minutes -eq 60 ]; then
+#         minutes=0
+#         ((hours++))
+#     fi
+# }
+
+
+# # Watch mode
+# exit_flag=false
+# echo "Entering watch mode... Press Ctrl+C to exit."
+
+# while ! $exit_flag; do
+#     sleep 1
+#     increment_timer
+#     display_timer
+# done
+
+# # New trap to handle `Ctrl+C` during the prompt, which logs the time and exits
+# trap 'echo -n "  $(get_time)" >> "$log_file"; echo "Logged exit time."; exit' SIGINT
+
+# read -p "  Enter what you've done now (or press Ctrl+C again to exit): " -r done_now
+
+# # If user provided additional input, convert it to a single string and log it
+# if [ -n "$done_now" ]; then
+#     echo -n "  $done_now  $(get_time)" >> "$log_file"
+#     echo " Logged: $(get_time) $done_now"
+# else
+#     # echo -n "  $(get_time)" >> "$log_file"
+#     # echo " Logged: $(get_time)"
+#     echo "Exiting without additional entry."
+# fi
+
+# echo "Script finished. Check the log file at $log_file."
+
+
+

@@ -1,0 +1,59 @@
+#!/bin/bash
+
+# File to store the PID of the ffmpeg process
+PID_FILE="/tmp/recordingpid"
+
+updateicon() { \
+	echo "$1" > /tmp/recordingicon
+	pkill -RTMIN+9 "${STATUSBAR:-dwmblocks}"
+	}
+
+# Function to start recording
+start_recording() {
+    echo "Starting recording..."
+    ffmpeg \
+        -f x11grab \
+        -video_size 1024x768 \
+        -framerate 30 \
+        -i :0.0+nomouse \
+        -f pulse \
+        -i default \
+        -c:v libx264 \
+        -pix_fmt yuv420p \
+        "$HOMEall-$(date '+%y%m%d-%H%M-%S').mp4" &
+    
+    # Save the PID of the ffmpeg process
+    echo $! > "$PID_FILE"
+    echo "Recording started with PID: $(cat $PID_FILE)"
+    updateicon "⏺️🎙️"
+
+}
+
+# Function to stop recording
+stop_recording() {
+    if [ -f "$PID_FILE" ]; then
+        PID=$(cat "$PID_FILE")
+        if ps -p $PID > /dev/null; then
+            echo "Stopping recording..."
+            kill $PID
+            rm -f "$PID_FILE"
+            echo "Recording stopped."
+            updateicon ""
+            pkill -RTMIN+9 "${STATUSBAR:-dwmblocks}"
+
+        else
+            echo "No active recording process found. Cleaning up PID file."
+            rm -f "$PID_FILE"
+        fi
+    else
+        echo "No recording is currently active."
+    fi
+}
+
+# Toggle recording based on PID file existence
+if [ -f "$PID_FILE" ]; then
+    stop_recording
+else
+    start_recording
+fi
+

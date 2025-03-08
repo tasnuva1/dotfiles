@@ -1,0 +1,35 @@
+#!/bin/bash
+
+# note: if file name has a space not gonna work.
+
+# Check if pdfunite is installed
+if ! command -v pdfunite &> /dev/null; then
+    echo "pdfunite could not be found, please install poppler-utils package."
+    exit 1
+fi
+
+# The directory to search for PDF files (current directory by default)
+search_dir="."
+
+# Output merged file name
+output_file="mergedfile.pdf"
+
+# Find all PDF files in the directory structure (recursively) and sort them by natural order
+pdf_files=$(find "$search_dir" -type f -name "*.pdf" | sort -V)
+
+# Check if any PDF files were found
+if [ -z "$pdf_files" ]; then
+    echo "No PDF files found in the directory."
+    exit 1
+fi
+
+# Merge all the PDF files into one
+pdfunite $pdf_files "$output_file"
+
+# Check if the merge was successful with exit status
+if [ $? -eq 0 ]; then
+    echo "PDF files merged successfully into $output_file"
+else
+    echo "Failed to merge PDF files."
+fi
+

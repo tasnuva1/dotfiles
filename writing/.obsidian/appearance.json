@@ -1,0 +1,16 @@
+{
+  "accentColor": "#1b1d1e",
+  "baseFontSize": 21,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "Bold & Italics",
+    "Blockquote",
+    "Headlines Custom"
+  ],
+  "interfaceFontFamily": "Roboto,Arial",
+  "textFontFamily": "Roboto,Arial",
+  "monospaceFontFamily": "Roboto,Arial"
+}

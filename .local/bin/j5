@@ -1,0 +1,111 @@
+#!/bin/bash
+
+sleep .3
+xdotool key super+1
+sleep .3
+xdotool key super+d
+sleep .3
+xdotool type "dis"
+sleep .3
+xdotool key Right
+sleep .3
+xdotool key Right
+sleep .3
+xdotool key Right
+sleep .3
+xdotool key Enter
+sleep .3
+xdotool type "v"
+sleep .3
+xdotool key Enter
+
+
+sleep .3
+xdotool key super+t
+sleep .3
+mounter 
+# sleep .3
+st -e bash -c "ebook-viewer '/home/fahmida/1.2 audiobooks/extra/1 Build Your Own Web Server From Scratch In Node.JS (James Smith) (Z-Library).epub'" &
+sleep 2 
+xdotool key super+d
+sleep .3
+xdotool type "wezterm"
+sleep .3
+xdotool key Enter
+sleep 7 
+xdotool key ctrl+shift+t
+sleep .3
+xdotool type "vktablet"
+sleep .3
+xdotool key Enter
+sleep 1 
+xdotool key ctrl+shift+t
+sleep .3
+xdotool type "a"
+sleep .3
+xdotool key Enter
+sleep .3
+xdotool key ctrl+shift+t
+sleep .3
+xdotool type "h '/home/fahmida/1 CodeCraftPDFs/Build your own HTTP server/all/http-server/src/main.rs'"
+sleep 1 
+xdotool key Enter
+# sleep 1 
+# xdotool key ctrl+Tab
+
+
+sleep .3
+xdotool key super+3
+sleep .3
+# Define an array of URLs you want to open
+urls=(
+    "https://www.youtube.com/playlist?list=PLNlglTVffL93lVd52bvl6CW94OzqyzShF"
+    "https://www.youtube.com/watch?v=yy8jQgmhbAU"
+    "https://www.amplenote.com/notes/948bedf4-1fbf-11ef-89bd-2e97089a9920"
+)
+
+# "https://www.amplenote.com/notes/jots"
+# "https://www.amplenote.com/notes/71e60d32-559a-11ef-987b-360e25dcc291"
+
+# Path to the Google Chrome executable
+chrome="/usr/bin/google-chrome-stable"
+
+Open each URL in a new tab
+for url in "${urls[@]}"; do
+    "$chrome" --new-tab "$url" &
+    sleep 1
+done
+sleep 5 
+
+
+sleep .3
+xdotool key super+d
+sleep .3
+xdotool type "goo"
+sleep .3
+xdotool key Enter
+sleep 2
+xdotool type "https://www.amplenote.com/notes/jots"
+sleep .3
+xdotool key Enter
+sleep .3
+xdotool key ctrl+t
+sleep .3
+xdotool type "https://www.youtube.com/watch?v=rX0ItVEVjHc&t=1148s"
+sleep .3
+xdotool key Enter
+sleep 9
+# xdotool key alt+space
+xdotool key space
+sleep .3
+xdotool key super+a
+sleep .3
+xdotool key super+h
+sleep .3
+xdotool key super+h
+sleep .3
+xdotool key super+h
+sleep .3
+xdotool key super+h
+sleep .3
+

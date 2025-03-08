@@ -1,0 +1,6 @@
+#!/bin/bash
+
+mkdir converted
+for f in *.mp4; do ffmpeg -i "$f" -c:v libx264 -pix_fmt yuv420p "converted/${f%.mp4}.mp4"; done
+# ffmpeg -i sample_input.mov -c:v libx264 -pix_fmt yuv420p compressed_output.mp4
+# ffmpeg -i "$f" "converted/${f%.mp4}.avi": FFmpeg will convert each file and store it in the ‘converted’ folder with a .avi extension.

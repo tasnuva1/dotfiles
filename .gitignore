@@ -1,0 +1,64 @@
+# exclude everything except directory foo/bar
+
+# alacritty is a terminal theme. just run the command.
+# atuin magical shell history.
+# blue* command for bluetooth like bluetoothctl, blueman.
+# nsxiv image viewer.
+# ncmpcpp is for album songs, mutt for mail, neofetch for printing info.
+# newsboat is a good one. for blogs, news, youtube.
+# nushell is ls & color any outputs.
+# pipewire handing audio & video streams.
+
+.config/firefox
+.config/go
+.config/google-chrome
+.config/ncmpcpp
+.config/pipewire
+.config/python
+
+/*
+!/.git
+!/.config
+!/dwm-software.zip
+!/main-suckless-software
+!/.local
+!/writing
+!/.gitconfig
+!/.gitignore
+
+
+
+# !/.config/abook
+# !/.config/alacritty
+# !/.config/calcurse
+# !/.config/fontconfig
+# !/.config/dconf
+# !/.config/dunst
+# !/.config/gtk-2.0
+# !/.config/gtk-3.0
+# !/.config/helix
+# !/.config/htop
+# !/.config/latexmk
+# !/.config/lf
+# !/.config/mpd
+# !/.config/mpv
+# !/.config/newsboat
+# !/.config/nsxiv
+# !/.config/nvim
+# !/.config/pinentry
+# !/.config/pulse
+# !/.config/python
+# !/.config/rofi
+# !/.config/shell
+# !/.config/sxiv
+# !/.config/systemd
+# !/.config/wal
+# !/.config/wget
+# !/.config/x11
+# !/.config/yay
+# !/.config/zathura
+# !/.config/zsh
+# !/.config/mimeapps.list
+# !/.config/pavucontrol.ini
+# !/.config/user-dirs.dirs
+# !/.local

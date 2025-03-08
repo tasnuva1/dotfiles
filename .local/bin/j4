@@ -1,0 +1,66 @@
+#!/bin/bash
+
+sleep .3
+xdotool key super+1
+sleep .3
+xdotool key super+d
+sleep .3
+xdotool key super+d+i+s
+sleep .3
+xdotool key Right
+sleep .3
+xdotool key Right
+sleep .3
+xdotool key Right
+sleep .3
+xdotool key Enter
+sleep .3
+xdotool key v
+sleep .3
+xdotool key Enter
+
+sleep .3
+xdotool key super+shift+u
+sleep .3
+mounter 
+# sleep .3
+st -e bash -c "lf /mnt/3/2.\ The\ Complete\ Haskell\ Course\ From\ Zero\ to\ Expert\!\ 2023-8/-1.\ Algorithms\ and\ Data\ Structures\ Masterclass\ \(JavaScript\)/01\ -\ Introduction" &
+sleep 2 
+xdotool key super+9
+sleep .3
+# st -e bash -c "cd /home/$USER/.local/bin/ && ./pr" &
+st -e bash -c "a" &
+sleep 3 
+xdotool key super+2
+sleep .3
+# Define an array of URLs you want to open
+urls=(
+    "https://www.amplenote.com/notes/c1af8150-5d8c-11ef-a7d3-22074e34eefe"
+)
+
+# "https://www.amplenote.com/notes/jots"
+# "https://www.amplenote.com/notes/71e60d32-559a-11ef-987b-360e25dcc291"
+
+# Path to the Google Chrome executable
+chrome="/usr/bin/google-chrome-stable"
+
+Open each URL in a new tab
+for url in "${urls[@]}"; do
+    "$chrome" --new-tab "$url" &
+    sleep 1
+done
+sleep 5 
+zathura 1.2\ small\ projects\ for\ Practice.pdf &
+sleep 1 
+st -e bash -c "current-project-send-receive" &
+sleep 1 
+
+xdotool key super+1
+sleep .3
+st -e bash -c "cd '/home/$USER/2 codes/1. Rust/2. Small-projects/new/DSA/' && helix src/main.rs" &
+sleep 1 
+xdotool key super+shift+Enter
+sleep .3
+xdotool key c
+sleep .3
+xdotool key Enter

@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+
+if [[ $# -eq 1 ]]; then
+    selected=$1
+else
+    selected=$(find '/mnt/3/Courses/media/audiobooks/1 Computer Programming Crafting' '/home/fahmida/1/1 become mus-ta-kim, to become a good person/1 body & mind - exercise stretching' '/home/fahmida/1/1 become mus-ta-kim, to become a good person/3 qurn - read tafsir - learning something new' '/home/fahmida/1/Zero To Production In Rust - 0-1 - 0 to 1 - zero to one.epub' /home/fahmida/.local/bin /home/fahmida/.local/src /home/fahmida/.config/nushell/config.nu /home/fahmida/.config/shell/aliasrc /home/fahmida/.config/shell/profile /home/fahmida/.config/x11 /home/fahmida/.config/zsh/.zshrc ~/ -mindepth 1 -maxdepth 1 -type d | fzf)
+fi
+
+if [[ -z $selected ]]; then
+    exit 0
+fi
+
+selected_name=$(basename "$selected" | tr . _)
+tmux_running=$(pgrep tmux)
+
+if [[ -z $TMUX ]] && [[ -z $tmux_running ]]; then
+    tmux new-session -s $selected_name -c $selected
+    exit 0
+fi
+
+if ! tmux has-session -t=$selected_name 2> /dev/null; then
+    tmux new-session -ds $selected_name -c $selected
+fi
+
+tmux switch-client -t $selected_name
+

@@ -1,0 +1,301 @@
+#!/bin/bash
+
+# sudo date -s "03 feb 2024 4:20 am"; ###############
+################################################## For learning more: https://timeapi.io/swagger/index.html ##################################################
+
+# sleep 2;
+
+# API_URL="https://timeapi.io/api/Time/current/zone?timeZone=Asia/Dhaka"
+
+# response=$(curl -s "$API_URL")
+
+# if [ -z "$response" ]; then
+#   echo "Error: Failed to fetch data from the API."
+#   exit 1
+# fi
+
+# # Parse the response using jq (make sure jq is installed)
+# numaric_date=$(echo "$response" | jq '.date')
+# day=$(echo "$response" | jq '.day')
+# month=$(echo "$response" | jq '.month')
+# year=$(echo "$response" | jq '.year')
+# time_24=$(echo "$response" | jq '.time')
+# time_zone=$(echo "$response" | jq '.timeZone')
+# name_of_week=$(echo "$response" | jq '.dayOfWeek')
+
+####################################################################################################
+# Get the current year
+year=$(date +"%Y")
+
+# Get the current month
+month=$(date +"%-m") # Remove leading zero
+
+# Get the current day
+day=$(date +"%-d") # Remove leading zero
+
+# Get the current date in MM/DD/YYYY format
+numaric_date=$(date +"%m/%d/%Y")
+
+# Get the current time in HH:MM format
+time_24=$(date +"%H:%M")
+
+# Get the time zone
+# timeZone=$(date +"%Z")
+time_zone="Asia/Dhaka"
+
+# Get the day of the week
+name_of_week=$(date +"%A")
+
+# echo $(( $(date +%u --date="Wednesday") % 7 + 1 ))
+# number_of_week=$(echo $(( $(date +%u --date=${name_of_week//\"/}) % 7 + 1 )))
+
+day_names=("Saturday", "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday")
+
+for i in ${!day_names[@]}; do
+  if [[ "${name_of_week//\"/}" == "${day_names[$i]//\,/}" ]];  
+  then 
+    number_of_week=$(echo $(( $i + 1 )))
+  fi
+done
+
+letter_month_and_date=$(date -d $year-$month-$day '+%b %-d') 
+only_date_num=$(date -d $year-$month-$day '+%-d') 
+whole_time=$(date -d "$year-$month-$day ${time_24//\"/}" +"%I:%M %p") # 24h to 12h
+day_of_the_year=$(date -d $year-$month-$day '+%j') # Output: number
+# week_of_the_year=$((${day_of_the_year#0} / 7)) # Exluding 0 for non-octal interpretation
+
+# sudo date -s "$year-$month-$day $whole_time" #############
+
+am_pm_part=$(echo $whole_time | rev | cut -c 1-2 | rev)  
+hour_part=$(echo $whole_time | cut -c 1-2)
+min_part=$(echo $whole_time | cut -c 4-5)
+
+###################################################################
+# if [[ "${am_pm_part//\"/}" == "PM" ]];  
+# then 
+#   hour_passed=$(expr ${hour_part#0} + 6) # Starting time: 6:00 AM
+#   hour_left=$((16 - ${hour_passed#0})) # 6:00 AM - 10:00 PM = 16h 
+#   min_left=$((60 - ${min_part#0}))
+# fi
+
+# if [[ "${am_pm_part//\"/}" == "AM" ]];  
+# then 
+#   if [[ $hour_part -gt 5 ]];  
+#   then 
+#     hour_passed=$(expr ${hour_part#0} - 6) # Starting from 6:00 AM
+#     hour_left=$((16 - ${hour_passed#0})) # 6:00 AM - 10:00 PM = 16h
+#     min_left=$((60 - ${min_part#0}))
+#   fi
+# fi
+
+#################################################################
+
+date_no=$(echo $letter_month_and_date | rev | cut -c 1-2 | rev)  
+
+# -eq -ne (not eq) -gt -lt -ge -le 
+if [[ $date_no -le 7 ]]
+then 
+  which_week=1
+
+##############
+  if [[ $date_no -eq 1 ]]
+  then
+    which_week_no=1
+  elif [[ $date_no -eq 2 ]]
+  then
+    which_week_no=2
+  elif [[ $date_no -eq 3 ]]
+  then
+    which_week_no=3
+  elif [[ $date_no -eq 4 ]]
+  then
+    which_week_no=4
+  elif [[ $date_no -eq 5 ]]
+  then
+    which_week_no=5
+  elif [[ $date_no -eq 6 ]]
+  then
+    which_week_no=6
+  elif [[ $date_no -eq 7 ]]
+  then
+    which_week_no=7
+  # else
+  fi
+#############
+    
+elif [[ $date_no -gt 7 ]] && [[ $date_no -le 14 ]]
+then
+  which_week=2
+
+##############
+  if [[ $date_no -eq 8 ]]
+  then
+    which_week_no=1
+  elif [[ $date_no -eq 9 ]]
+  then
+    which_week_no=2
+  elif [[ $date_no -eq 10 ]]
+  then
+    which_week_no=3
+  elif [[ $date_no -eq 11 ]]
+  then
+    which_week_no=4
+  elif [[ $date_no -eq 12 ]]
+  then
+    which_week_no=5
+  elif [[ $date_no -eq 13 ]]
+  then
+    which_week_no=6
+  elif [[ $date_no -eq 14 ]]
+  then
+    which_week_no=7
+  # else
+  fi
+#############
+    
+elif [[ $date_no -gt 14 ]] && [[ $date_no -le 21 ]]  
+then
+  which_week=3
+
+##############
+  if [[ $date_no -eq 15 ]]
+  then
+    which_week_no=1
+  elif [[ $date_no -eq 16 ]]
+  then
+    which_week_no=2
+  elif [[ $date_no -eq 17 ]]
+  then
+    which_week_no=3
+  elif [[ $date_no -eq 18 ]]
+  then
+    which_week_no=4
+  elif [[ $date_no -eq 19 ]]
+  then
+    which_week_no=5
+  elif [[ $date_no -eq 20 ]]
+  then
+    which_week_no=6
+  elif [[ $date_no -eq 21 ]]
+  then
+    which_week_no=7
+  # else
+  fi
+#############
+    
+elif [[ $date_no -gt 21 ]] && [[ $date_no -le 31 ]]  
+then
+  which_week=4
+
+##############
+  if [[ $date_no -eq 22 ]]
+  then
+    which_week_no=1
+  elif [[ $date_no -eq 23 ]]
+  then
+    which_week_no=2
+  elif [[ $date_no -eq 24 ]]
+  then
+    which_week_no=3
+  elif [[ $date_no -eq 25 ]]
+  then
+    which_week_no=4
+  elif [[ $date_no -eq 26 ]]
+  then
+    which_week_no=5
+  elif [[ $date_no -eq 27 ]]
+  then
+    which_week_no=6
+  elif [[ $date_no -eq 28 ]]
+  then
+    which_week_no=7
+  elif [[ $date_no -eq 29 ]]
+  then
+    which_week_no="bonus point 8"
+  elif [[ $date_no -eq 30 ]]
+  then
+    which_week_no="bonus point 9"
+  elif [[ $date_no -eq 31 ]]
+  then
+    which_week_no="bonus point 10"
+  # else
+  fi
+else
+  echo "non mathch"
+fi
+
+
+# -eq -ne (not eq) -gt -lt -ge -le 
+# if [[ $date_no -le 7 ]]
+# then 
+#   # which_week="1"
+#   for i in [1..$date_no]; do
+#     counter=$(expr ${counter#0} + 1)
+#   done
+# elif [[ $date_no -gt 7 ]] && [[ $date_no -le 14 ]]
+# then
+#   # which_week="2"
+# elif [[ $date_no -gt 14 ]] && [[ $date_no -le 21 ]]  
+# then
+#   # which_week="3"
+# elif [[ $date_no -gt 21 ]] && [[ $date_no -le 31 ]]  
+# then
+#   # which_week="4"
+# else
+#   echo "non mathch"
+# fi
+
+
+# echo "Time Zone: $time_zone"
+# echo "Time: $whole_time"
+# echo "Time has left: ${hour_left}h ${min_left}m"
+# echo "Time has passed: ${hour_passed}h ${min_part}m/17h"
+
+#################################################
+current_24_time=$(date +"%H:%M")
+current_12_time=$(date +"%I:%M %p")
+# time1=$(/home/$USER/.local/bin/time_passed_left "${fair//\"/}")
+echo_left_and_passed=$(/home/$USER/.local/bin/time_passed_left "${current_24_time//\"/}")
+
+left_time=$(/home/$USER/.local/bin/time_passed_left "${current_24_time//\"/}" "true")
+time_table=$(/home/$USER/.local/bin/hour-left-table "${current_12_time//\"/}" "${left_time//\"/}")
+
+
+###################################################
+
+# echo "Time Zone: $time_zone"
+# echo "Time: $current_12_time"
+# echo "$echo_left_and_passed"
+# echo "$time_table"
+# echo ""
+# echo "---------+---------+---------+---------+---------+---------+---------"
+# echo "Today: $letter_month_and_date        $which_week out of 4 weeks"
+# # echo "Month of The Year: $month"
+# echo "Month: $month"
+# echo "Name: ${name_of_week//\"/}"
+# echo "Year: $year"
+# echo "Days has passed: $day_of_the_year days passed"
+# echo "Weeks has passed: $week_of_the_year weeks passed"
+# # echo "Day Of The Week: ${number_of_week}th day week"
+# echo "---------+---------+---------+---------+---------+---------+---------"
+
+######################################################
+echo "---------+---------+---------+---------+---------+---------+---------"
+# echo "Time Zone: $time_zone"
+# echo "Month: $month                                            $which_week out of 4 weeks"
+echo "Month: $month"
+# echo "Today: $letter_month_and_date                                         "
+echo "Today: $only_date_num"
+echo "Week: ${number_of_week}th  $name_of_week"
+echo "Month Week: I'm in $which_week out of 4 weeks        tar ${which_week_no}th aa-acha"
+# echo "This Month: week $which_week ar ${which_week_no}th aa-acha"
+echo "Time: $whole_time"
+# echo "Time has left: ${hour_left}h ${min_left}m"
+# echo "Time has passe: ${hour_passed}h ${min_part}m/17h"
+# echo "Month of The Year: $month"
+# echo "Name: ${name_of_week//\"/}"
+echo "Year: $year"
+# echo "Days has passed: $day_of_the_year days passed"
+# echo "Weeks has passed: $week_of_the_year weeks passed"
+# echo "Day Of The Week: ${number_of_week}th day week"
+echo "---------+---------+---------+---------+---------+---------+---------"
