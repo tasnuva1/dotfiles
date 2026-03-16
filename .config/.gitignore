@@ -1,0 +1,18 @@
+# exclude everything except directory foo/bar
+
+# alacritty is a terminal theme. just run the command.
+# atuin magical shell history.
+# blue* command for bluetooth like bluetoothctl, blueman.
+# nsxiv image viewer.
+# ncmpcpp is for album songs, mutt for mail, neofetch for printing info.
+# newsboat is a good one. for blogs, news, youtube.
+# nushell is ls & color any outputs.
+# pipewire handing audio & video streams.
+#
+
+firefox/
+go/
+google-chrome/
+ncmpcpp/
+pipewire/
+python/

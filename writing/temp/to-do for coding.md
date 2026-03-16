@@ -1,0 +1,335 @@
+ToDo:
+- complete my promise. - inshallah option 1 holo ami gitbo option 2 holo ami gitbo
+- asking question about the folders and organizing.
+- economices pdf study by starting, chapter summary video watch. 
+- economices thoury roufe memorize
+- economices math notes + pactice.
+- beneficary content - in the hopes of something begger 
+- wordrop ordering
+- pdf epub storage
+- kindle storage
+
+
+
+
+
+
+
+
+
+- done summary analize store.
+- done shell change google-chrome-stable
+- done zed
+- done reordering current
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Goal - Altra Focus:
+- Think Fast, Talk - Communication
+Chrome Development:
+- Ultimate_Chrome_Extension_Development_Bootcamp - Video Course
+Making software solving problems:
+Programming: 
+- Building File compressor ui, Property management system, Procurement system - 30m, 1:30m, 1:30m - Software_Development_with_Rust_Building_Real_World_Projects - Video Course
+- Building a Music Player, File Transfer Asynchronous - Book Tutorial Rust Programming By Example Enter the world of Rust by building
+Money: for my future self, other streams of money
+- What is business and what is financing - Heavens Bankers
+- The Millionaire Fast
+Any Software:
+- The Secrets of Rust Tools.epub
+- The Pragmatic Programmer
+- Clean Architecture  A Craftsman's Guide to Software Structure and Design
+- Learning Domain-Driven Design Aligning Software Architecture and Business Strategy (Vladik Khononov) (Z-Library).pdf
+Future deside korba: (aj amdar)
+Vim:
+- zed vim mode dicalining/seeing
+- vim - Small video course 
+- Edit text at the speed of thought - book
+Training:
+- CLOSE COMBAT TRAINING - video course
+Public Training:
+- Good writting practice
+- Looking profectional 
+Varchu (for future) Business Work:
+- Muhammod Pease be upon you
+
+What is this for? Who benefits? What's the motivation behind it?
+- 
+
+altra focus hoa kag ta sas korta hoba.
+
+
+
+
+words: somoe dak ba na, descripe korba (ata descripe kiva ba kora jae?)
+I dont have time to massing it around
+
+
+
+
+
+
+
+2h or 1h - 2h to most importent stuff
+For Resources:
+- Build UI, premium animation element, database: https://www.youtube.com/watch?v=yB68qccupGc
+- Build Design sence: https://www.youtube.com/@NikhilPawarr/videos 
+- Color: https://www.youtube.com/watch?v=2iVRO_iexW8&t=505s 
+
+
+
+For seeing the To Dos: https://keep.google.com/u/1/#LIST/1dt8CR94rd_fOtU8nTwWb-KobgNGeOT8QpmDn-8WtO7GupphosBgDj654c8njFQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What I should do - in this world? I need a wholestic answer. A jugmentday. skill build, learn what.
+What's the perpose of life
+
+
+- The Sacred Path to Islam: https://www.amazon.com/Sacred-Path-Islam-Building-Relationship/dp/1733213910/137-5537522-0677604?psc=1
+
+- Secrets of Divine Love: https://www.amazon.com/Secrets-Divine-Love-Spiritual-Journey/dp/1734231203?pd_rd_w=YlAhx&content-id=amzn1.sym.359b6746-8aba-45dc-ab9a-73f3c64ff12b&pf_rd_p=359b6746-8aba-45dc-ab9a-73f3c64ff12b&pf_rd_r=7AX2H9026Q96QVDE79JT&pd_rd_wg=A4XAW&pd_rd_r=7d083df3-46f8-47e1-8b29-f37917561fc6&pd_rd_i=1734231203
+
+- The Lives of Man: A Guide to the Human States: Before Life, In the World, and After Death: https://www.amazon.com/Lives-Man-Guide-States-Before/dp/1887752145?dib=eyJ2IjoiMSJ9.hf5NshqE_XXfJpumRIenRMzhoXEu00qtJ5N6_uylZwJNhp9OTNbGqEWAcs4bl0VkQkwchCEDVW7bZG_Eiaa0jwk2a-0Ya-Php5aBok6IyciaHyF3jIRLQ5sKSq2JnO7Rp5pLDkGQVXHTwD38GVbHvXJGeCPO6LlqfqHAWgRCujjz42s-YscGBsr-UHZW4_xG.0LiEYSH0lBF2dMXVDAdlT4-rJ6OIzpbVqK09mx5_nsg&dib_tag=se&qid=1758888451&refinements=p_27%3AAbdal-Hakim+Murad&s=books&sr=1-3
+
+- The Alchemy of Happiness: https://www.amazon.com/Alchemy-Happiness-Abu-Hamid-Al-Ghazali/dp/1684221668/137-5537522-0677604?pd_rd_w=ldY4j&content-id=amzn1.sym.dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_p=dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_r=2B592647JZYQ7AHKSWJ4&pd_rd_wg=R2Ue8&pd_rd_r=89818e12-faa7-4514-bf75-587198d4dccd&pd_rd_i=1684221668&psc=1
+
+- The Book of Assistance: https://www.amazon.com/Book-Assistance-Abdallah-Alawi-al-Haddad/dp/1887752587/137-5537522-0677604?pd_rd_w=ldY4j&content-id=amzn1.sym.dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_p=dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_r=2B592647JZYQ7AHKSWJ4&pd_rd_wg=R2Ue8&pd_rd_r=89818e12-faa7-4514-bf75-587198d4dccd&pd_rd_i=1887752587&psc=1
+
+- 365 Wisdoms of the Prophet Muhammad: Authentic Texts from the Hadith and Sunnah on the Family, Health, Success and Spiritual Growth: https://www.amazon.com/dp/098556590X?_encoding=UTF8&pd_rd_w=IEG5p&content-id=amzn1.sym.27ff3460-3571-4b3a-9a28-9e9ebed7694a&pf_rd_p=27ff3460-3571-4b3a-9a28-9e9ebed7694a&pf_rd_r=2B592647JZYQ7AHKSWJ4&pd_rd_wg=R2Ue8&pd_rd_r=89818e12-faa7-4514-bf75-587198d4dccd
+
+- young youth.
+
+
+
+
+To Do:
+- Codefy what he's saying.
+
+
+Something - pretty exciting: (what to make or watch)
+lf /home/tasnuva/Downloads/chrome-download
+        - ring buffer: https://youtu.be/TQVwv_e_rMw?si=JwnBdwc6tvX__1zo 
+        - htop in your brower: https://youtu.be/c_5Jy_AVDaM?si=uhpEz8kg0QdnUeNT
+        - creating random number ganarator: https://www.youtube.com/live/FUd8CBJLeBM?si=Ciu3MTN1yCQtdoAR 
+        - creating command-line utilities like clap: https://youtu.be/Y-LTWNciEks?si=05WpH9v432J0ciFz
+        - A simple desktop App: https://youtu.be/BY_ZjPGqJJk?si=O2nTuMW-sy7kdxgp
+
+- Parsing a file: https://youtu.be/4UAKQFuYK54?si=c2Xi1CHIB7Tv1YrQ
+- Parsing a file with nom: https://youtu.be/KnIetokhlmY?si=1il_-sRQfRe_0W43
+- Making a Snake Game in Rust: https://youtu.be/HCwMb0KslX8?si=gitqxxLaDPgx4Jpb
+        Learnings: it's just a different stucture, it's just a different reprasentation (type)
+- news reader: https://www.youtube.com/playlist?list=PLfyJcJbPAedRqjVaOd-P8wp_Wy9RIN7Oq
+- simple TCP server: https://youtu.be/JiuouCJQzSQ?si=vOXNieXfp2vw1z59
+- A static website generator: https://youtu.be/M46Vd4ZGOfk?si=yHhtC_qDiW-Fqc02 
+- real-time forecasts command-line: https://youtu.be/jMmDpR8mask?si=8k6EHTeoAJVHBdI5
+
+
+
+
+
+
+
+
+ring buffer: A storge, an array, where data can be written and read in a first-in, first-out (FIFO) manner, with newer data overwriting older data when the buffer is full. 
+A static website generator: write a static webpage generator that allows templating in Rust rather than some template pseudo-language. Our project we will make the basic framework for our design
+everything is in 1 hour except the static website generator.
+
+
+**Future ar jonno ak khonta time, current ar jonno full**
+
+Explaination: Future ar best universal ak khonta time & each item ar jonno ak khonta/1 hour time & items: https://keep.google.com/u/0/#LIST/1h5A61AkkC8F8VLBgdzCo2k0rReKJ3VvgM3GbL2wfBeA2wWKhAR6GCArstTwA614 with islam, current ar jonno full. 
+future ar jonno 1 hour & 1 hour for each best univeral items, current ar jonno full.
+
+
+It should be easy. - what ever you do. your work, your passionate work. It's not fitting restless or exostac for a while or overwhilme you.
+It should be easy and for others it's should be hell of a work.
+
+Turkish life, they live for something. A thing that is easy for them. A skill that is easy for them. And only for them. easy exciting happy. tackling is right and easy.
+
+
+
+A universal book something like focusing on journey. Now start learning.
+
+***************************************************************************************************************************************************************************************************
+                                                                                ##### something
+***************************************************************************************************************************************************************************************************
+Goodness
+obedience to Allah is the most rational 
+Loving a benefactor without benefiting. Allah is the greatest benefactor. It'a val you need to wake that up or lif that up. Don't let this world foot you. 2406.mp3
+
+Allah is good, Allah is beauty.
+The altimate benefactor, aj ka vae-tar korta hoba. jano kal bae-tar hoe.
+
+lif this val all the time. ram dik kor ta kor ta hoba, hotat kora vula jae sob. ato blessed , the state of blessed ginisi vula kivaba galam then I wonder. ** tara miss ato chorom vaba kor tasa **
+ae din basi dinar na, thak ba abar chola jaba, Can you imagine how different the decision making a person would be if there was eternal torture or eternal bless. to be paid for the actions of this life.
+
+
+
+To do: pray, dua, Istikharah, sunna - notes sunna supplication.
+Amur kalamunir oso-haotto dur kora, google keep 
+
+organization job kichur uppor thak ta hoba, aj acha oga to...Sleep Management, Nutrition Management, Sleep Management, Fitness Management
+explain: mom ar all time chinta: tahsin, take: oo devoes e hoa jae kina, mom ja kono time a puro osustoe hoa jae kina - kag korta pari na
+
+
+----------
+kom kotha onnak kisu express kora. kom kothae reaction, the best reaction.
+mojar jonno bolba na hola bolba na, or making deep connection. Say something good or remain silent.
+----------
+Time wased, wased doing, more wased ambition (advence math where I am gonna use this) (climbing a dominance hierarchy) (fedding your own ego), rather than **doing what's going to create the most impact. Greater impact, doing what's more matter to you.**
+
+more wased ambition from very smart talented people. Not related to any impact in the world. Really do kind of person. then qualification, skillset, being. The plan they wanna accomplish, the impact, what kind of impact they wanna have first.
+Allah, who's gonna judge me and how am I able to just justify all this time that I'm learning spending.
+I started to have passion for filmography, songwriting because thoes domain are related to the target that I'm shooting.  
+There are people that are really smart that Just go the course of bachelor's Masters's PHD postdoc professorship and honestly how much impact did they have compared to **one successful besinessman and one successful media personality.
+How many people outside of your dominance hierarchy (what you expert in) are fimilliar with your impact or know you. What kind of impact you are making. **Be a do something peroson, not a be something person.**
+Make the deen great, suprime again. (ae deen ta ka suprime kamna kora jae?)
+Collecting points.       ( Action - interact effectively with the real world ) (so you can make the most impact) 
+
+<br>-----------------------------------------------------------------------------------------HOW TO LEARN--------------------------------------------------------------------------------------------<br>
+FISRT FOR WHAAAAT, WHY ⤴️ selflessness
+If you give Victory to Allah he gives you Victory. Allah says, he has promised those of you who have believed and done the righteous deeds that he will make you successors upon the Earth. No kafar has this promise. If you prepare, all your arragemence. Devine help will come when you pepare. Arragemence. Allah will help you when you are fully preprede.
+Allah ak ta rasta dakha e a diba.
+amar sokol mind and soul laga a dita hoba. Love the work.
+
+It should be easy. - what ever you do. your work, your passionate work. It's not fitting restless or exostac for a while or overwhilme you.
+It should be easy and for others it's should be hell of a work.
+
+
+## ****** programming - programming consecps into small projects, and small projects ar design janlae hoba ******* 
+               - so with project - consecps/*value is clear and a coding-sector/*design is clear.
+                             
+
+
+Funtional programming         |         testing                  |         Design pattern       
+
+Small projects                          One at a time
+
+Want to good at programming             ~Good at designing
+
+
+### Inner Sturcture of the project:
+
+- I join a startup founder to build a big product in rust in 2 years. Then sold the company. 
+on interview:
+- platfrom engineering. 
+- software design
+- architecture
+- algorithims
+- data structuresn
+`// basical buiding a platfrom and how do you engineer it.`
+in docs:
+- problem and the solution and contrast with the alternatives. then fiting tools, CI/CD. (an open source product. developing it in long tearm in 1 year, 2 year) (all the interview question is in the docs)
+
+
+==**Summary in one line:**==
+- Building project logic and understanding code. For writting as many code as possiable like the open source developer writes in 1 setting or in one go, to get something to work. (mare matel,  mare minimum, mare essential)(become a better developer, not finishing a course.) (inevitable trials) `don't need to understand code first, First Building logic, translates to code. You will understand later, first use it.` 
+- Theory extraction then Project extraction to embedded in your mind.
+
+
+
+                                        Idiomatic
+                                        =========
+
+Project then apstract learning
+learning through 1 use in isolation then universal learning. Tackal one first. **3 or 4 isolations engough then muliple sector/universal learning/A Book.** or Programming crafting crafting crafting and hoping for it to be all appear or noticeable, in this way designing designing designing skill will gain - I like this way of learning then universal/apstract learning first then isolated learning. This way it has making/designing/program into something motivation other one is universal conpect learning motivation. making motivation/Value driven. [then pick up a book that has all the pattern rules idiomatics then you will pick up pretty easily, you will know instantly what's going on]
+   Okay in this where testing is needed, let's learn testing. - Quate form Jon Gjengset "I wished I had when I was learning" This channel. through low level stuff building. (detail orianted without that many libarys)
+
+OS parts, Comiler, database, lowlevel Threads Server Network Code Assembly wifi router, Then Applying. (this are *problem sloving, challenge faced). Then Conquering Back end like 0 to hero/production profational best practices, back end backend server framework making, making render engine/the front end.    - you are excited about it by value it will get. First excerse this value then First I need support to do that, into a job I can do my altimat value giving jarney. 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- 6 hour    ISLAM, Sira, Grow your faith, self-esteem with rooted humbleness, passion, secure, human nature,               super human, Life couch. / 1 hour     Isolated Knowledge capture like economy, accounting, business or         entrepreneur, marketing. 
+- 6 hours   Software Crafting, Programming, Building. / being the most capable, service / in practice 
+- 1 hours   Best Speech giving / teacher / most unassuming miled easy personality / in practice * / Looking nice,          prasenting nice, gorgious looking. Same thing with the conversation. 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+How to control your mind. How to deal with procrastinte? feel good. Excerse, sports bandminton, satal vivration, (chess you can lesson with you ear close) 
+Build Prophetic Habits: Cultivate daily routines inspired by the life of Prophet Muhammad (ﷺ). ) Excerse, dua
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(4:00am-5:00am) for dawn prayer atar jomoy, (5:00am-12:00pm) for coding work atar jomoy, (12:30pm-3:30pm) for tecnical studies school work blog atar jomoy, (4:00pm-7:00pm) for Vocaps for betterment of the life atar jomoy. -Ae 3 month e korsto kor ta hoba. technical studies ar jonno time cut korta hoba, Vocaps ar jonnao time cut korta hoba.
+
+                                   Holiday
+                                ==============
+(4:00am-5:00am) for dawn prayer,
+(5:00am-12:00pm) for coding work 6h,  
+(12:30pm-3:30pm) for future coding 3h,
+(4:00pm-8:00pm) for Vocaps, tecnical studies, Islam 4h
+(what matters the most to you) (after doing things fast see if I can code)
+
+(5:00am-12:00pm) - Amur kalamunir oso-haotto dur kora, money, First read for 30m, anytime eat for 30m, apnay pura khorka korcha chala na, apna familika karcha pani chala na
+(4:00pm-8:00pm)  - Vocaps for 1h, tecnical studies for 2h, Islam for 1h in here prayer for 15m
+(8:00pm-9:00pm)  - prayer for 15m, eat for 30m
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+it can't start from what other people are, you can't start from what sexy, it has to come form within, what is it that really is in your heart, what is it that you really really love.

@@ -1,0 +1,26 @@
+#!/bin/bash
+
+# Get connected monitors
+monitors=($(xrandr | grep " connected" | cut -d" " -f1))
+
+# Primary and secondary monitors
+primary=${monitors[0]}
+secondary=${monitors[1]}
+
+if [ -z "$secondary" ]; then
+    echo "Only one monitor detected. Nothing to extend."
+    exit 1
+fi
+
+# Check if monitors are already extended
+is_extended=$(xrandr --listactivemonitors | grep -q "$secondary" && echo true)
+
+if [ "$is_extended" = "true" ]; then
+    echo "Disabling extended mode..."
+    xrandr --output "$secondary" --off
+else
+    echo "Enabling extended mode..."
+    resolution=$(xrandr | grep -A1 "^$primary" | tail -n1 | awk '{print $1}')
+    xrandr --output "$secondary" --mode "$resolution" --right-of "$primary"
+fi
+

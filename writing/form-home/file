@@ -1,0 +1,17 @@
+#!/bin/bash
+# app_launcher.sh
+
+TARGET_USER="tasnuva2"
+APP_PATH="/usr/local/bin/'Amplenote Desktop-1.0.21.AppImage'"
+
+
+# 1. Grant graphical access to the target user
+xhost +si:localuser:$TARGET_USER > /dev/null
+
+# 2. Run the AppImage as the target user
+# Using su - preserves the target user's environment and config files
+su - $TARGET_USER -c "$APP_PATH"
+
+# 3. (Optional) Revoke access after the app closes
+xhost -si:localuser:$TARGET_USER > /dev/null
+

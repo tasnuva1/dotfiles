@@ -1,0 +1,17 @@
+#!/bin/bash
+
+# Check if an argument is provided
+if [ $# -ne 1 ]; then
+    echo "Usage: $0 \"HH:MM am/pm\""
+    exit 1
+fi
+
+# Input time string
+time_with_period="$1"
+
+# Remove "am" or "pm" (case-insensitive) and any trailing spaces
+time_without_period=$(echo "$time_with_period" | sed -E 's/[[:space:]]*(am|pm)$//I')
+
+# Output the result
+echo "$time_without_period"
+

@@ -1,0 +1,579 @@
+{
+  "geometry-of-main_window_geometry": {
+    "frame_geometry": {
+      "height": 1050,
+      "width": 1920,
+      "x": 0,
+      "y": 30
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 1044,
+      "width": 1914,
+      "x": 3,
+      "y": 33
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 1044,
+      "width": 1914,
+      "x": 3,
+      "y": 33
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAAAAAAHgAAB38AAAQ3AAAAAwAAACEAAAd8AAAENAAAAAAAAAAAB4AAAAADAAAAIQAAB3wAAAQ0"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Hikom Co., Ltd.",
+      "model": "21.45 Monitor",
+      "name": "HDMI-1",
+      "serial": "0000000000001",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-viewer_image_popup_geometry": {
+    "frame_geometry": {
+      "height": 128,
+      "width": 844,
+      "x": 538,
+      "y": 476
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 122,
+      "width": 838,
+      "x": 541,
+      "y": 479
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 122,
+      "width": 838,
+      "x": 541,
+      "y": 479
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAIaAAAB3AAABWUAAAJbAAACHQAAAd8AAAViAAACWAAAAAAAAAAAB4AAAAIdAAAB3wAABWIAAAJY"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Hikom Co., Ltd.",
+      "model": "21.45 Monitor",
+      "name": "HDMI-1",
+      "serial": "0000000000001",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "highlight_export_format": "md",
+  "local_storage": {
+    "search-bar-history-search-for-sc": [
+      "sp",
+      "sph",
+      "voice",
+      "lou",
+      "ctrl",
+      "read",
+      "table",
+      "book"
+    ],
+    "simple_input_history_net_search_url": [
+      "https://google.com/search?q={q}"
+    ]
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAEFAAAEFPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAAAAAEFAAAAIUA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAAAAAQUAAAAkQD///8AAAABAAABEAAABBT8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAACUAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAAAAAEFAAAAOIA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEQD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawIAAABkAAAAEgAABrgAAAQUAAAHegAABBQAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "saved-search-settings": {
+    "PERSISTENCE": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "ahqaf": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "discipline": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "lack of p": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "lack of pro": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "najm": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "novelty": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "novelty bias": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "power": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "saff": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "strive": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "will you not use": {
+      "case_sensitive": false,
+      "mode": "normal"
+    }
+  },
+  "session_data": {
+    "base_font_size": 15,
+    "controls_footer": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "progress"
+    },
+    "controls_help_shown_count": 2,
+    "current_color_scheme": "sepia-light",
+    "footer": {
+      "left": "pos-book",
+      "middle": "empty",
+      "right": "progress"
+    },
+    "gesture_overrides": {},
+    "header": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "menu-icon-on-hover"
+    },
+    "highlight_style": {
+      "kind": "color",
+      "type": "builtin",
+      "which": "green"
+    },
+    "keyboard_shortcuts": {
+      "copy_to_clipboard": [
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "c",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "c",
+          "metaKey": true,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "c",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "left": [
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "ArrowLeft",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "c",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "p",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "j",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "metadata": [
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "e",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "read_aloud": [
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "n",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "o",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "e",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "right": [
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "ArrowRight",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "v",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "n",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "k",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "toggle_bookmarks": [
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "b",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "b",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "toggle_toc": [
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "t",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "b",
+          "metaKey": false,
+          "shiftKey": true
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "c",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ]
+    },
+    "left-margin": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "empty"
+    },
+    "max_text_width": 777,
+    "read_mode": "paged",
+    "right-margin": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "empty"
+    },
+    "selection_bar_actions": [
+      "speak",
+      "copy",
+      "highlight",
+      "lookup",
+      "remove_highlight",
+      "search_net",
+      "quick_highlight",
+      "clear"
+    ],
+    "selection_bar_quick_highlights": [
+      "type:builtin;kind:color;which:blue;light:undefined;dark:undefined;background-color:undefined;text-decoration-line:undefined;text-decoration-color:undefined;text-decoration-style:undefined",
+      "type:builtin;kind:color;which:green;light:undefined;dark:undefined;background-color:undefined;text-decoration-line:undefined;text-decoration-color:undefined;text-decoration-style:undefined",
+      "type:builtin;kind:decoration;which:wavy;light:undefined;dark:undefined;background-color:undefined;text-decoration-line:undefined;text-decoration-color:undefined;text-decoration-style:undefined"
+    ],
+    "standalone_font_settings": {
+      "mono_family": "Amazon Ember",
+      "sans_family": "Amazon Ember",
+      "serif_family": "Amazon Ember"
+    },
+    "standalone_misc_settings": {},
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Horsley, Kevin"
+        ],
+        "key": "/home/tasnuva/new/Focus/my-work/1.-Actual-Task/some-7/1. Unlimited Memory - Kevin Horsley/Unlimited Memory: Strategies, Remember More and be More Productive.epub",
+        "pathtoebook": "/home/tasnuva/new/Focus/my-work/1.-Actual-Task/some-7/1. Unlimited Memory - Kevin Horsley/Unlimited Memory: Strategies, Remember More and be More Productive.epub",
+        "timestamp": "2026-03-06T23:30:35.971Z",
+        "title": "Unlimited Memory: How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive"
+      },
+      {
+        "key": "/home/tasnuva/new/Focus/my-work/1.-Actual-Task/*some-0 Creating software/2. Ref: Building Browser/2 Building Browser Extensions.epub",
+        "pathtoebook": "/home/tasnuva/new/Focus/my-work/1.-Actual-Task/*some-0 Creating software/2. Ref: Building Browser/2 Building Browser Extensions.epub",
+        "timestamp": "2026-03-03T13:36:52.265Z",
+        "title": "Building Browser Extensions"
+      },
+      {
+        "key": "/home/tasnuva/new/Focus/my-work/1.-Actual-Task/some-0/2. Ref: Building Browser/2 Building Browser Extensions.epub",
+        "pathtoebook": "/home/tasnuva/new/Focus/my-work/1.-Actual-Task/some-0/2. Ref: Building Browser/2 Building Browser Extensions.epub",
+        "timestamp": "2026-02-28T14:22:26.019Z",
+        "title": "Building Browser Extensions"
+      },
+      {
+        "authors": [
+          "Robert C. Martin"
+        ],
+        "key": "/home/tasnuva/Downloads/chrome-download/The Clean Coder A Code of Conduct for Professional Programmers (Robert C. Martin Series) (Robert C. Martin) (z-library.sk, 1lib.sk, z-lib.sk).azw3",
+        "pathtoebook": "/home/tasnuva/Downloads/chrome-download/The Clean Coder A Code of Conduct for Professional Programmers (Robert C. Martin Series) (Robert C. Martin) (z-library.sk, 1lib.sk, z-lib.sk).azw3",
+        "timestamp": "2026-02-28T03:00:15.679Z",
+        "title": "The Clean Coder: A Code of Conduct for Professional Programmers (Robert C. Martin Series)"
+      },
+      {
+        "key": "/home/tasnuva/Downloads/chrome-download/combined_output (1).epub",
+        "pathtoebook": "/home/tasnuva/Downloads/chrome-download/combined_output (1).epub",
+        "timestamp": "2026-02-27T15:09:10.037Z",
+        "title": "21b7afb08f0d0bf24a70146ed9bd4210"
+      },
+      {
+        "key": "/home/tasnuva/Downloads/chrome-download/combined_output (2).epub",
+        "pathtoebook": "/home/tasnuva/Downloads/chrome-download/combined_output (2).epub",
+        "timestamp": "2026-02-27T14:42:56.303Z",
+        "title": "56ee2416566f8b207169aa020abe6928"
+      },
+      {
+        "key": "/home/tasnuva/Downloads/chrome-download/combined_output.epub",
+        "pathtoebook": "/home/tasnuva/Downloads/chrome-download/combined_output.epub",
+        "timestamp": "2026-02-27T14:39:47.117Z",
+        "title": "56ee2416566f8b207169aa020abe6928"
+      },
+      {
+        "key": "/home/tasnuva/Downloads/Calibre Library/Unknown/outout-1 (83)/outout-1 - Unknown.epub",
+        "pathtoebook": "/home/tasnuva/Downloads/Calibre Library/Unknown/outout-1 (83)/outout-1 - Unknown.epub",
+        "timestamp": "2026-02-27T14:23:19.283Z",
+        "title": "outout-1"
+      },
+      {
+        "key": "/home/tasnuva/Downloads/Calibre Library/Unknown/outout-2 (82)/outout-2 - Unknown.epub",
+        "pathtoebook": "/home/tasnuva/Downloads/Calibre Library/Unknown/outout-2 (82)/outout-2 - Unknown.epub",
+        "timestamp": "2026-02-27T13:43:00.951Z",
+        "title": "outout-2"
+      },
+      {
+        "key": "/home/tasnuva/Downloads/Calibre Library/Unknown/outout-1 (81)/outout-1 - Unknown.epub",
+        "pathtoebook": "/home/tasnuva/Downloads/Calibre Library/Unknown/outout-1 (81)/outout-1 - Unknown.epub",
+        "timestamp": "2026-02-27T13:42:32.301Z",
+        "title": "outout-1"
+      },
+      {
+        "key": "/home/tasnuva/new/Focus/1. Islam/1.1 quran audio/z/output-1.epub",
+        "pathtoebook": "/home/tasnuva/new/Focus/1. Islam/1.1 quran audio/z/output-1.epub",
+        "timestamp": "2026-02-27T13:24:05.852Z",
+        "title": "outout-1"
+      },
+      {
+        "key": "/home/tasnuva/Downloads/Calibre Library/Unknown/outout-2 (80)/outout-2 - Unknown.epub",
+        "pathtoebook": "/home/tasnuva/Downloads/Calibre Library/Unknown/outout-2 (80)/outout-2 - Unknown.epub",
+        "timestamp": "2026-02-27T12:47:48.674Z",
+        "title": "outout-2"
+      },
+      {
+        "key": "/home/tasnuva/Downloads/Calibre Library/Unknown/outout-1 (79)/outout-1 - Unknown.epub",
+        "pathtoebook": "/home/tasnuva/Downloads/Calibre Library/Unknown/outout-1 (79)/outout-1 - Unknown.epub",
+        "timestamp": "2026-02-27T12:46:45.638Z",
+        "title": "outout-1"
+      },
+      {
+        "authors": [
+          "M.A.R. Habib",
+          "Bruce B. Lawrence"
+        ],
+        "key": "/home/tasnuva/new/Focus/my-work/1.-Actual-Task/some-10/1.1 quran audio/The Quran A Verse Translation (M.A.R. Habib, Bruce B. Lawrence) (Z-Library).epub",
+        "pathtoebook": "/home/tasnuva/new/Focus/my-work/1.-Actual-Task/some-10/1.1 quran audio/The Quran A Verse Translation (M.A.R. Habib, Bruce B. Lawrence) (Z-Library).epub",
+        "timestamp": "2026-02-27T07:49:45.959Z",
+        "title": "The Qur'an: A Verse Translation"
+      },
+      {
+        "key": "/home/tasnuva/Downloads/chrome-download/As a Man thinked_Out from the Heart-Bengali.epub",
+        "pathtoebook": "/home/tasnuva/Downloads/chrome-download/As a Man thinked_Out from the Heart-Bengali.epub",
+        "timestamp": "2026-02-22T08:37:53.047Z",
+        "title": "As a Man thinked Out from the Heart-Bengali"
+      },
+      {
+        "authors": [
+          "Ryan Holiday"
+        ],
+        "key": "/home/tasnuva/Downloads/chrome-download/epub/The Obstacle is the Way The Timeless Art of Turning Trials into Triumph (Ryan Holiday) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+        "pathtoebook": "/home/tasnuva/Downloads/chrome-download/epub/The Obstacle is the Way The Timeless Art of Turning Trials into Triumph (Ryan Holiday) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+        "timestamp": "2026-02-22T00:30:51.350Z",
+        "title": "The Obstacle is the Way Expanded 10th Anniversary Edition: The Timeless Art of Turning Trials into Triumph"
+      },
+      {
+        "authors": [
+          "Ryan Holiday"
+        ],
+        "key": "/home/tasnuva/Downloads/chrome-download/epub/The Obstacle Is the Way.epub",
+        "pathtoebook": "/home/tasnuva/Downloads/chrome-download/epub/The Obstacle Is the Way.epub",
+        "timestamp": "2026-02-22T00:30:44.149Z",
+        "title": "The Obstacle Is the Way"
+      },
+      {
+        "authors": [
+          "James Allen"
+        ],
+        "key": "/home/tasnuva/Downloads/chrome-download/As a Man Thinketh (James Allen) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+        "pathtoebook": "/home/tasnuva/Downloads/chrome-download/As a Man Thinketh (James Allen) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+        "timestamp": "2026-02-22T00:25:08.602Z",
+        "title": "As a Man Thinketh"
+      },
+      {
+        "authors": [
+          "Charles Conrad",
+          "James Allen",
+          "Sam Torode"
+        ],
+        "key": "/home/tasnuva/Downloads/chrome-download/As a Man Thinketh 21st Century Edition (James Allen, Sam Torode) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+        "pathtoebook": "/home/tasnuva/Downloads/chrome-download/As a Man Thinketh 21st Century Edition (James Allen, Sam Torode) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+        "timestamp": "2026-02-22T00:24:53.713Z",
+        "title": "As a Man Thinketh: 21st Century Edition"
+      },
+      {
+        "authors": [
+          "James Allen"
+        ],
+        "key": "/home/tasnuva/Downloads/chrome-download/As a Man Thinketh James Allen (James Allen) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+        "pathtoebook": "/home/tasnuva/Downloads/chrome-download/As a Man Thinketh James Allen (James Allen) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+        "timestamp": "2026-02-22T00:24:35.786Z",
+        "title": "As a Man Thinketh James Allen"
+      },
+      {
+        "authors": [
+          "Harris Irfan"
+        ],
+        "key": "/home/tasnuva/new/Focus/my-work/1.-Actual-Task/some-1/1 Making Money ? The Millionaire Fastlane/Find what they say about business - Heavens Bankers Inside the Hidden World of Islamic Finance (Harris Irfan) (Z-Library).epub",
+        "pathtoebook": "/home/tasnuva/new/Focus/my-work/1.-Actual-Task/some-1/1 Making Money ? The Millionaire Fastlane/Find what they say about business - Heavens Bankers Inside the Hidden World of Islamic Finance (Harris Irfan) (Z-Library).epub",
+        "timestamp": "2026-02-21T08:11:50.139Z",
+        "title": "Heaven's Bankers"
+      },
+      {
+        "authors": [
+          "Harris Irfan"
+        ],
+        "key": "/home/tasnuva/new/Focus/2. work/1 ✅Current Worship/0. Finence ╱ Financial Independence ╱ Business Books ╱ Financial Freedom ╱ Impact/1 Making Money ? The Millionaire Fastlane/Find what they say about business - Heavens Bankers Inside the Hidden World of Islamic Finance (Harris Irfan) (Z-Library).epub",
+        "pathtoebook": "/home/tasnuva/new/Focus/2. work/1 ✅Current Worship/0. Finence ╱ Financial Independence ╱ Business Books ╱ Financial Freedom ╱ Impact/1 Making Money ? The Millionaire Fastlane/Find what they say about business - Heavens Bankers Inside the Hidden World of Islamic Finance (Harris Irfan) (Z-Library).epub",
+        "timestamp": "2026-02-21T02:16:04.632Z",
+        "title": "Heaven's Bankers"
+      },
+      {
+        "key": "/home/tasnuva/Downloads/chrome-download/Business Communication 3.epub",
+        "pathtoebook": "/home/tasnuva/Downloads/chrome-download/Business Communication 3.epub",
+        "timestamp": "2026-02-19T18:51:23.914Z",
+        "title": "Business Communication 3"
+      },
+      {
+        "key": "/home/tasnuva/Downloads/chrome-download/Business Communication 3 (1).epub",
+        "pathtoebook": "/home/tasnuva/Downloads/chrome-download/Business Communication 3 (1).epub",
+        "timestamp": "2026-02-19T09:42:42.683Z",
+        "title": "Business Communication 3"
+      },
+      {
+        "key": "/home/tasnuva/Downloads/chrome-download/Copy of Business Communication 2 (3).epub",
+        "pathtoebook": "/home/tasnuva/Downloads/chrome-download/Copy of Business Communication 2 (3).epub",
+        "timestamp": "2026-02-19T09:34:57.275Z",
+        "title": "Copy of Business Communication 2"
+      }
+    ],
+    "tts_bar_position": "float",
+    "user_stylesheet": "body {\nline-height: 25px;\nword-spacing: 6px;\n}"
+  },
+  "viewer-search-case-sensitive": false,
+  "viewer-search-mode": "normal"
+}

@@ -1,0 +1,21 @@
+{
+  "disabled_plugins": {
+    "__class__": "set",
+    "__value__": []
+  },
+  "enabled_plugins": {
+    "__class__": "set",
+    "__value__": []
+  },
+  "filetype_mapping": {},
+  "plugin_customization": {},
+  "plugins": {
+    "Annotations": "/home/tasnuva/.config/calibre/plugins/Annotations.zip",
+    "Count Pages": "/home/tasnuva/.config/calibre/plugins/Count Pages.zip",
+    "EpubMerge": "/home/tasnuva/.config/calibre/plugins/EpubMerge.zip",
+    "Find Duplicates": "/home/tasnuva/.config/calibre/plugins/Find Duplicates.zip",
+    "KOReader Sync": "/home/tasnuva/.config/calibre/plugins/KOReader Sync.zip",
+    "Kindle Collections": "/home/tasnuva/.config/calibre/plugins/Kindle Collections.zip",
+    "Modify ePub": "/home/tasnuva/.config/calibre/plugins/Modify ePub.zip"
+  }
+}

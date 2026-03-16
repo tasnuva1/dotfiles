@@ -1,0 +1,799 @@
+    1  sleep 2 && maim /home/tasnuva/saved/screenshorts/$(date '+%y%m%d-%H%M-%S').png
+    2  cl
+    3  ln -s ./ audiobooks-1
+    4  lf
+    5  ln -s ./Financial\ Independence\ ╱\ Business\ Books\ ╱\ Financial\ Freedom\ ╱\ Impact audiobooks-1
+    6  lf
+    7  lf
+    8  pwd
+    9  ln -s /home/tasnuva/new/Focus/2.\ work/1\ ✅Current\ Worship/Financial\ Independence\ ╱\ Business\ Books\ ╱\ Financial\ Freedom\ ╱\ Impact audiobooks-1
+   10  lf
+   11  pwd
+   12  ..
+   13  ls -s "/home/tasnuva/new/Focus/2. work/2 ✅Identity Shift" audiobook-2
+   14  ls -s "/home/tasnuva/new/Focus/2. work/2 ✅Identity Shift/" audiobook-2
+   15  ls -s /home/tasnuva/new/Focus/2.\ work/2\ ✅Identity\ Shift audiobook-2
+   16  lf
+   17  ls -s /home/tasnuva/new/Focus/2.\ work/2\ ✅Identity\ Shift audiobook-2
+   18  ls -s /home/tasnuva/new/Focus/2.\ work/2\ ✅Identity\ Shift audiobook
+   19  ls -s /home/tasnuva/new/Focus/2.\ work/2\ ✅Identity\ Shift audiobook-2
+   20  ls -s ./2\ ✅Identity\ Shift audiobook-2
+   21  ls -s ./3\ others-and-audiobooks audiobook-2
+   22  ln -s "/home/tasnuva/new/Focus/2. work/2 ✅Identity Shift" audiobook-2
+   23  lf
+   24  cl
+   25  pwd
+   26  ln -s "/home/tasnuva/new/Focus/my-work/3. Audiobooks" audiobooks-3
+   27  lf
+   28  lf
+   29  pwd
+   30  ln -s "/home/tasnuva/new/Focus/my-work/3. Audiobooks/z---other/z-others" audiobook-4
+   31  lf
+   32  lf
+   33  lf
+   34  pwd
+   35  ln -s "/home/tasnuva/new/Focus/my-work/3. Audiobooks/z-other" audiobook-4
+   36  lf
+   37  pwd
+   38  ln -s "/home/tasnuva/new/Focus/my-work/3. Audiobooks/z-other/z-others" audiobook-5
+   39  lf
+   40  lf
+   41  lf
+   42  cl
+   43  cl
+   44  dl
+   45  hl
+   46  cl
+   47  cl
+   48  dl
+   49  cl
+   50  cl
+   51  h x.md
+   52  lf
+   53  n Knowledge ╱ Intellect
+   54  n brack
+   55  cl
+   56  h ./writing/day/26.01.md
+   57  dl
+   58  ss
+   59  lf
+   60  lsblk
+   61  usb /dev/sda1
+   62  df -h
+   63  lsblk
+   64  lf /run/media/tasnuva/SONY_USB
+   65  ss
+   66  lf
+   67  lf
+   68  cp ./* /run/media/tasnuva/SONY_USB/courses
+   69  cp -r ./* /run/media/tasnuva/SONY_USB/courses
+   70  wget -T 9999 ""
+   71  wget -T 9999 "https://s95.rapidgator.net/download/2fffad58-a9f5-4466-a5c2-d3875d9e9947"
+   72  lf /run/media/tasnuva/SONY_USB
+   73  ss
+   74  ss
+   75  lf
+   76  lf
+   77  ss
+   78  ss
+   79  lf
+   80  lf
+   81  cp -r ./* /run/media/tasnuva/SONY_USB/courses
+   82  lf
+   83  lf
+   84  ss
+   85  ss
+   86  lf
+   87  df -h
+   88  co
+   89  lsblk
+   90  sudo fuser -km /dev/sda1
+   91  sudo umount /run/media/tasnuva/SONY_USB
+   92  lsblk
+   93  lf
+   94  lf
+   95  lf
+   96  h ./writing/day/26.01.md
+   97  h to-do\ for\ coding.md
+   98  lf
+   99  h ./writing/day/26.01.md
+  100  h x.md
+  101  h x.md
+  102  h to-do\ for\ coding.md
+  103  co
+  104  systemctl --user status activitywatch
+  105  systemctl --user status activitywatch.service
+  106  systemctl --user daemon-reload\nsystemctl --user enable activitywatch.service\nsystemctl --user start activitywatch.service\n
+  107  systemctl --user status activitywatch.service
+  108  systemctl --user status activitywatch
+  109  wget -T 9999 "https://dl4.downloadly.ir/Files/Elearning/Udemy_Photographic_Memory_Train_Your_Brain_to_Remember_Anything_2025-8_Downloadly.ir.part2.rar?nocache=1770756807\n"
+  110  aw-qt --no-gui
+  111  ~/.local/share/activitywatch/
+  112  lf
+  113  lf
+  114  dl
+  115  aw-qt --no-gui
+  116  cl
+  117  dl
+  118  kindle-open
+  119  lf /run/media/tasnuva/Kindle
+  120  lf
+  121  lf
+  122  lf
+  123  cl
+  124  lf
+  125  co
+  126  lf
+  127  l
+  128  lf
+  129  kindle-close
+  130  lsblk
+  131  fl
+  132  cl
+  133  h x.md
+  134  dl
+  135  dl
+  136  rl
+  137  h t
+  138  h to-do\ for\ coding.md
+  139  lf
+  140  co
+  141  h to-do\ for\ coding.md
+  142  cl
+  143  h 20251121_120255-.md
+  144  h 20251121_120255-.md
+  145  pwd
+  146  p
+  147  p
+  148  g
+  149  lf
+  150  lf
+  151  h x-thought.md
+  152  lf
+  153  p
+  154  g
+  155  h to-do\ for\ coding.md
+  156  lf
+  157  h consuption-to-do.md
+  158  lf
+  159  h ./writing/day/26.01.md
+  160  h ./writing/consuption-to-do.md
+  161  cl
+  162  mv ./writing/consuption-to-do.md ./writing/how-to--consumption-to-do.md
+  163  h ./writing/how-to--consumption-to-do.md
+  164  cl
+  165  cl
+  166  dl
+  167  lf
+  168  p
+  169  wget -T 9999 "https://s10.rapidgator.net/download/4cfbecda-430f-449f-9ca9-efebebfeb2fb"
+  170  lf
+  171  cl
+  172  p
+  173  g
+  174  dl
+  175  cl
+  176  touch "Business Communication.md"
+  177  lf
+  178  touch Finance.md
+  179  lf
+  180  h Math.md
+  181  touch Math.md
+  182  lf
+  183  lf
+  184  dl
+  185  dl
+  186  rl
+  187  g
+  188  h ./writing/how-to--consumption-to-do.md
+  189  cl
+  190  ./WHAT-YOU-CAN-DO-AND-UNDESTAND
+  191  lf
+  192  p
+  193  g
+  194  lf
+  195  cl
+  196  v
+  197  v
+  198  v
+  199  v
+  200  v
+  201  v
+  202  v
+  203  v
+  204  rl
+  205  v
+  206  v
+  207  v
+  208  v
+  209  v
+  210  dl
+  211  cl
+  212  h Math.md
+  213  lf
+  214  cl
+  215  cl
+  216  cl
+  217  t
+  218  lf
+  219  cl
+  220  t 5m && mpv ./.local/bin/needed/cock.mp4
+  221  cl
+  222  dl
+  223  dl
+  224  lf
+  225  ./"Amplenote Desktop-1.0.20.AppImage"
+  226  chmod +x "Amplenote Desktop-1.0.20.AppImage"
+  227  ./"Amplenote Desktop-1.0.20.AppImage"
+  228  lf
+  229  ./"Amplenote Desktop-1.0.20-V2.AppImage"
+  230  lf
+  231  cd ~/.local/share/applications/
+  232  lf
+  233  cl
+  234  h x.md
+  235  lf
+  236  ~
+  237  lf
+  238  cl
+  239  v
+  240  sleep 2 && maim /home/tasnuva/saved/screenshorts/$(date '+%y%m%d-%H%M-%S').png
+  241  v
+  242  sleep 2 && maim /home/tasnuva/saved/screenshorts/$(date '+%y%m%d-%H%M-%S').png
+  243  sleep 2 && maim /home/tasnuva/saved/screenshorts/$(date '+%y%m%d-%H%M-%S').png
+  244  sleep 2 && maim /home/tasnuva/saved/screenshorts/$(date '+%y%m%d-%H%M-%S').png
+  245  sleep 2 && maim /home/tasnuva/saved/screenshorts/$(date '+%y%m%d-%H%M-%S').png
+  246  sleep 2 && maim /home/tasnuva/saved/screenshorts/$(date '+%y%m%d-%H%M-%S').png
+  247  sleep 2 && maim /home/tasnuva/saved/screenshorts/$(date '+%y%m%d-%H%M-%S').png
+  248  sleep 2 && maim /home/tasnuva/saved/screenshorts/$(date '+%y%m%d-%H%M-%S').png
+  249  sleep 2 && maim /home/tasnuva/saved/screenshorts/$(date '+%y%m%d-%H%M-%S').png
+  250  sleep 2 && maim /home/tasnuva/saved/screenshorts/$(date '+%y%m%d-%H%M-%S').png
+  251  sleep 2 && maim /home/tasnuva/saved/screenshorts/$(date '+%y%m%d-%H%M-%S').png
+  252  sleep 2 && maim /home/tasnuva/saved/screenshorts/$(date '+%y%m%d-%H%M-%S').png
+  253  sleep 2 && maim /home/tasnuva/saved/screenshorts/$(date '+%y%m%d-%H%M-%S').png
+  254  sleep 2 && maim /home/tasnuva/saved/screenshorts/$(date '+%y%m%d-%H%M-%S').png
+  255  sleep 2 && maim /home/tasnuva/saved/screenshorts/$(date '+%y%m%d-%H%M-%S').png
+  256  sleep 2 && maim /home/tasnuva/saved/screenshorts/$(date '+%y%m%d-%H%M-%S').png
+  257  sleep 2 && maim /home/tasnuva/saved/screenshorts/$(date '+%y%m%d-%H%M-%S').png
+  258  v
+  259  rl
+  260  cl
+  261  t
+  262  t 8m && mpv ./.local/bin/needed/cock.mp4
+  263  cl
+  264  v
+  265  v
+  266  cl
+  267  cl
+  268  cl
+  269  rl
+  270  h x.md
+  271  h x-thought.md
+  272  t
+  273  h x-thought.md
+  274  cl
+  275  h x-thought.md
+  276  h x-thought.md
+  277  cl
+  278  dl
+  279  t
+  280  sleep 5 && maim /home/tasnuva/saved/screenshorts/$(date '+%y%m%d-%H%M-%S').png
+  281  sleep 5 && maim /home/tasnuva/saved/screenshorts/$(date '+%y%m%d-%H%M-%S').png
+  282  sleep 5 && maim /home/tasnuva/saved/screenshorts/$(date '+%y%m%d-%H%M-%S').png
+  283  sleep 5 && maim /home/tasnuva/saved/screenshorts/$(date '+%y%m%d-%H%M-%S').png
+  284  h x-thought.md
+  285  rl
+  286  wget -T 9999 -c "https://s10.rapidgator.net/download/4cfbecda-430f-449f-9ca9-efebebfeb2fb"
+  287  lf
+  288  v
+  289  v
+  290  v
+  291  v
+  292  v
+  293  rl
+  294  v
+  295  v
+  296  v
+  297  v
+  298  v
+  299  v
+  300  v
+  301  v
+  302  v
+  303  v
+  304  v
+  305  h x-thought.md
+  306  cl
+  307  cl
+  308  v
+  309  sleep 5 && maim /home/tasnuva/saved/screenshorts/$(date '+%y%m%d-%H%M-%S').png
+  310  rl
+  311  lf
+  312  rl
+  313  co
+  314  sleep 3 && maim /home/tasnuva/saved/screenshorts/$(date +'%Y%m%d_%H%M%S').png
+  315  sleep 3 && maim /home/tasnuva/saved/screenshorts/$(date +'%Y%m%d_%H%M%S').png
+  316  rl
+  317  sleep 3 && maim /home/tasnuva/saved/screenshorts/$(date +'%Y%m%d_%H%M%S').png
+  318  sleep 3 && maim /home/tasnuva/saved/screenshorts/$(date +'%Y%m%d_%H%M%S').png
+  319  sleep 3 && maim /home/tasnuva/saved/screenshorts/$(date +'%Y%m%d_%H%M%S').png
+  320  sleep 3 && maim /home/tasnuva/saved/screenshorts/$(date +'%Y%m%d_%H%M%S').png
+  321  rl
+  322  sleep 1 && maim /home/tasnuva/saved/screenshorts/$(date +'%Y%m%d_%H%M%S').png
+  323  youtube "https://www.youtube.com/watch?v=JDoDWBpz7E8"
+  324  lf
+  325  cl
+  326  lf
+  327  lf
+  328  lf
+  329  cl
+  330  v
+  331  v
+  332  v
+  333  v
+  334  v
+  335  v
+  336  v
+  337  v
+  338  v
+  339  v
+  340  v
+  341  v
+  342  t 8m && mpv ./.local/bin/needed/cock.mp4
+  343  sleep 1 && maim /home/tasnuva/saved/screenshorts/$(date +'%Y%m%d_%H%M%S').png
+  344  pacman -S shellcheck
+  345  co
+  346  jsoem
+  347  j some
+  348  some
+  349  sleep 1 && maim /home/tasnuva/saved/screenshorts/$(date +'%Y%m%d_%H%M%S').png
+  350  rl
+  351  sleep 1 && maim /home/tasnuva/saved/screenshorts/$(date +'%Y%m%d_%H%M%S').png
+  352  v
+  353  rl
+  354  v
+  355  v
+  356  rl
+  357  sleep 1 && maim /home/tasnuva/saved/screenshorts/$(date +'%Y%m%d_%H%M%S').png
+  358  rl
+  359  v
+  360  v
+  361  rl
+  362  v
+  363  v
+  364  v
+  365  v
+  366  v
+  367  v
+  368  v
+  369  v
+  370  v
+  371  v
+  372  v
+  373  v
+  374  rl
+  375  v
+  376  v
+  377  ls
+  378  lf
+  379  lf
+  380  ./Amplenote-Desktop-1.0.19.AppImage --appimage-portable-home --appimage-portable-config 
+  381  lf
+  382  ./Amplenote-Desktop-1.0.19.AppImage
+  383  lf
+  384  lf
+  385  ./Amplenote-Desktop-1.0.19.AppImage
+  386  lf
+  387  lf
+  388  ./Amplenote\ Desktop-1.0.19.AppImage -appimage-portable-home --appimage-portable-config
+  389  ./Amplenote\ Desktop-1.0.19.AppImage
+  390  ./Amplenote\ Desktop-1.0.19.AppImage
+  391  ~
+  392  h x-thought.md
+  393  ./Amplenote\ Desktop-1.0.20.AppImage
+  394  ./Amplenote\ Desktop-1.0.20.AppImage
+  395  sleep 1 && maim /home/tasnuva/saved/screenshorts/$(date +'%Y%m%d_%H%M%S').png
+  396  cl
+  397  t
+  398  t
+  399  ./Amplenote\ Desktop-1.0.20.AppImage
+  400  man alacritty | bat -l man
+  401  man alacritty | bat -l man | nvim
+  402  man alacritty | bat -l man | helix
+  403  man alacritty | bat -l man
+  404  co
+  405  man alacritty
+  406  man alacritty
+  407  man alacritty
+  408  some alacritty
+  409  man alacritty
+  410  man alacritty
+  411  ./Amplenote\ Desktop-1.0.21.AppImage
+  412  lf
+  413  lf
+  414  ./Amplenote\ Desktop-1.0.21.AppImage
+  415  lf
+  416  co
+  417  lf
+  418  ./writing/Amplenote-Desktop-1.0.19.AppImage
+  419  ./Amplenote\ Desktop-1.0.21.AppImage
+  420  cl
+  421  h x-thought.md
+  422  yay amplenote
+  423  yay -S appimagelauncher\n
+  424  yu
+  425  yay -S appimagelauncher\n
+  426  appimagelauncherd
+  427  ./Amplenote\ Desktop-1.0.21.AppImage
+  428  appimagelauncherd
+  429  lf
+  430  ./Amplenote-Desktop-1.0.19.AppImage
+  431  ./Amplenote\ Desktop-1.0.21.AppImage
+  432  lf
+  433  lf
+  434  sudo useradd -m tasnuva2
+  435  sudo passwd tasnuva2
+  436  lf
+  437  su - tasnuva2
+  438  lf
+  439  dl
+  440  sudo lf
+  441  su - tasnuva2
+  442  h file
+  443  h file
+  444  sudo chmod +x file
+  445  su - tasnuva2
+  446  sudo chmod +x /home/tasnuva2/"Amplenote Desktop-1.0.21.AppImage"
+  447  h file
+  448  sudo chmod +x file
+  449  h file
+  450  ./file
+  451  ./file
+  452  lf
+  453  h file-2
+  454  ./file-2
+  455  h file-2
+  456  dl
+  457  sudo chmod +x ./"Amplenote Desktop-1.0.21.AppImage"
+  458  pwd
+  459  ./file-2
+  460  t
+  461  t 5m && mpv ./.local/bin/needed/cock.mp4
+  462  sudo chown tasnuva2:tasnuva2 ./Amplenote\ Desktop-1.0.21.AppImage
+  463  ./file-2
+  464  ./file-2
+  465  h file-2
+  466  sudo su - tasnuva2 -c "bash /home/tasnuva/Downloads/chrome-download/'Amplenote Desktop-1.0.21.AppImage'"
+  467  lf
+  468  sudo lf
+  469  sudo su - tasnuva2 -c "bash /usr/local/bin/'Amplenote Desktop-1.0.21.AppImage'"
+  470  # Run this as your main user\nsudo -u runner_account /usr/local/bin/'Amplenote Desktop-1.0.21.AppImage' --appimage-extract-and-run\n
+  471  sudo -u runner_account /usr/local/bin/'Amplenote Desktop-1.0.21.AppImage' --appimage-extract-and-run\n
+  472  sudo -u tasnuva2 /usr/local/bin/'Amplenote Desktop-1.0.21.AppImage' --appimage-extract-and-run\n
+  473  ./file-2
+  474  ~
+  475  h file-2
+  476  xhost +local:\n
+  477  # Provide the new user access to your Xauthority file\nsudo xauth add $(xauth list $DISPLAY)\nsudo -u tasnuva2 XAUTHORITY=$XAUTHORITY DISPLAY=$DISPLAY /usr/local/bin/'Amplenote Desktop-1.0.21.AppImage' --appimage-extract-and-run\n
+  478  sudo -u tasnuva2 DISPLAY=$DISPLAY XAUTHORITY=$HOME/.Xauthority /usr/local/bin/'Amplenote Desktop-1.0.21.AppImage' --appimage-extract-and-run\n
+  479  cd ./Downloads/chrome-download
+  480  ./Amplenote\ Desktop-1.0.21.AppImage -P
+  481  ~
+  482  reboot
+  483  sudo -u tasnuva DISPLAY=$DISPLAY XAUTHORITY=$HOME/.Xauthority /usr/local/bin/'Amplenote Desktop-1.0.21.AppImage' --appimage-extract-and-run\n
+  484  x86_64
+  485  yay xorg-xhost
+  486  h file
+  487  ./file
+  488  ..
+  489  ncdu ./
+  490  yc
+  491  df -h
+  492  h file-2
+  493  h file
+  494  df -h
+  495  lf
+  496  ncdu ./
+  497  df
+  498  df -h
+  499  df -h
+  500  ./file
+  501  h file-2
+  502  ./file-2
+  503  df -h
+  504  df -h
+  505  h x-thought.md
+  506  df -h
+  507  df -h
+  508  lf
+  509  df -h
+  510  df -h
+  511  lf
+  512  df -h
+  513  df -h
+  514  df -h
+  515  lf
+  516  df -h
+  517  df -h
+  518  df -h
+  519  cd ./Downloads/chrome-download
+  520  ./Amplenote\ Desktop-1.0.21.AppImage --no-sandbox
+  521  sudo pacman -S firejail
+  522  lf
+  523  dl
+  524  firejail --private=~/AppSandbox1 --appimage /home/tasnuva/writing/Amplenote\ Desktop-1.0.21.AppImage
+  525  ls -l ~/.Xauthority
+  526  chown tasnuva:tasnuva ~/.Xauthority
+  527  sudo chown tasnuva:tasnuva ~/.Xauthority
+  528  ls -l ~/.Xauthority
+  529  firejail --private=~/AppSandbox1 --appimage /home/tasnuva/writing/Amplenote\ Desktop-1.0.21.AppImage
+  530  firejail --noprofile --private=~/AppSandbox1 --appimage /home/tasnuva/writing/Amplenote\ Desktop-1.0.21.AppImage
+  531  firejail --private=~/AppSandbox1 --appimage /home/tasnuva/writing/Amplenote\ Desktop-1.0.21.AppImage
+  532  sudo firejail --private=~/AppSandbox1 --appimage /home/tasnuva/writing/Amplenote\ Desktop-1.0.21.AppImage
+  533  sudo firejail --appimage /home/tasnuva/writing/Amplenote\ Desktop-1.0.21.AppImage
+  534  firejail --noprofile --private=~/AppSandbox1 --appimage /home/tasnuva/writing/Amplenote\ Desktop-1.0.21.AppImage
+  535  firejail --noprofile --private=~/AppSandbox1 --appimage /home/tasnuva/writing/Amplenote\ Desktop-1.0.21.AppImage
+  536  firejail --noprofile --private=~/AppSandbox1 --appimage /home/tasnuva/writing/Amplenote\ Desktop-1.0.21.AppImage
+  537  firejail --noprofile --private=~/AppSandbox1 --appimage /home/tasnuva/writing/Amplenote\ Desktop-1.0.21.AppImage
+  538  v
+  539  v
+  540  sleep 1 && maim /home/tasnuva/saved/screenshorts/$(date +'%Y%m%d_%H%M%S').png
+  541  sleep 1 && maim /home/tasnuva/saved/screenshorts/$(date +'%Y%m%d_%H%M%S').png
+  542  sleep 1 && maim /home/tasnuva/saved/screenshorts/$(date +'%Y%m%d_%H%M%S').png
+  543  sleep 1 && maim /home/tasnuva/saved/screenshorts/$(date +'%Y%m%d_%H%M%S').png
+  544  sleep 1 && maim /home/tasnuva/saved/screenshorts/$(date +'%Y%m%d_%H%M%S').png
+  545  sleep 1 && maim /home/tasnuva/saved/screenshorts/$(date +'%Y%m%d_%H%M%S').png
+  546  sleep 1 && maim /home/tasnuva/saved/screenshorts/$(date +'%Y%m%d_%H%M%S').png
+  547  sleep 1 && maim /home/tasnuva/saved/screenshorts/$(date +'%Y%m%d_%H%M%S').png
+  548  lf
+  549  lf
+  550  dl
+  551  cl
+  552  dl
+  553  cl
+  554  rl
+  555  lf
+  556  cl
+  557  cl
+  558  rl
+  559  sleep 1 && maim /home/tasnuva/saved/screenshorts/$(date +'%Y%m%d_%H%M%S').png
+  560  sleep 1 && maim /home/tasnuva/saved/screenshorts/$(date +'%Y%m%d_%H%M%S').png
+  561  sleep 1 && maim /home/tasnuva/saved/screenshorts/$(date +'%Y%m%d_%H%M%S').png
+  562  sleep 1 && maim /home/tasnuva/saved/screenshorts/$(date +'%Y%m%d_%H%M%S').png
+  563  rl
+  564  dl
+  565  rl
+  566  t
+  567  t
+  568  t
+  569  t
+  570  rl
+  571  t
+  572  t
+  573  t
+  574  t
+  575  cl
+  576  cl
+  577  rl
+  578  lsblk
+  579  usb /dev/sda1
+  580  lf /run/media/tasnuva/SONY_USB
+  581  cl
+  582  co
+  583  usb-close-and
+  584  usb-close-and /dev/sda1
+  585  sudo umount /run/media/tasnuva/SONY_USB
+  586  sudo fuser -km /dev/sda1
+  587  sudo fuser -km /dev/sda1
+  588  sudo umount /run/media/tasnuva/SONY_USB
+  589  cl
+  590  cl
+  591  lf
+  592  fl
+  593  pwd
+  594  lf
+  595  lf
+  596  for dir in */; do\n\n    ln -s "$(pwd)/$dir" "/home/tasnuva/new/Focus/my-work/'1. Actual Task'/${dir%/}"\n\ndone
+  597  /home/tasnuva/new/Focus/my-work/'1. Actual Task'/
+  598  lf
+  599  lf
+  600  lf
+  601  for dir in */; do\n\n    ln -s "$(pwd)/$dir" "/home/tasnuva/new/Focus/my-work/1.-Actual-Task/${dir%/}"\n\ndone
+  602  lf
+  603  lf
+  604  lf
+  605  for dir in */; do\n\n    ln -s "$(pwd)/$dir" "/home/tasnuva/new/Focus/my-work/1.-Actual-Task/some/${dir%/}"\n\ndone
+  606  lf
+  607  for dir in */; do\n\n    ln -s "$(pwd)/$dir" "/home/tasnuva/new/Focus/my-work/1.-Actual-Task/some/${dir%/}"\n\ndone
+  608  lf
+  609  for dir in */; do\n\n    ln -s "$(pwd)/$dir" "/home/tasnuva/new/Focus/my-work/1.-Actual-Task/${dir%/}"\n\ndone
+  610  lf
+  611  for dir in */; do\n\n    ln -s "$(pwd)/$dir" "/home/tasnuva/new/Focus/my-work/1.-Actual-Task/some/${dir%/}"\n\ndone
+  612  lf
+  613  for dir in */; do\n\n    ln -s "$(pwd)/$dir" "/home/tasnuva/new/Focus/my-work/1.-Actual-Task/some/${dir%/}"\n\ndone
+  614  lf
+  615  for dir in */; do\n\n    ln -s "$(pwd)/$dir" "/home/tasnuva/new/Focus/my-work/1.-Actual-Task/some/${dir%/}"\n\ndone
+  616  lf
+  617  ~
+  618  ls
+  619  df -h
+  620  wget -T 9999 -c ""
+  621  wget -T 9999 "https://s117.rapidgator.net/download/ca4ee75d-c845-465f-9b2b-2d633c4e4cdf"
+  622  wget -T 9999 ""
+  623  wget -T 9999 "https://s117.rapidgator.net/download/ca4ee75d-c845-465f-9b2b-2d633c4e4cdf"
+  624  wget -T 9999 "https://s2.rapidgator.net/download/ac16b1fb-b70f-4312-865c-5d257bfc4c93"
+  625  lf
+  626  ./* | grep "AI image"
+  627  sudo ./* | grep "AI image"
+  628   grep "AI image"
+  629   grep "AI image" ./*
+  630   grep "AI" ./*
+  631   grep "AI" ./*/*
+  632   grep "AI search" ./*/*
+  633   grep "AI search" ./*
+  634   grep "AI images search" ./*
+  635   grep "AI images search" ./*/*
+  636  lf
+  637  h x-thought.md
+  638  ~
+  639  mv ./x-thought.md ./writing/Acual\ Notes/'2. some-notes.md'
+  640  lf
+  641  dl
+  642  lf
+  643  lf
+  644  dl
+  645  dl
+  646  cl
+  647  unrar x ./Udemy_Photographic_Memory_Train_Your_Brain_to_Remember_Anything_2025-8_Downloadly.ir.part1.rar
+  648  lf
+  649  ss
+  650  lf
+  651  ss
+  652  lf
+  653  ss
+  654  lf
+  655  for dir in */; do\n\n    ln -s "$(pwd)/$dir" "/home/tasnuva/new/Focus/my-work/1.-Actual-Task/some/${dir%/}"\n\ndone
+  656  lf
+  657  for dir in */; do\n\n    ln -s "$(pwd)/$dir" "/home/tasnuva/new/Focus/my-work/1.-Actual-Task/some/${dir%/}"\n\ndone
+  658  lf
+  659  for dir in */; do\n\n    ln -s "$(pwd)/$dir" "/home/tasnuva/new/Focus/my-work/1.-Actual-Task/some/${dir%/}"\n\ndone
+  660  lf
+  661  for dir in */; do\n\n    ln -s "$(pwd)/$dir" "/home/tasnuva/new/Focus/my-work/1.-Actual-Task/some/${dir%/}"\n\ndone
+  662  lf
+  663  for dir in */; do\n\n    ln -s "$(pwd)/$dir" "/home/tasnuva/new/Focus/my-work/1.-Actual-Task/some/${dir%/}"\n\ndone
+  664  lf
+  665  for dir in */; do\n\n    ln -s "$(pwd)/$dir" "/home/tasnuva/new/Focus/my-work/1.-Actual-Task/some/${dir%/}"\n\ndone
+  666  lf
+  667  for dir in */; do\n\n    ln -s "$(pwd)/$dir" "/home/tasnuva/new/Focus/my-work/1.-Actual-Task/some/${dir%/}"\n\ndone
+  668  lf
+  669  fl
+  670  cl
+  671  dl
+  672  rl
+  673  rl
+  674  v
+  675  v
+  676  dl
+  677  rl
+  678  v
+  679  v
+  680  v
+  681  dl
+  682  dl
+  683  dl
+  684  lf
+  685  clv
+  686  v
+  687  v
+  688  cl
+  689  dl
+  690  cl
+  691  ./writing/Amplenote\ Desktop-1.0.21.AppImage
+  692  h x-thought.md
+  693  lf
+  694  lf
+  695  sleep 1 && maim /home/tasnuva/saved/screenshorts/$(date +'%Y%m%d_%H%M%S').png
+  696  dl
+  697  lsblk
+  698  kindle-open
+  699  sudo lf
+  700  kindle-close
+  701  lsblk
+  702  lf
+  703  cl
+  704  ~
+  705  fl
+  706  fl
+  707  dl
+  708  v
+  709  fl
+  710  fl
+  711  fl
+  712  cl
+  713  cl
+  714  cl
+  715  cl]
+  716  cl
+  717  v
+  718  fl
+  719  sleep 1 && maim /home/tasnuva/saved/screenshorts/$(date +'%Y%m%d_%H%M%S').png
+  720  sleep 1 && maim /home/tasnuva/saved/screenshorts/$(date +'%Y%m%d_%H%M%S').png
+  721  sleep 1 && maim /home/tasnuva/saved/screenshorts/$(date +'%Y%m%d_%H%M%S').png
+  722  sleep 1 && maim /home/tasnuva/saved/screenshorts/$(date +'%Y%m%d_%H%M%S').png
+  723  cl
+  724  pl
+  725  fl
+  726  v
+  727  rl
+  728  h 20260222_040808 99 names - embodyment.mp4.md
+  729  lf
+  730  fl
+  731  cl
+  732  dl
+  733  dl
+  734  mv ./*.epub ./epub
+  735  lf
+  736  dl
+  737  dl
+  738  cl
+  739  cl
+  740  pwd
+  741  co
+  742  lf
+  743  pwd
+  744  l
+  745  bc
+  746  l
+  747  lf
+  748  dl
+  749  youtube "https://www.youtube.com/watch?v=jAl06e0ZqRE"
+  750  youtube-sub "https://www.youtube.com/watch?v=jAl06e0ZqRE"
+  751  youtube-sub "https://www.youtube.com/watch?v=jAl06e0ZqRE"
+  752  co
+  753  yt-dlp --skip-download --write-subs --write-auto-subs  --sub-lang ben --sub-format ttml --convert-subs srt -o '%(playlist_index)s-%(title)s.%(ext)s'
+  754  yt-dlp --skip-download --write-subs --write-auto-subs  --sub-lang ben --sub-format ttml --convert-subs srt -o '%(playlist_index)s-%(title)s.%(ext)s' "https://www.youtube.com/watch?v=jAl06e0ZqRE"
+  755  yt-dlp --skip-download --write-subs --write-auto-subs  --sub-lang ban --sub-format ttml --convert-subs srt -o '%(playlist_index)s-%(title)s.%(ext)s' "https://www.youtube.com/watch?v=jAl06e0ZqRE"
+  756  yt-dlp "https://www.youtube.com/watch?v=jAl06e0ZqRE" --list-subs
+  757  yt-dlp --skip-download --write-subs --write-auto-subs  --sub-lang bn-orig --sub-format ttml --convert-subs srt -o '%(playlist_index)s-%(title)s.%(ext)s' "https://www.youtube.com/watch?v=jAl06e0ZqRE"
+  758  co
+  759  lf
+  760  lf
+  761  lf
+  762  lf
+  763  lf
+  764  fl
+  765  t
+  766  dl
+  767  rl
+  768  t
+  769  t
+  770  t
+  771  t
+  772  cl
+  773  ll
+  774  l
+  775  t
+  776  l
+  777  fl
+  778  t 40m && mpv ./.local/bin/needed/cock.mp4
+  779  t 1h && mpv ./.local/bin/needed/cock.mp4
+  780  dl
+  781  cl
+  782  l
+  783  v
+  784  v
+  785  v
+  786  v
+  787  v
+  788  htop
+  789  l
+  790  cl
+  791  h x-thought.md
+  792  lf
+  793  lf
+  794  lf
+  795  ncdu ./
+  796  lf
+  797  ncdu ./
+  798  lf
+  799  history

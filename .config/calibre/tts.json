@@ -1,0 +1,9 @@
+{
+  "engine": "speechd",
+  "engines": {
+    "speechd": {
+      "output_module": "piper-tts-generic",
+      "rate": -0.7
+    }
+  }
+}

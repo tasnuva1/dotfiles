@@ -1,0 +1,15 @@
+#!/bin/bash
+# 1. Define the new username and the program to run
+NEW_USER="tasnuva2"
+# PROGRAM="/home/tasnuva2/'Amplenote Desktop-1.0.21.AppImage'"
+PROGRAM="/usr/local/bin/'Amplenote Desktop-1.0.21.AppImage'"
+
+
+# 2. Create the user non-interactively
+# -m creates home directory, -s sets the shell
+sudo useradd -m -s /bin/bash "$NEW_USER"
+
+# 3. Use su -c to run the program as the new user
+# The '-' flag ensures the user's environment is loaded
+sudo su - "$NEW_USER" -c "$PROGRAM"
+

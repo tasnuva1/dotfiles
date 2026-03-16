@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lineedit_history_choose_library_dialog</key>
+	<array>
+		<string>/home/tasnuva/Downloads/Calibre Library</string>
+	</array>
+	<key>lineedit_history_connect-to-folder</key>
+	<array>
+		<string>kind</string>
+	</array>
+	<key>lineedit_history_viewer-search-panel-expression</key>
+	<array>
+		<string>will you not use</string>
+		<string>power</string>
+		<string>novelty</string>
+		<string>novelty bias</string>
+		<string>strive</string>
+		<string>saff</string>
+		<string>ahqaf</string>
+		<string>najm</string>
+		<string>Association</string>
+		<string>AoA</string>
+		<string>Memorandum</string>
+		<string>Formation</string>
+		<string>PERSISTENCE</string>
+		<string>discipline</string>
+		<string>lack of pro</string>
+		<string>lack of p</string>
+	</array>
+</dict>
+</plist>

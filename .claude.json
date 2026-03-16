@@ -1,0 +1,31 @@
+{
+  "cachedStatsigGates": {
+    "tengu_prompt_suggestion": true
+  },
+  "cachedGrowthBookFeatures": {
+    "tengu_1p_event_batch_config": {
+      "scheduledDelayMillis": 5000,
+      "maxExportBatchSize": 200,
+      "maxQueueSize": 8192
+    },
+    "tengu_mcp_tool_search": false,
+    "tengu_scratch": false,
+    "tengu_disable_bypass_permissions_mode": false,
+    "tengu_log_segment_events": false,
+    "tengu_log_datadog_events": true,
+    "tengu_event_sampling_config": {},
+    "tengu_tool_pear": false,
+    "tengu_thinkback": false,
+    "tengu_tool_search_unsupported_models": [
+      "haiku"
+    ],
+    "tengu_ant_attribution_header_new": true,
+    "enhanced_telemetry_beta": false
+  },
+  "userID": "92579ab5553d1ce4b1776b29a546b11942afdfe43a3f06522697b8a67257be95",
+  "firstStartTime": "2026-01-27T03:23:08.161Z",
+  "sonnet45MigrationComplete": true,
+  "opus45MigrationComplete": true,
+  "opusProMigrationComplete": true,
+  "thinkingMigrationComplete": true
+}

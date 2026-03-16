@@ -1,0 +1,243 @@
+{
+  "check-book-splitter-state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAAARgAAAEYA/////wEAAAABAA=="
+  },
+  "custom_colors_for_color_dialog": [
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ]
+  ],
+  "find-widget-state": {
+    "case_sensitive": false,
+    "direction": "down",
+    "dot_all": false,
+    "mode": "normal",
+    "where": "current",
+    "wrap": true
+  },
+  "geometry-of-import-foreign-geometry": {
+    "frame_geometry": {
+      "height": 176,
+      "width": 508,
+      "x": 706,
+      "y": 452
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 170,
+      "width": 502,
+      "x": 709,
+      "y": 455
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 170,
+      "width": 502,
+      "x": 709,
+      "y": 455
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAALCAAABxAAABL0AAAJzAAACxQAAAccAAAS6AAACcAAAAAAAAAAAB4AAAALFAAABxwAABLoAAAJw"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Hikom Co., Ltd.",
+      "model": "21.45 Monitor",
+      "name": "HDMI-1",
+      "serial": "0000000000001",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-main_window_geometry": {
+    "frame_geometry": {
+      "height": 1050,
+      "width": 1920,
+      "x": 0,
+      "y": 30
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 1044,
+      "width": 1914,
+      "x": 3,
+      "y": 33
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 1044,
+      "width": 1914,
+      "x": 3,
+      "y": 33
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAAAAAAHgAAB38AAAQ3AAAAAwAAACEAAAd8AAAENAAAAAAAAAAAB4AAAAADAAAAIQAAB3wAAAQ0"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Hikom Co., Ltd.",
+      "model": "21.45 Monitor",
+      "name": "HDMI-1",
+      "serial": "0000000000001",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAD9AAAABAAAAAAAAAClAAADw/wCAAAABfsAAAAkAGYAaQBsAGUAcwAtAGIAcgBvAHcAcwBlAHIALQBkAG8AYwBrAQAAADsAAAPDAAAAVwD////7AAAAHgB0AG8AYwAtAHYAaQBlAHcAZQByAC0AZABvAGMAawAAAAAA/////wAAAFcA////+wAAACAAdABlAHgAdAAtAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAA/////wAAAHEA////+wAAACAAYwBoAGUAYwBrAHAAbwBpAG4AdABzAC0AZABvAGMAawAAAAAA/////wAAAIcA////+wAAACYAcwBhAHYAZQBkAC0AcwBlAGEAcgBjAGgAZQBzAC0AZABvAGMAawAAAAAA/////wAAAegA////AAAAAQAAAiUAAAPD/AIAAAAC+wAAABgAcAByAGUAdgBpAGUAdwAtAGQAbwBjAGsBAAAAOwAAA8MAAABNAP////sAAAAaAGwAaQB2AGUALQBjAHMAcwAtAGQAbwBjAGsAAAAAAP////8AAABXAP///wAAAAIAAAAAAAAAAPwBAAAAAfsAAAAeAGMAaABlAGMAawAtAGIAbwBvAGsALQBkAG8AYwBrAAAAAAD/////AAAAkAD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABpAG4AcwBwAGUAYwB0AG8AcgAtAGQAbwBjAGsAAAAAAP////8AAAAyAP///wAABKQAAAPDAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAUAGcAbABvAGIAYQBsAC0AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAC0AYgBhAHIBAAABJv////8AAAAAAAAAAAAAABYAcABsAHUAZwBpAG4AcwAtAGIAYQByAAAAAAD/////AAAAAAAAAAA="
+  },
+  "recent-books": [
+    "/home/tasnuva/Downloads/chrome-download/As a Man thinked_Out from the Heart-Bengali.epub",
+    "/home/tasnuva/Downloads/chrome-download/Copy of Notes.epub",
+    "/home/tasnuva/Downloads/chrome-download/NEXT-PRESENTER.epub",
+    "/home/tasnuva/Downloads/chrome-download/Feel-Good Productivity (Ali Abdaal) (Z-Library).epub",
+    "/home/tasnuva/History of Bangladesh (4).epub",
+    "/home/tasnuva/Downloads/Basic Democracy.docx.epub",
+    "/home/tasnuva/Downloads/Notes (1).epub",
+    "/home/tasnuva/ব্যাকরণিক শব্দশ্রেণি-2.epub",
+    "/home/tasnuva/Downloads/Instagram/Outline-Business.epub",
+    "/home/tasnuva/Downloads/The Muslim Mindset Practical Lessons in Achieving a Positive Mental Attitude (Khalil, Zakia) (Z-Library).epub"
+  ],
+  "reports-ui-state": {},
+  "saved_seaches_state": {
+    "direction": "down",
+    "where": "current",
+    "wrap": true
+  },
+  "search-panel-visible": false,
+  "text_search_widget_state": {
+    "case_sensitive": false,
+    "dot_all": true,
+    "mode": "normal",
+    "where": "current"
+  }
+}

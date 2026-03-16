@@ -1,0 +1,26 @@
+#!/bin/bash
+
+# Get connected monitors
+monitors=($(xrandr | grep " connected" | cut -d" " -f1))
+
+# Primary monitor
+primary=${monitors[0]}
+secondary=${monitors[1]}
+
+if [ -z "$secondary" ]; then
+    echo "Only one monitor detected. Nothing to mirror."
+    exit 1
+fi
+
+# Check if secondary is currently in mirror mode
+is_mirrored=$(xrandr --verbose | grep -A1 "^$secondary" | grep -q "$primary" && echo true)
+
+if [ "$is_mirrored" = "true" ]; then
+    echo "Unmirroring monitors..."
+    xrandr --output "$secondary" --off
+else
+    echo "Mirroring $secondary to $primary..."
+    resolution=$(xrandr | grep -A1 "^$primary" | tail -n1 | awk '{print $1}')
+    xrandr --output "$secondary" --mode "$resolution" --same-as "$primary"
+fi
+

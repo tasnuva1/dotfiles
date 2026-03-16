@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Daily Routine</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+      background-color: #fdfdfd;
+      color: #000;
+      margin: 40px;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: auto;
+      border: 2px solid #000;
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    h1 {
+      font-size: 2em;
+      margin-bottom: 0;
+    }
+
+    h2 {
+      font-size: 1em;
+      font-weight: normal;
+      color: #333;
+      margin-top: 0;
+    }
+
+    .schedule-row {
+      display: grid;
+      grid-template-columns: 1.7fr 5fr 1fr;
+      align-items: top;
+      border-bottom: 1px solid #000;
+      padding: 8px 0;
+    }
+
+    .time {
+      font-weight: 700;
+      color: #000;
+    }
+
+    .activity {
+      color: #111;
+    }
+
+    .sub-activity {
+      color: #111;
+      padding: 0 0 0 38px;
+      margin: 5px;
+    }
+
+    .duration {
+      text-align: right;
+      background-color: #ffeb3b;
+      color: #000;
+      font-weight: 700;
+      padding: 2px 8px;
+      border-radius: 4px;
+      align-self: start;
+    }
+
+    .summary-box {
+      border: 2px solid #000;
+      padding: 15px;
+      background-color: #f7f7f7;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .summary-title {
+      font-weight: 700;
+      color: #000;
+      margin-bottom: 6px;
+    }
+
+    .summary-item {
+      display: flex;
+      justify-content: space-between;
+      font-weight: 400;
+      color: #111;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <h1>Daily Routine</h1>
+    <h2>Alhamdulillah · Spiritual & Productivity Integration</h2>
+
+    <div class="schedule-row">
+      <div class="time">5:05 am – 5:25 am</div>
+      <div class="activity">Fajr Prayer & Short Reflection</div>
+      <div class="duration">20m</div>
+    </div>
+    <div class="schedule-row">
+      <div class="time">5:25 am – 5:55 am</div>
+      <div class="activity">Stretching / Mobility</div>
+      <div class="duration">30m</div>
+    </div>
+    <div class="schedule-row">
+      <div class="time">5:55 am – 6:17 am</div>
+      <div class="activity">Quran Recitation</div>
+      <div class="duration">22m</div>
+    </div>
+    <div class="schedule-row">
+      <div class="time">6:17 am – 6:45 am</div>
+      <div class="activity">Ishraq Prayer & Fresh Start & Breakfast</div>
+      <div class="duration">28m</div>
+    </div>
+    <div class="schedule-row">
+      <div class="time">6:45 am – 7:30 am</div>
+      <div class="activity">Inner Development – Morning Session
+        <div class="sub-activity">Seerah of Prophet · mindfulness sit · morality reflection · awareness of mind</div>
+      </div>
+      <div class="duration">45m</div>
+    </div>
+    <div class="schedule-row">
+      <div class="time">7:30 am – 9:30 am</div>
+      <div class="activity">Creating software:
+        <div class="sub-activity">Creating utility</div>
+        <div class="sub-activity">Creating chrome extension</div>
+      </div>
+      <div class="duration">2h</div>
+    </div>
+    <div class="schedule-row">
+      <div class="time">9:30 am – 9:45 am</div>
+      <div class="activity">Active Break
+        <div class="sub-activity">Walk outside, water, eyes off screen</div>
+      </div>
+      <div class="duration">15m</div>
+    </div>
+    <div class="schedule-row">
+      <div class="time">9:45 am – 11:15 am</div>
+      <div class="activity">Creating software:
+        <div class="sub-activity">Creating utility</div>
+        <div class="sub-activity">Creating chrome extension</div>
+      </div>
+      <div class="duration">1h 30m</div>
+    </div>
+    <div class="schedule-row">
+      <div class="time">11:15 am – 12:10 pm</div>
+      <div class="activity">Creating software:
+        <div class="sub-activity">Creating software — Learning</div>
+      </div>
+      <div class="duration">55m</div>
+    </div>
+    <div class="schedule-row">
+      <div class="time">12:10 pm – 12:35 pm</div>
+      <div class="activity">Dhuhr Prayer & Midday Grounding</div>
+      <div class="duration">25m</div>
+    </div>
+    <div class="schedule-row">
+      <div class="time">12:35 pm – 1:35 pm</div>
+      <div class="activity">Creating software:
+        <div class="sub-activity">Creating software — Learning</div>
+      </div>
+      <div class="duration">1h</div>
+    </div>
+    <div class="schedule-row">
+      <div class="time">1:35 pm – 3:00 pm</div>
+      <div class="activity">Creating software:
+        <div class="sub-activity">Creating utility</div>
+        <div class="sub-activity">Creating chrome extension</div>
+      </div>
+      <div class="duration">1h 25m</div>
+    </div>
+    <div class="schedule-row">
+      <div class="time">3:00 pm – 3:31 pm</div>
+      <div class="activity">Quran Study</div>
+      <div class="duration">31m</div>
+    </div>
+    <div class="schedule-row">
+      <div class="time">3:31 pm – 3:51 pm</div>
+      <div class="activity">Asr Prayer & Afternoon Dhikr</div>
+      <div class="duration">20m</div>
+    </div>
+    <div class="schedule-row">
+      <div class="time">3:51 pm – 4:51 pm</div>
+      <div class="activity">Inner Development
+        <div class="sub-activity">Seerah of Prophet, Intentional conversations, practice empathy & clarity</div>
+      </div>
+      <div class="duration">1h</div>
+    </div>
+    <div class="schedule-row">
+      <div class="time">4:51 pm – 6:04 pm</div>
+      <div class="activity">Quran Evening Study / Time</div>
+      <div class="duration">1h 13m</div>
+    </div>
+    <div class="schedule-row">
+      <div class="time">6:04 pm – 6:32 pm</div>
+      <div class="activity">Maghrib Prayer & Evening Adhkar</div>
+      <div class="duration">28m</div>
+    </div>
+    <div class="schedule-row">
+      <div class="time">6:32 pm – 7:15 pm</div>
+      <div class="activity">Inner Development / Time
+      </div>
+      <div class="duration">43m</div>
+    </div>
+    <div class="schedule-row">
+      <div class="time">7:15 pm – 7:42 pm</div>
+      <div class="activity">Isha Prayer & Night Reflection</div>
+      <div class="duration">27m</div>
+    </div>
+    <div class="schedule-row">
+      <div class="time">7:42 pm – 8:42 pm</div>
+      <div class="activity">Creating software:
+        <div class="sub-activity">Creating software — Learning</div>
+      </div>
+      <div class="duration">1h</div>
+    </div>
+    <div class="schedule-row">
+      <div class="time">8:42 pm – 9:15 pm</div>
+      <div class="activity">Inner Development
+        <div class="sub-activity">Mindful Wind-Down, Gratitude list, tomorrow's 3 intentions</div>
+      </div>
+      <div class="duration">33m</div>
+    </div>
+    <div class="schedule-row">
+      <div class="time">9:15 pm – 10:00 pm</div>
+      <div class="activity">Sleep Preparation & Wind-Down</div>
+      <div class="duration">45m</div>
+    </div>
+
+    <div class="summary-box">
+      <div class="summary-title">Total Allocated Time</div>
+      <div class="summary-item"><span>Prayer & Dhikr</span><span>1h 20m</span></div>
+      <div class="summary-item"><span>Quran Study</span><span>2h 6m</span></div>
+      <div class="summary-item"><span>Stretching</span><span>30m</span></div>
+      <div class="summary-item"><span>Creating software</span><span>4h 55m</span></div>
+      <div class="summary-item"><span>Creating software — Learning</span><span>2h 55m</span></div>
+      <div class="summary-item"><span>Inner Development</span><span>3h 1m</span></div>
+      <div class="summary-item"><span><strong>Total</strong></span><span><strong>14h 47m</strong></span></div>
+    </div>
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,53 @@
+{
+  "geometry-of-toc_editor_window_geom": {
+    "frame_geometry": {
+      "height": 606,
+      "width": 906,
+      "x": 2427,
+      "y": 237
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 600,
+      "width": 900,
+      "x": 2430,
+      "y": 240
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 600,
+      "width": 900,
+      "x": 2430,
+      "y": 240
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAl7AAAA7QAADQQAAANKAAAJfgAAAPAAAA0BAAADRwAAAAEAAAAAB4AAAAl+AAAA8AAADQEAAANH"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 1920,
+        "y": 0
+      },
+      "index_in_screens_list": 1,
+      "manufacturer": "Hikom Co., Ltd.",
+      "model": "21.45 Monitor",
+      "name": "HDMI-1",
+      "serial": "0000000000001",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 3840,
+        "x": 0,
+        "y": 0
+      }
+    }
+  }
+}

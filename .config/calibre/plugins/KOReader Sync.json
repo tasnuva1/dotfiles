@@ -1,0 +1,16 @@
+{
+  "checkbox_no_sync_if_finished": false,
+  "checkbox_sync_if_more_recent": false,
+  "column_bookmarks": "#bookmarks_and_highlights",
+  "column_date_sidecar_modified": "#contents_metadata_modified_date",
+  "column_date_synced": "#last_sync",
+  "column_last_read_location": "#last_stopped_reading_location",
+  "column_md5": "#sync_hash",
+  "column_percent_read": "#current_read_percent",
+  "column_percent_read_int": "#current_percent_read",
+  "column_rating": "rating",
+  "column_review": "#review",
+  "column_sidecar": "#contents_metadata",
+  "column_status": "#status",
+  "column_status_bool": "#reading_or_not"
+}

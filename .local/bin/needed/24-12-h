@@ -1,0 +1,31 @@
+#!/bin/bash
+
+# Check if an argument is provided
+if [ $# -ne 1 ]; then
+    echo "Usage: $0 \"HH:MM\""
+    exit 1
+fi
+
+# Extract the input time
+time_24h="$1"
+
+# Validate the input format (HH:MM)
+if ! [[ $time_24h =~ ^([01]?[0-9]|2[0-3]):[0-5][0-9]$ ]]; then
+    echo "Invalid time format. Please use HH:MM (24-hour format)."
+    exit 1
+fi
+
+# Parse hours and minutes
+hours=${time_24h%:*}
+minutes=${time_24h#*:}
+
+# Convert hours to 12-hour format
+if [ "$hours" -eq 0 ]; then
+    hours=12
+elif [ "$hours" -gt 12 ]; then
+    hours=$((hours - 12))
+fi
+
+# Output the time in simplified 12-hour format
+echo "$hours:$minutes"
+

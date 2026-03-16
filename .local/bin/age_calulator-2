@@ -1,0 +1,76 @@
+#!/bin/bash
+
+# how many month has passed that many number of month, days left because it assumes all months have 30 days, which isn't accurate.
+# Function to calculate the difference between two dates accurately
+calculate_age() {
+    birth_date="$1"
+    current_date=$(date +"%Y-%m-%d %H:%M:%S")
+
+    # Calculate the total time difference using date and subtract to find elapsed time
+    years=$(($(date -d "$current_date" +%Y) - $(date -d "$birth_date" +%Y)))
+    birth_month_day=$(date -d "$birth_date + $years years" +"%m%d")
+    current_month_day=$(date -d "$current_date" +"%m%d")
+
+    # Adjust the year if the current date is before the birth date in the current year
+    if [ "$current_month_day" -lt "$birth_month_day" ]; then
+        years=$((years - 1))
+    fi
+
+    # Calculate the time difference (in days, hours, minutes, seconds)
+    current_timestamp=$(date -d "$current_date" +%s)
+    adjusted_birthdate=$(date -d "$birth_date + $years years" +"%Y-%m-%d %H:%M:%S")
+    adjusted_timestamp=$(date -d "$adjusted_birthdate" +%s)
+    time_diff=$((current_timestamp - adjusted_timestamp))
+
+    # Calculate the months, days, hours, minutes, and seconds from the time_diff
+    months=$(( (time_diff / 86400) / 30 )) # Estimate of month (approx)
+    remaining_days=$(( (time_diff / 86400) % 30 )) # Days remaining
+    hours=$(( (time_diff % 86400) / 3600 ))
+    minutes=$(( (time_diff % 3600) / 60 ))
+    seconds=$((time_diff % 60))
+
+    # Print the precise age
+    echo "$years years, $months months, $remaining_days days, $hours hours, $minutes minutes, and $seconds seconds"
+}
+
+# Function for countdown/incrementing age display
+countdown_increment() {
+    birth_date="$1"
+    echo "Press Ctrl+C to stop the countdown."
+
+    while true; do
+        # Clear the screen
+        clear
+
+        # Calculate and display the updated age
+        echo "Age: $(calculate_age "$birth_date")"
+
+        # Wait for 1 second and then update
+        sleep 1
+    done
+}
+
+# Main script
+
+# Input validation
+if [ "$#" -ne 3 ]; then
+    echo "Usage: $0 <birth_day> <birth_month> <birth_year>"
+    exit 1
+fi
+
+birth_day="$1"
+birth_month="$2"
+birth_year="$3"
+
+# Combine birth date into a single string
+birth_date="$birth_year-$birth_month-$birth_day"
+
+# Check if the input date is valid
+if ! date -d "$birth_date" &> /dev/null; then
+    echo "Invalid date. Please enter a valid birth date."
+    exit 1
+fi
+
+# Start the countdown/incrementing display
+countdown_increment "$birth_date"
+

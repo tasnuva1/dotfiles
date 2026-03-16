@@ -1,0 +1,74 @@
+#!/bin/bash
+
+# Function to calculate the difference between two dates
+calculate_age() {
+    birth_date="$1"
+    current_date=$(date +"%Y-%m-%d %H:%M:%S")
+
+    # Convert birth date and current date into seconds
+    birth_seconds=$(date -d "$birth_date" +%s)
+    current_seconds=$(date -d "$current_date" +%s)
+
+    # Calculate the difference in seconds
+    diff_seconds=$((current_seconds - birth_seconds))
+
+    # Calculate years, months, days, hours, minutes, seconds
+    years=$((diff_seconds / 31536000))   # 1 year = 365 days
+    remaining_seconds=$((diff_seconds % 31536000))
+
+    months=$((remaining_seconds / 2592000))  # 1 month = 30 days
+    remaining_seconds=$((remaining_seconds % 2592000))
+
+    days=$((remaining_seconds / 86400))      # 1 day = 24 hours
+    remaining_seconds=$((remaining_seconds % 86400))
+
+    hours=$((remaining_seconds / 3600))      # 1 hour = 60 minutes
+    remaining_seconds=$((remaining_seconds % 3600))
+
+    minutes=$((remaining_seconds / 60))      # 1 minute = 60 seconds
+    seconds=$((remaining_seconds % 60))
+
+    echo "$years years, $months months, $days days, $hours hours, $minutes minutes, and $seconds seconds"
+}
+
+# Function for countdown/incrementing age display
+countdown_increment() {
+    birth_date="$1"
+    echo "Press Ctrl+C to stop the countdown."
+
+    while true; do
+        # Clear the screen
+        clear
+
+        # Calculate and display the updated age
+        echo "Age: $(calculate_age "$birth_date")"
+
+        # Wait for 1 second and then update
+        sleep 1
+    done
+}
+
+# Main script
+
+# Input validation
+if [ "$#" -ne 3 ]; then
+    echo "Usage: $0 <birth_day> <birth_month> <birth_year>"
+    exit 1
+fi
+
+birth_day="$1"
+birth_month="$2"
+birth_year="$3"
+
+# Combine birth date into a single string
+birth_date="$birth_year-$birth_month-$birth_day"
+
+# Check if the input date is valid
+if ! date -d "$birth_date" &> /dev/null; then
+    echo "Invalid date. Please enter a valid birth date."
+    exit 1
+fi
+
+# Start the countdown/incrementing display
+countdown_increment "$birth_date"
+

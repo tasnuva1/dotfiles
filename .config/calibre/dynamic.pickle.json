@@ -1,0 +1,42 @@
+{
+  "annots-export-save": "/home/tasnuva",
+  "catalogs_to_be_synced": {
+    "__class__": "set",
+    "__value__": []
+  },
+  "choose calibre library": "/home/tasnuva",
+  "choose library location": "/home/tasnuva/Downloads/Calibre Library",
+  "database location dialog": "/home/tasnuva/Downloads",
+  "notified-version-updates": {
+    "__class__": "set",
+    "__value__": [
+      "8.8",
+      "8.16",
+      "8.2",
+      "8.3",
+      "8.4",
+      "9.4"
+    ]
+  },
+  "recursive book import root dir dialog": "/home/tasnuva/Downloads/new/book on critical thinking",
+  "save to disk dialog": "/home/tasnuva/Downloads",
+  "sort_history": [
+    [
+      "title",
+      true
+    ],
+    [
+      "#contents_metadata",
+      false
+    ],
+    [
+      "#bookmarks_and_highlights",
+      false
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "welcome_wizard_was_run": true
+}
