@@ -64,7 +64,7 @@ alias \
 	tf="timetrace create record make-coffee today 07:00 08:30" \
 	yu="yay -Syu" \
 	yc="yay -Sc; yay -Yc" \
-	yl="sudo pacman -Qi | egrep '^(Name|Installed)' | cut -f2 -d':' | paste - - | column -t | sort -nrk 2 | grep MiB | less && touch list-all-programs.txt && >> list-all-programs.txt" \
+	yl="sudo pacman -Qi | egrep '^(Name|Installed)' | cut -f2 -d':' | paste - - | column -t | sort -nrk 2 | grep MiB | less" \
 	yr="yay -Rns" \
 	youtube="yt-dlp --socket-timeout 60 --embed-chapters --format 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best' --write-sub --sub-lang en -i -o '%(playlist)s/%(playlist_index)s- %(title)s.%(ext)s'" \
 	youtube-sub="yt-dlp --skip-download --write-subs --write-auto-subs  --sub-lang en --sub-format ttml --convert-subs srt -o '%(playlist_index)s-%(title)s.%(ext)s'" \
